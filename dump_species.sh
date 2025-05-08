@@ -39,6 +39,7 @@ set -e  # Exit on error
 # Default filenames
 YAML_OUTPUT="${DEX_DIR}/species.yaml"
 JSON_OUTPUT="${DEX_DIR}/species.json"
+FIXED_JSON_OUTPUT="${JSON_OUTPUT%.json}Fixed.json"
 
 # Parse command-line arguments
 if [ $# -ge 1 ]; then
@@ -88,6 +89,20 @@ fi
 # Convert YAML to JSON
 yq . "$YAML_OUTPUT" -j > "$JSON_OUTPUT"
 
-echo "Data generation complete."
-echo "YAML data saved to: $YAML_OUTPUT"
-echo "JSON data saved to: $JSON_OUTPUT"
+# Check if fixjson.py exists
+FIXJSON_SCRIPT="${DEX_DIR}/fixjson.py"
+FORMS_JSON="${DEX_DIR}/forms.json"
+
+if [ -f "$FIXJSON_SCRIPT" ]; then
+    echo "Running fixjson.py to improve JSON format..."
+    
+    # Check if forms.json exists
+    if [ -f "$FORMS_JSON" ]; then
+        python "$FIXJSON_SCRIPT" "$JSON_OUTPUT" "$FIXED_JSON_OUTPUT" "$FORMS_JSON"
+    else
+        echo "Warning: forms.json not found at ${FORMS_JSON}. Running fixjson without forms data."
+        python "$FIXJSON_SCRIPT" "$JSON_OUTPUT" "$FIXED_JSON_OUTPUT"
+    fi
+else
+    echo "Warning: fixjson.py not found at ${FIXJSON_SCRIPT}. Skipping JSON fixing step."
+fi

@@ -1,0 +1,3342 @@
+{
+  "3": {
+    "name": "Venusaur",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      },
+      {
+        "index": 2,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "6": {
+    "name": "Charizard",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega-X"
+      },
+      {
+        "index": 2,
+        "form": "Mega-Y"
+      },
+      {
+        "index": 3,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "9": {
+    "name": "Blastoise",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      },
+      {
+        "index": 2,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "12": {
+    "name": "Butterfree",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "15": {
+    "name": "Beedrill",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "18": {
+    "name": "Pidgeot",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "19": {
+    "name": "Rattata",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "20": {
+    "name": "Raticate",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      },
+      {
+        "index": 2,
+        "form": "Alola-Totem"
+      }
+    ]
+  },
+  "172": {
+    "name": "Pichu",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Spiky-Eared"
+      }
+    ]
+  },
+  "25": {
+    "name": "Pikachu",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Cosplay"
+      },
+      {
+        "index": 2,
+        "form": "Rock-Star"
+      },
+      {
+        "index": 3,
+        "form": "Belle"
+      },
+      {
+        "index": 4,
+        "form": "Pop-Star"
+      },
+      {
+        "index": 5,
+        "form": "Phd"
+      },
+      {
+        "index": 6,
+        "form": "Libre"
+      },
+      {
+        "index": 7,
+        "form": "Original"
+      },
+      {
+        "index": 8,
+        "form": "Hoenn"
+      },
+      {
+        "index": 9,
+        "form": "Sinnoh"
+      },
+      {
+        "index": 10,
+        "form": "Unova"
+      },
+      {
+        "index": 11,
+        "form": "Kalos"
+      },
+      {
+        "index": 12,
+        "form": "Alola"
+      },
+      {
+        "index": 13,
+        "form": "Partner"
+      },
+      {
+        "index": 14,
+        "form": "World"
+      },
+      {
+        "index": 15,
+        "form": "Gmax"
+      },
+      {
+        "index": 16,
+        "form": "Starter"
+      }
+    ]
+  },
+  "26": {
+    "name": "Raichu",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "27": {
+    "name": "Sandshrew",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "28": {
+    "name": "Sandslash",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "37": {
+    "name": "Vulpix",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "38": {
+    "name": "Ninetales",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "50": {
+    "name": "Diglett",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "51": {
+    "name": "Dugtrio",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "52": {
+    "name": "Meowth",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      },
+      {
+        "index": 2,
+        "form": "Galar"
+      },
+      {
+        "index": 3,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "53": {
+    "name": "Persian",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "58": {
+    "name": "Growlithe",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "59": {
+    "name": "Arcanine",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "65": {
+    "name": "Alakazam",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "68": {
+    "name": "Machamp",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "74": {
+    "name": "Geodude",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "75": {
+    "name": "Graveler",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "76": {
+    "name": "Golem",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "77": {
+    "name": "Ponyta",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "78": {
+    "name": "Rapidash",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "79": {
+    "name": "Slowpoke",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "80": {
+    "name": "Slowbro",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      },
+      {
+        "index": 2,
+        "form": "Galar"
+      }
+    ]
+  },
+  "199": {
+    "name": "Slowking",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "83": {
+    "name": "Farfetchd",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "88": {
+    "name": "Grimer",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "89": {
+    "name": "Muk",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "94": {
+    "name": "Gengar",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      },
+      {
+        "index": 2,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "208": {
+    "name": "Steelix",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "99": {
+    "name": "Kingler",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "100": {
+    "name": "Voltorb",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "101": {
+    "name": "Electrode",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "103": {
+    "name": "Exeggutor",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      }
+    ]
+  },
+  "105": {
+    "name": "Marowak",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Alola"
+      },
+      {
+        "index": 2,
+        "form": "Alola-Totem"
+      }
+    ]
+  },
+  "110": {
+    "name": "Weezing",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "115": {
+    "name": "Kangaskhan",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "122": {
+    "name": "MrMime",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "212": {
+    "name": "Scizor",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "127": {
+    "name": "Pinsir",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "128": {
+    "name": "Tauros",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Paldea-Combat"
+      },
+      {
+        "index": 2,
+        "form": "Paldea-Blaze"
+      },
+      {
+        "index": 3,
+        "form": "Paldea-Aqua"
+      }
+    ]
+  },
+  "130": {
+    "name": "Gyarados",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "131": {
+    "name": "Lapras",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "133": {
+    "name": "Eevee",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      },
+      {
+        "index": 2,
+        "form": "Starter"
+      }
+    ]
+  },
+  "142": {
+    "name": "Aerodactyl",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "143": {
+    "name": "Snorlax",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "144": {
+    "name": "Articuno",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "145": {
+    "name": "Zapdos",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "146": {
+    "name": "Moltres",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "150": {
+    "name": "Mewtwo",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega-X"
+      },
+      {
+        "index": 2,
+        "form": "Mega-Y"
+      }
+    ]
+  },
+  "157": {
+    "name": "Typhlosion",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "181": {
+    "name": "Ampharos",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "194": {
+    "name": "Wooper",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Paldea"
+      }
+    ]
+  },
+  "201": {
+    "name": "Unown",
+    "forms": [
+      {
+        "index": 1,
+        "form": "B"
+      },
+      {
+        "index": 2,
+        "form": "C"
+      },
+      {
+        "index": 3,
+        "form": "D"
+      },
+      {
+        "index": 4,
+        "form": "E"
+      },
+      {
+        "index": 5,
+        "form": "F"
+      },
+      {
+        "index": 6,
+        "form": "G"
+      },
+      {
+        "index": 7,
+        "form": "H"
+      },
+      {
+        "index": 8,
+        "form": "I"
+      },
+      {
+        "index": 9,
+        "form": "J"
+      },
+      {
+        "index": 10,
+        "form": "K"
+      },
+      {
+        "index": 11,
+        "form": "L"
+      },
+      {
+        "index": 12,
+        "form": "M"
+      },
+      {
+        "index": 13,
+        "form": "N"
+      },
+      {
+        "index": 14,
+        "form": "O"
+      },
+      {
+        "index": 15,
+        "form": "P"
+      },
+      {
+        "index": 16,
+        "form": "Q"
+      },
+      {
+        "index": 17,
+        "form": "R"
+      },
+      {
+        "index": 18,
+        "form": "S"
+      },
+      {
+        "index": 19,
+        "form": "T"
+      },
+      {
+        "index": 20,
+        "form": "U"
+      },
+      {
+        "index": 21,
+        "form": "V"
+      },
+      {
+        "index": 22,
+        "form": "W"
+      },
+      {
+        "index": 23,
+        "form": "X"
+      },
+      {
+        "index": 24,
+        "form": "Y"
+      },
+      {
+        "index": 25,
+        "form": "Z"
+      },
+      {
+        "index": 26,
+        "form": "Exclamation"
+      },
+      {
+        "index": 27,
+        "form": "Question"
+      }
+    ]
+  },
+  "1373": {
+    "name": "Dudunsparce",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Two-Segment"
+      },
+      {
+        "index": 1,
+        "form": "Three-Segment"
+      }
+    ]
+  },
+  "211": {
+    "name": "Qwilfish",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "214": {
+    "name": "Heracross",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "215": {
+    "name": "Sneasel",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "901": {
+    "name": "Ursaluna",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Bloodmoon"
+      }
+    ]
+  },
+  "222": {
+    "name": "Corsola",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "229": {
+    "name": "Houndoom",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "248": {
+    "name": "Tyranitar",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "254": {
+    "name": "Sceptile",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "257": {
+    "name": "Blaziken",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "260": {
+    "name": "Swampert",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "263": {
+    "name": "Zigzagoon",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "264": {
+    "name": "Linoone",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "282": {
+    "name": "Gardevoir",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "475": {
+    "name": "Gallade",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "302": {
+    "name": "Sableye",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "303": {
+    "name": "Mawile",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "306": {
+    "name": "Aggron",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "308": {
+    "name": "Medicham",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "310": {
+    "name": "Manectric",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "319": {
+    "name": "Sharpedo",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "323": {
+    "name": "Camerupt",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "334": {
+    "name": "Altaria",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "351": {
+    "name": "Castform",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Normal"
+      },
+      {
+        "index": 1,
+        "form": "Sunny"
+      },
+      {
+        "index": 2,
+        "form": "Rainy"
+      },
+      {
+        "index": 3,
+        "form": "Snowy"
+      }
+    ]
+  },
+  "354": {
+    "name": "Banette",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "359": {
+    "name": "Absol",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "362": {
+    "name": "Glalie",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "373": {
+    "name": "Salamence",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "376": {
+    "name": "Metagross",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "380": {
+    "name": "Latias",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "381": {
+    "name": "Latios",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "382": {
+    "name": "Kyogre",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Primal"
+      }
+    ]
+  },
+  "383": {
+    "name": "Groudon",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Primal"
+      }
+    ]
+  },
+  "384": {
+    "name": "Rayquaza",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "386": {
+    "name": "Deoxys",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Normal"
+      },
+      {
+        "index": 1,
+        "form": "Attack"
+      },
+      {
+        "index": 2,
+        "form": "Defense"
+      },
+      {
+        "index": 3,
+        "form": "Speed"
+      }
+    ]
+  },
+  "412": {
+    "name": "Burmy",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Plant"
+      },
+      {
+        "index": 1,
+        "form": "Sandy"
+      },
+      {
+        "index": 2,
+        "form": "Trash"
+      }
+    ]
+  },
+  "413": {
+    "name": "Wormadam",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Plant"
+      },
+      {
+        "index": 1,
+        "form": "Sandy"
+      },
+      {
+        "index": 2,
+        "form": "Trash"
+      }
+    ]
+  },
+  "414": {
+    "name": "Mothim",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Plant"
+      },
+      {
+        "index": 1,
+        "form": "Sandy"
+      },
+      {
+        "index": 2,
+        "form": "Trash"
+      }
+    ]
+  },
+  "421": {
+    "name": "Cherrim",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Overcast"
+      },
+      {
+        "index": 1,
+        "form": "Sunshine"
+      }
+    ]
+  },
+  "422": {
+    "name": "Shellos",
+    "forms": [
+      {
+        "index": 0,
+        "form": "West"
+      },
+      {
+        "index": 1,
+        "form": "East"
+      }
+    ]
+  },
+  "423": {
+    "name": "Gastrodon",
+    "forms": [
+      {
+        "index": 0,
+        "form": "West"
+      },
+      {
+        "index": 1,
+        "form": "East"
+      }
+    ]
+  },
+  "428": {
+    "name": "Lopunny",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "445": {
+    "name": "Garchomp",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "448": {
+    "name": "Lucario",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "460": {
+    "name": "Abomasnow",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "479": {
+    "name": "Rotom",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Heat"
+      },
+      {
+        "index": 2,
+        "form": "Wash"
+      },
+      {
+        "index": 3,
+        "form": "Frost"
+      },
+      {
+        "index": 4,
+        "form": "Fan"
+      },
+      {
+        "index": 5,
+        "form": "Mow"
+      }
+    ]
+  },
+  "483": {
+    "name": "Dialga",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Origin"
+      },
+      {
+        "index": 2,
+        "form": "Primal"
+      }
+    ]
+  },
+  "484": {
+    "name": "Palkia",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Origin"
+      },
+      {
+        "index": 2,
+        "form": "Primal"
+      }
+    ]
+  },
+  "487": {
+    "name": "Giratina",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Altered"
+      },
+      {
+        "index": 1,
+        "form": "Origin"
+      }
+    ]
+  },
+  "492": {
+    "name": "Shaymin",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Land"
+      },
+      {
+        "index": 1,
+        "form": "Sky"
+      }
+    ]
+  },
+  "493": {
+    "name": "Arceus",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Normal"
+      },
+      {
+        "index": 1,
+        "form": "Fighting"
+      },
+      {
+        "index": 2,
+        "form": "Flying"
+      },
+      {
+        "index": 3,
+        "form": "Poison"
+      },
+      {
+        "index": 4,
+        "form": "Ground"
+      },
+      {
+        "index": 5,
+        "form": "Rock"
+      },
+      {
+        "index": 6,
+        "form": "Bug"
+      },
+      {
+        "index": 7,
+        "form": "Ghost"
+      },
+      {
+        "index": 8,
+        "form": "Steel"
+      },
+      {
+        "index": 9,
+        "form": "Fire"
+      },
+      {
+        "index": 10,
+        "form": "Water"
+      },
+      {
+        "index": 11,
+        "form": "Grass"
+      },
+      {
+        "index": 12,
+        "form": "Electric"
+      },
+      {
+        "index": 13,
+        "form": "Psychic"
+      },
+      {
+        "index": 14,
+        "form": "Ice"
+      },
+      {
+        "index": 15,
+        "form": "Dragon"
+      },
+      {
+        "index": 16,
+        "form": "Dark"
+      },
+      {
+        "index": 17,
+        "form": "Fairy"
+      }
+    ]
+  },
+  "503": {
+    "name": "Samurott",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "531": {
+    "name": "Audino",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "549": {
+    "name": "Lilligant",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "550": {
+    "name": "Basculin",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Red-Striped"
+      },
+      {
+        "index": 1,
+        "form": "Blue-Striped"
+      },
+      {
+        "index": 2,
+        "form": "White-Striped"
+      }
+    ]
+  },
+  "902": {
+    "name": "Basculegion",
+    "forms": [
+      {
+        "index": 0,
+        "form": "M"
+      },
+      {
+        "index": 1,
+        "form": "F"
+      }
+    ]
+  },
+  "554": {
+    "name": "Darumaka",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "555": {
+    "name": "Darmanitan",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Standard"
+      },
+      {
+        "index": 1,
+        "form": "Zen"
+      },
+      {
+        "index": 2,
+        "form": "Galar-Standard"
+      },
+      {
+        "index": 3,
+        "form": "Galar-Zen"
+      }
+    ]
+  },
+  "562": {
+    "name": "Yamask",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "569": {
+    "name": "Garbodor",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "570": {
+    "name": "Zorua",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "571": {
+    "name": "Zoroark",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "585": {
+    "name": "Deerling",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Spring"
+      },
+      {
+        "index": 1,
+        "form": "Summer"
+      },
+      {
+        "index": 2,
+        "form": "Autumn"
+      },
+      {
+        "index": 3,
+        "form": "Winter"
+      }
+    ]
+  },
+  "586": {
+    "name": "Sawsbuck",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Spring"
+      },
+      {
+        "index": 1,
+        "form": "Summer"
+      },
+      {
+        "index": 2,
+        "form": "Autumn"
+      },
+      {
+        "index": 3,
+        "form": "Winter"
+      }
+    ]
+  },
+  "618": {
+    "name": "Stunfisk",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Galar"
+      }
+    ]
+  },
+  "628": {
+    "name": "Braviary",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "641": {
+    "name": "Tornadus",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Incarnate"
+      },
+      {
+        "index": 1,
+        "form": "Therian"
+      }
+    ]
+  },
+  "642": {
+    "name": "Thundurus",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Incarnate"
+      },
+      {
+        "index": 1,
+        "form": "Therian"
+      }
+    ]
+  },
+  "645": {
+    "name": "Landorus",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Incarnate"
+      },
+      {
+        "index": 1,
+        "form": "Therian"
+      }
+    ]
+  },
+  "646": {
+    "name": "Kyurem",
+    "forms": [
+      {
+        "index": 1,
+        "form": "White"
+      },
+      {
+        "index": 2,
+        "form": "Black"
+      }
+    ]
+  },
+  "647": {
+    "name": "Keldeo",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Ordinary"
+      },
+      {
+        "index": 1,
+        "form": "Resolute"
+      }
+    ]
+  },
+  "648": {
+    "name": "Meloetta",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Aria"
+      },
+      {
+        "index": 1,
+        "form": "Pirouette"
+      }
+    ]
+  },
+  "649": {
+    "name": "Genesect",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Douse"
+      },
+      {
+        "index": 2,
+        "form": "Shock"
+      },
+      {
+        "index": 3,
+        "form": "Burn"
+      },
+      {
+        "index": 4,
+        "form": "Chill"
+      }
+    ]
+  },
+  "658": {
+    "name": "Greninja",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Battle-Bond"
+      },
+      {
+        "index": 2,
+        "form": "Ash"
+      }
+    ]
+  },
+  "664": {
+    "name": "Scatterbug",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Icy-Snow"
+      },
+      {
+        "index": 1,
+        "form": "Polar"
+      },
+      {
+        "index": 2,
+        "form": "Tundra"
+      },
+      {
+        "index": 3,
+        "form": "Continental"
+      },
+      {
+        "index": 4,
+        "form": "Garden"
+      },
+      {
+        "index": 5,
+        "form": "Elegant"
+      },
+      {
+        "index": 6,
+        "form": "Meadow"
+      },
+      {
+        "index": 7,
+        "form": "Modern"
+      },
+      {
+        "index": 8,
+        "form": "Marine"
+      },
+      {
+        "index": 9,
+        "form": "Archipelago"
+      },
+      {
+        "index": 10,
+        "form": "High-Plains"
+      },
+      {
+        "index": 11,
+        "form": "Sandstorm"
+      },
+      {
+        "index": 12,
+        "form": "River"
+      },
+      {
+        "index": 13,
+        "form": "Monsoon"
+      },
+      {
+        "index": 14,
+        "form": "Savanna"
+      },
+      {
+        "index": 15,
+        "form": "Sun"
+      },
+      {
+        "index": 16,
+        "form": "Ocean"
+      },
+      {
+        "index": 17,
+        "form": "Jungle"
+      },
+      {
+        "index": 18,
+        "form": "Fancy"
+      },
+      {
+        "index": 19,
+        "form": "Pokeball"
+      }
+    ]
+  },
+  "665": {
+    "name": "Spewpa",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Icy-Snow"
+      },
+      {
+        "index": 1,
+        "form": "Polar"
+      },
+      {
+        "index": 2,
+        "form": "Tundra"
+      },
+      {
+        "index": 3,
+        "form": "Continental"
+      },
+      {
+        "index": 4,
+        "form": "Garden"
+      },
+      {
+        "index": 5,
+        "form": "Elegant"
+      },
+      {
+        "index": 6,
+        "form": "Meadow"
+      },
+      {
+        "index": 7,
+        "form": "Modern"
+      },
+      {
+        "index": 8,
+        "form": "Marine"
+      },
+      {
+        "index": 9,
+        "form": "Archipelago"
+      },
+      {
+        "index": 10,
+        "form": "High-Plains"
+      },
+      {
+        "index": 11,
+        "form": "Sandstorm"
+      },
+      {
+        "index": 12,
+        "form": "River"
+      },
+      {
+        "index": 13,
+        "form": "Monsoon"
+      },
+      {
+        "index": 14,
+        "form": "Savanna"
+      },
+      {
+        "index": 15,
+        "form": "Sun"
+      },
+      {
+        "index": 16,
+        "form": "Ocean"
+      },
+      {
+        "index": 17,
+        "form": "Jungle"
+      },
+      {
+        "index": 18,
+        "form": "Fancy"
+      },
+      {
+        "index": 19,
+        "form": "Pokeball"
+      }
+    ]
+  },
+  "666": {
+    "name": "Vivillon",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Icy-Snow"
+      },
+      {
+        "index": 1,
+        "form": "Polar"
+      },
+      {
+        "index": 2,
+        "form": "Tundra"
+      },
+      {
+        "index": 3,
+        "form": "Continental"
+      },
+      {
+        "index": 4,
+        "form": "Garden"
+      },
+      {
+        "index": 5,
+        "form": "Elegant"
+      },
+      {
+        "index": 6,
+        "form": "Meadow"
+      },
+      {
+        "index": 7,
+        "form": "Modern"
+      },
+      {
+        "index": 8,
+        "form": "Marine"
+      },
+      {
+        "index": 9,
+        "form": "Archipelago"
+      },
+      {
+        "index": 10,
+        "form": "High-Plains"
+      },
+      {
+        "index": 11,
+        "form": "Sandstorm"
+      },
+      {
+        "index": 12,
+        "form": "River"
+      },
+      {
+        "index": 13,
+        "form": "Monsoon"
+      },
+      {
+        "index": 14,
+        "form": "Savanna"
+      },
+      {
+        "index": 15,
+        "form": "Sun"
+      },
+      {
+        "index": 16,
+        "form": "Ocean"
+      },
+      {
+        "index": 17,
+        "form": "Jungle"
+      },
+      {
+        "index": 18,
+        "form": "Fancy"
+      },
+      {
+        "index": 19,
+        "form": "Pokeball"
+      }
+    ]
+  },
+  "669": {
+    "name": "Flabebe",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Red"
+      },
+      {
+        "index": 1,
+        "form": "Yellow"
+      },
+      {
+        "index": 2,
+        "form": "Orange"
+      },
+      {
+        "index": 3,
+        "form": "Blue"
+      },
+      {
+        "index": 4,
+        "form": "White"
+      }
+    ]
+  },
+  "670": {
+    "name": "Floette",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Red"
+      },
+      {
+        "index": 1,
+        "form": "Yellow"
+      },
+      {
+        "index": 2,
+        "form": "Orange"
+      },
+      {
+        "index": 3,
+        "form": "Blue"
+      },
+      {
+        "index": 4,
+        "form": "White"
+      },
+      {
+        "index": 5,
+        "form": "Eternal"
+      }
+    ]
+  },
+  "671": {
+    "name": "Florges",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Red"
+      },
+      {
+        "index": 1,
+        "form": "Yellow"
+      },
+      {
+        "index": 2,
+        "form": "Orange"
+      },
+      {
+        "index": 3,
+        "form": "Blue"
+      },
+      {
+        "index": 4,
+        "form": "White"
+      }
+    ]
+  },
+  "676": {
+    "name": "Furfrou",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Natural"
+      },
+      {
+        "index": 1,
+        "form": "Heart-Trim"
+      },
+      {
+        "index": 2,
+        "form": "Star-Trim"
+      },
+      {
+        "index": 3,
+        "form": "Diamond-Trim"
+      },
+      {
+        "index": 4,
+        "form": "Debutante-Trim"
+      },
+      {
+        "index": 5,
+        "form": "Matron-Trim"
+      },
+      {
+        "index": 6,
+        "form": "Dandy-Trim"
+      },
+      {
+        "index": 7,
+        "form": "La-Reine-Trim"
+      },
+      {
+        "index": 8,
+        "form": "Kabuki-Trim"
+      },
+      {
+        "index": 9,
+        "form": "Pharaoh-Trim"
+      }
+    ]
+  },
+  "678": {
+    "name": "Meowstic",
+    "forms": [
+      {
+        "index": 0,
+        "form": "M"
+      },
+      {
+        "index": 1,
+        "form": "F"
+      }
+    ]
+  },
+  "681": {
+    "name": "Aegislash",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Shield"
+      },
+      {
+        "index": 1,
+        "form": "Blade"
+      }
+    ]
+  },
+  "705": {
+    "name": "Sliggoo",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "706": {
+    "name": "Goodra",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "710": {
+    "name": "Pumpkaboo",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Average"
+      },
+      {
+        "index": 1,
+        "form": "Small"
+      },
+      {
+        "index": 2,
+        "form": "Large"
+      },
+      {
+        "index": 3,
+        "form": "Super"
+      }
+    ]
+  },
+  "711": {
+    "name": "Gourgeist",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Average"
+      },
+      {
+        "index": 1,
+        "form": "Small"
+      },
+      {
+        "index": 2,
+        "form": "Large"
+      },
+      {
+        "index": 3,
+        "form": "Super"
+      }
+    ]
+  },
+  "713": {
+    "name": "Avalugg",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "716": {
+    "name": "Xerneas",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Neutral"
+      },
+      {
+        "index": 1,
+        "form": "Active"
+      }
+    ]
+  },
+  "718": {
+    "name": "Zygarde",
+    "forms": [
+      {
+        "index": 0,
+        "form": "50"
+      },
+      {
+        "index": 1,
+        "form": "10-Aura-Break"
+      },
+      {
+        "index": 2,
+        "form": "10-Power-Construct"
+      },
+      {
+        "index": 3,
+        "form": "50-Power-Construct"
+      },
+      {
+        "index": 4,
+        "form": "Complete"
+      }
+    ]
+  },
+  "719": {
+    "name": "Diancie",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "720": {
+    "name": "Hoopa",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Confined"
+      },
+      {
+        "index": 1,
+        "form": "Unbound"
+      }
+    ]
+  },
+  "724": {
+    "name": "Decidueye",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Hisui"
+      }
+    ]
+  },
+  "735": {
+    "name": "Gumshoos",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "738": {
+    "name": "Vikavolt",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "741": {
+    "name": "Oricorio",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Baile"
+      },
+      {
+        "index": 1,
+        "form": "Pom-Pom"
+      },
+      {
+        "index": 2,
+        "form": "Pau"
+      },
+      {
+        "index": 3,
+        "form": "Sensu"
+      }
+    ]
+  },
+  "743": {
+    "name": "Ribombee",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "744": {
+    "name": "Rockruff",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Own-Tempo"
+      }
+    ]
+  },
+  "745": {
+    "name": "Lycanroc",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Midday"
+      },
+      {
+        "index": 1,
+        "form": "Midnight"
+      },
+      {
+        "index": 2,
+        "form": "Dusk"
+      }
+    ]
+  },
+  "746": {
+    "name": "Wishiwashi",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Solo"
+      },
+      {
+        "index": 1,
+        "form": "School"
+      }
+    ]
+  },
+  "752": {
+    "name": "Araquanid",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "754": {
+    "name": "Lurantis",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "758": {
+    "name": "Salandit",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "773": {
+    "name": "Silvally",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Normal"
+      },
+      {
+        "index": 1,
+        "form": "Fighting"
+      },
+      {
+        "index": 2,
+        "form": "Flying"
+      },
+      {
+        "index": 3,
+        "form": "Poison"
+      },
+      {
+        "index": 4,
+        "form": "Ground"
+      },
+      {
+        "index": 5,
+        "form": "Rock"
+      },
+      {
+        "index": 6,
+        "form": "Bug"
+      },
+      {
+        "index": 7,
+        "form": "Ghost"
+      },
+      {
+        "index": 8,
+        "form": "Steel"
+      },
+      {
+        "index": 9,
+        "form": "Fire"
+      },
+      {
+        "index": 10,
+        "form": "Water"
+      },
+      {
+        "index": 11,
+        "form": "Grass"
+      },
+      {
+        "index": 12,
+        "form": "Electric"
+      },
+      {
+        "index": 13,
+        "form": "Psychic"
+      },
+      {
+        "index": 14,
+        "form": "Ice"
+      },
+      {
+        "index": 15,
+        "form": "Dragon"
+      },
+      {
+        "index": 16,
+        "form": "Dark"
+      },
+      {
+        "index": 17,
+        "form": "Fairy"
+      }
+    ]
+  },
+  "774": {
+    "name": "Minior",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Meteor-Red"
+      },
+      {
+        "index": 1,
+        "form": "Meteor-Orange"
+      },
+      {
+        "index": 2,
+        "form": "Meteor-Yellow"
+      },
+      {
+        "index": 3,
+        "form": "Meteor-Green"
+      },
+      {
+        "index": 4,
+        "form": "Meteor-Blue"
+      },
+      {
+        "index": 5,
+        "form": "Meteor-Indigo"
+      },
+      {
+        "index": 6,
+        "form": "Meteor-Violet"
+      },
+      {
+        "index": 7,
+        "form": "Core-Red"
+      },
+      {
+        "index": 8,
+        "form": "Core-Orange"
+      },
+      {
+        "index": 9,
+        "form": "Core-Yellow"
+      },
+      {
+        "index": 10,
+        "form": "Core-Green"
+      },
+      {
+        "index": 11,
+        "form": "Core-Blue"
+      },
+      {
+        "index": 12,
+        "form": "Core-Indigo"
+      },
+      {
+        "index": 13,
+        "form": "Core-Violet"
+      }
+    ]
+  },
+  "777": {
+    "name": "Togedemaru",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "778": {
+    "name": "Mimikyu",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Disguised"
+      },
+      {
+        "index": 1,
+        "form": "Busted"
+      },
+      {
+        "index": 2,
+        "form": "Totem-Disguised"
+      },
+      {
+        "index": 3,
+        "form": "Totem-Busted"
+      }
+    ]
+  },
+  "784": {
+    "name": "Kommo-O",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Totem"
+      }
+    ]
+  },
+  "800": {
+    "name": "Necrozma",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Dusk-Mane"
+      },
+      {
+        "index": 2,
+        "form": "Dawn-Wings"
+      },
+      {
+        "index": 3,
+        "form": "Ultra"
+      }
+    ]
+  },
+  "801": {
+    "name": "Magearna",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Original"
+      }
+    ]
+  },
+  "809": {
+    "name": "Melmetal",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "812": {
+    "name": "Rillaboom",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "815": {
+    "name": "Cinderace",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "818": {
+    "name": "Inteleon",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "823": {
+    "name": "Corviknight",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "826": {
+    "name": "Orbeetle",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "834": {
+    "name": "Drednaw",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "839": {
+    "name": "Coalossal",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "841": {
+    "name": "Flapple",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "842": {
+    "name": "Appletun",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "844": {
+    "name": "Sandaconda",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "845": {
+    "name": "Cramorant",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gulping"
+      },
+      {
+        "index": 2,
+        "form": "Gorging"
+      }
+    ]
+  },
+  "849": {
+    "name": "Toxtricity",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Amped"
+      },
+      {
+        "index": 1,
+        "form": "Low-Key"
+      },
+      {
+        "index": 2,
+        "form": "Mega"
+      }
+    ]
+  },
+  "851": {
+    "name": "Centiskorch",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "854": {
+    "name": "Sinistea",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Phony"
+      },
+      {
+        "index": 1,
+        "form": "Antique"
+      }
+    ]
+  },
+  "855": {
+    "name": "Polteageist",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Phony"
+      },
+      {
+        "index": 1,
+        "form": "Antique"
+      }
+    ]
+  },
+  "858": {
+    "name": "Hatterene",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "861": {
+    "name": "Grimmsnarl",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "869": {
+    "name": "Alcremie",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Strawberry-Vanilla-Cream"
+      },
+      {
+        "index": 1,
+        "form": "Strawberry-Ruby-Cream"
+      },
+      {
+        "index": 2,
+        "form": "Strawberry-Matcha-Cream"
+      },
+      {
+        "index": 3,
+        "form": "Strawberry-Mint-Cream"
+      },
+      {
+        "index": 4,
+        "form": "Strawberry-Lemon-Cream"
+      },
+      {
+        "index": 5,
+        "form": "Strawberry-Salted-Cream"
+      },
+      {
+        "index": 6,
+        "form": "Strawberry-Ruby-Swirl"
+      },
+      {
+        "index": 7,
+        "form": "Strawberry-Caramel-Swirl"
+      },
+      {
+        "index": 8,
+        "form": "Strawberry-Rainbow-Swirl"
+      },
+      {
+        "index": 9,
+        "form": "Berry-Vanilla-Cream"
+      },
+      {
+        "index": 10,
+        "form": "Berry-Ruby-Cream"
+      },
+      {
+        "index": 11,
+        "form": "Berry-Matcha-Cream"
+      },
+      {
+        "index": 12,
+        "form": "Berry-Mint-Cream"
+      },
+      {
+        "index": 13,
+        "form": "Berry-Lemon-Cream"
+      },
+      {
+        "index": 14,
+        "form": "Berry-Salted-Cream"
+      },
+      {
+        "index": 15,
+        "form": "Berry-Ruby-Swirl"
+      },
+      {
+        "index": 16,
+        "form": "Berry-Caramel-Swirl"
+      },
+      {
+        "index": 17,
+        "form": "Berry-Rainbow-Swirl"
+      },
+      {
+        "index": 18,
+        "form": "Love-Vanilla-Cream"
+      },
+      {
+        "index": 19,
+        "form": "Love-Ruby-Cream"
+      },
+      {
+        "index": 20,
+        "form": "Love-Matcha-Cream"
+      },
+      {
+        "index": 21,
+        "form": "Love-Mint-Cream"
+      },
+      {
+        "index": 22,
+        "form": "Love-Lemon-Cream"
+      },
+      {
+        "index": 23,
+        "form": "Love-Salted-Cream"
+      },
+      {
+        "index": 24,
+        "form": "Love-Ruby-Swirl"
+      },
+      {
+        "index": 25,
+        "form": "Love-Caramel-Swirl"
+      },
+      {
+        "index": 26,
+        "form": "Love-Rainbow-Swirl"
+      },
+      {
+        "index": 27,
+        "form": "Star-Vanilla-Cream"
+      },
+      {
+        "index": 28,
+        "form": "Star-Ruby-Cream"
+      },
+      {
+        "index": 29,
+        "form": "Star-Matcha-Cream"
+      },
+      {
+        "index": 30,
+        "form": "Star-Mint-Cream"
+      },
+      {
+        "index": 31,
+        "form": "Star-Lemon-Cream"
+      },
+      {
+        "index": 32,
+        "form": "Star-Salted-Cream"
+      },
+      {
+        "index": 33,
+        "form": "Star-Ruby-Swirl"
+      },
+      {
+        "index": 34,
+        "form": "Star-Caramel-Swirl"
+      },
+      {
+        "index": 35,
+        "form": "Star-Rainbow-Swirl"
+      },
+      {
+        "index": 36,
+        "form": "Clover-Vanilla-Cream"
+      },
+      {
+        "index": 37,
+        "form": "Clover-Ruby-Cream"
+      },
+      {
+        "index": 38,
+        "form": "Clover-Matcha-Cream"
+      },
+      {
+        "index": 39,
+        "form": "Clover-Mint-Cream"
+      },
+      {
+        "index": 40,
+        "form": "Clover-Lemon-Cream"
+      },
+      {
+        "index": 41,
+        "form": "Clover-Salted-Cream"
+      },
+      {
+        "index": 42,
+        "form": "Clover-Ruby-Swirl"
+      },
+      {
+        "index": 43,
+        "form": "Clover-Caramel-Swirl"
+      },
+      {
+        "index": 44,
+        "form": "Clover-Rainbow-Swirl"
+      },
+      {
+        "index": 45,
+        "form": "Flower-Vanilla-Cream"
+      },
+      {
+        "index": 46,
+        "form": "Flower-Ruby-Cream"
+      },
+      {
+        "index": 47,
+        "form": "Flower-Matcha-Cream"
+      },
+      {
+        "index": 48,
+        "form": "Flower-Mint-Cream"
+      },
+      {
+        "index": 49,
+        "form": "Flower-Lemon-Cream"
+      },
+      {
+        "index": 50,
+        "form": "Flower-Salted-Cream"
+      },
+      {
+        "index": 51,
+        "form": "Flower-Ruby-Swirl"
+      },
+      {
+        "index": 52,
+        "form": "Flower-Caramel-Swirl"
+      },
+      {
+        "index": 53,
+        "form": "Flower-Rainbow-Swirl"
+      },
+      {
+        "index": 54,
+        "form": "Ribbon-Vanilla-Cream"
+      },
+      {
+        "index": 55,
+        "form": "Ribbon-Ruby-Cream"
+      },
+      {
+        "index": 56,
+        "form": "Ribbon-Matcha-Cream"
+      },
+      {
+        "index": 57,
+        "form": "Ribbon-Mint-Cream"
+      },
+      {
+        "index": 58,
+        "form": "Ribbon-Lemon-Cream"
+      },
+      {
+        "index": 59,
+        "form": "Ribbon-Salted-Cream"
+      },
+      {
+        "index": 60,
+        "form": "Ribbon-Ruby-Swirl"
+      },
+      {
+        "index": 61,
+        "form": "Ribbon-Caramel-Swirl"
+      },
+      {
+        "index": 62,
+        "form": "Ribbon-Rainbow-Swirl"
+      },
+      {
+        "index": 63,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "875": {
+    "name": "Eiscue",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Ice"
+      },
+      {
+        "index": 1,
+        "form": "Noice"
+      }
+    ]
+  },
+  "876": {
+    "name": "Indeedee",
+    "forms": [
+      {
+        "index": 0,
+        "form": "M"
+      },
+      {
+        "index": 1,
+        "form": "F"
+      }
+    ]
+  },
+  "877": {
+    "name": "Morpeko",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Full-Belly"
+      },
+      {
+        "index": 1,
+        "form": "Hangry"
+      }
+    ]
+  },
+  "879": {
+    "name": "Copperajah",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "884": {
+    "name": "Duraludon",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Gmax"
+      }
+    ]
+  },
+  "888": {
+    "name": "Zacian",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Hero"
+      },
+      {
+        "index": 1,
+        "form": "Crowned"
+      }
+    ]
+  },
+  "889": {
+    "name": "Zamazenta",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Hero"
+      },
+      {
+        "index": 1,
+        "form": "Crowned"
+      }
+    ]
+  },
+  "890": {
+    "name": "Eternatus",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Eternamax"
+      }
+    ]
+  },
+  "892": {
+    "name": "Urshifu",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Single-Strike"
+      },
+      {
+        "index": 1,
+        "form": "Rapid-Strike"
+      },
+      {
+        "index": 2,
+        "form": "Single-Strike-Gmax"
+      },
+      {
+        "index": 3,
+        "form": "Rapid-Strike-Gmax"
+      }
+    ]
+  },
+  "893": {
+    "name": "Zarude",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Dada"
+      }
+    ]
+  },
+  "898": {
+    "name": "Calyrex",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Ice"
+      },
+      {
+        "index": 2,
+        "form": "Shadow"
+      }
+    ]
+  },
+  "905": {
+    "name": "Enamorus",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Incarnate"
+      },
+      {
+        "index": 1,
+        "form": "Therian"
+      }
+    ]
+  },
+  "1299": {
+    "name": "Oinkologne",
+    "forms": [
+      {
+        "index": 0,
+        "form": "M"
+      },
+      {
+        "index": 1,
+        "form": "F"
+      }
+    ]
+  },
+  "1309": {
+    "name": "Maushold",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Three"
+      },
+      {
+        "index": 1,
+        "form": "Four"
+      }
+    ]
+  },
+  "1316": {
+    "name": "Squawkabilly",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Green"
+      },
+      {
+        "index": 1,
+        "form": "Blue"
+      },
+      {
+        "index": 2,
+        "form": "Yellow"
+      },
+      {
+        "index": 3,
+        "form": "White"
+      }
+    ]
+  },
+  "1352": {
+    "name": "Palafin",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Zero"
+      },
+      {
+        "index": 1,
+        "form": "Hero"
+      }
+    ]
+  },
+  "1367": {
+    "name": "Tatsugiri",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Curly"
+      },
+      {
+        "index": 1,
+        "form": "Droopy"
+      },
+      {
+        "index": 2,
+        "form": "Stretchy"
+      }
+    ]
+  },
+  "1391": {
+    "name": "Gimmighoul",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Chest"
+      },
+      {
+        "index": 1,
+        "form": "Roaming"
+      }
+    ]
+  },
+  "1416": {
+    "name": "Ogerpon",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Teal"
+      },
+      {
+        "index": 1,
+        "form": "Wellspring"
+      },
+      {
+        "index": 2,
+        "form": "Hearthflame"
+      },
+      {
+        "index": 3,
+        "form": "Cornerstone"
+      },
+      {
+        "index": 4,
+        "form": "Teal-Tera"
+      },
+      {
+        "index": 5,
+        "form": "Wellspring-Tera"
+      },
+      {
+        "index": 6,
+        "form": "Hearthflame-Tera"
+      },
+      {
+        "index": 7,
+        "form": "Cornerstone-Tera"
+      }
+    ]
+  },
+  "1431": {
+    "name": "Terapagos",
+    "forms": [
+      {
+        "index": 0,
+        "form": "Normal"
+      },
+      {
+        "index": 1,
+        "form": "Terastal"
+      },
+      {
+        "index": 2,
+        "form": "Stellar"
+      }
+    ]
+  },
+  "405": {
+    "name": "Luxray",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "389": {
+    "name": "Torterra",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "395": {
+    "name": "Empoleon",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega-O"
+      },
+      {
+        "index": 2,
+        "form": "Mega-D"
+      }
+    ]
+  },
+  "392": {
+    "name": "Infernape",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "289": {
+    "name": "Slaking",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "407": {
+    "name": "Roserade",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  },
+  "477": {
+    "name": "Dusknoir",
+    "forms": [
+      {
+        "index": 1,
+        "form": "Mega"
+      }
+    ]
+  }
+}

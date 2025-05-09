@@ -1,0 +1,10727 @@
+- index: 1
+  speciesName: Мщржечещцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1
+
+- index: 2
+  speciesName: Уъэчещцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 2
+
+- index: 3
+  speciesName: айтщчещцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 3
+
+- index: 4
+  speciesName: Нмецсетийцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 4
+
+- index: 5
+  speciesName: Нмецсйрйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 5
+
+- index: 6
+  speciesName: Нмецнюециџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 6
+
+- index: 7
+  speciesName: Эхщнцшрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 7
+
+- index: 8
+  speciesName: бецшуцшрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 8
+
+- index: 9
+  speciesName: Мречшунчйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 9
+
+- index: 10
+  speciesName: Нешйцфнйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 10
+
+- index: 11
+  speciesName: Чйшефуиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 11
+
+- index: 12
+  speciesName: Мщшшйцкцййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 12
+
+- index: 13
+  speciesName: бййирйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 13
+
+- index: 14
+  speciesName: Хепщтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 14
+
+- index: 15
+  speciesName: Мййицнррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 15
+
+- index: 16
+  speciesName: Ънилйэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 16
+
+- index: 17
+  speciesName: Ънилйушшуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 17
+
+- index: 18
+  speciesName: Ънилйушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 18
+
+- index: 19
+  speciesName: Ьешшешеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 19
+
+- index: 20
+  speciesName: Ьешнзешйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 20
+
+- index: 21
+  speciesName: Эфйецуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 21
+
+- index: 22
+  speciesName: Рйецуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 22
+
+- index: 23
+  speciesName: Ппетчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 23
+
+- index: 24
+  speciesName: Лцжупџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 24
+
+- index: 25
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 26
+  speciesName: Ьензмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 26
+
+- index: 27
+  speciesName: Эетичмцйыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 27
+
+- index: 28
+  speciesName: Эетичречмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 28
+
+- index: 29
+  speciesName: ШниуцетЖџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 29
+
+- index: 30
+  speciesName: Шниуцнтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 30
+
+- index: 31
+  speciesName: Шниухщййтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 31
+
+- index: 32
+  speciesName: ШниуцетЕџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 32
+
+- index: 33
+  speciesName: Шниуцнтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 33
+
+- index: 34
+  speciesName: Шниупнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 34
+
+- index: 35
+  speciesName: Нрйкенцэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 35
+
+- index: 36
+  speciesName: Нрйкежрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 36
+
+- index: 37
+  speciesName: ащрфньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 37
+
+- index: 38
+  speciesName: Шнтйшерйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 38
+
+- index: 39
+  speciesName: Фнллрэфщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 39
+
+- index: 40
+  speciesName: бнллрэшщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 40
+
+- index: 41
+  speciesName: дщжешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 41
+
+- index: 42
+  speciesName: Суржешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 42
+
+- index: 43
+  speciesName: Щиинчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 43
+
+- index: 44
+  speciesName: Сруусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 44
+
+- index: 45
+  speciesName: анрйфрщсйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 45
+
+- index: 46
+  speciesName: Ъецечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 46
+
+- index: 47
+  speciesName: Ъецечйзшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 47
+
+- index: 48
+  speciesName: айтутешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 48
+
+- index: 49
+  speciesName: айтусушмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 49
+
+- index: 50
+  speciesName: Онлрйшшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 50
+
+- index: 51
+  speciesName: Ощлшцнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 51
+
+- index: 52
+  speciesName: Чйуышмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 52
+
+- index: 53
+  speciesName: Ъйцчнетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 53
+
+- index: 54
+  speciesName: Ъчэищзпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 54
+
+- index: 55
+  speciesName: Сурищзпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 55
+
+- index: 56
+  speciesName: Четпйэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 56
+
+- index: 57
+  speciesName: Ъцнсйефйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 57
+
+- index: 58
+  speciesName: Сцуырншмйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 58
+
+- index: 59
+  speciesName: Лцзетнтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 59
+
+- index: 60
+  speciesName: Ъурныелџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 60
+
+- index: 61
+  speciesName: Ъурнымнцрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 61
+
+- index: 62
+  speciesName: Ъурныцешмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 62
+
+- index: 63
+  speciesName: Лжцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 63
+
+- index: 64
+  speciesName: Хеиежцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 64
+
+- index: 65
+  speciesName: Лрепеюесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 65
+
+- index: 66
+  speciesName: Чезмуфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 66
+
+- index: 67
+  speciesName: Чезмупйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 67
+
+- index: 68
+  speciesName: Чезмесфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 68
+
+- index: 69
+  speciesName: Мйррчфцущшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 69
+
+- index: 70
+  speciesName: бййфнтжйррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 70
+
+- index: 71
+  speciesName: анзшцййжйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 71
+
+- index: 72
+  speciesName: Юйтшезуурџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 72
+
+- index: 73
+  speciesName: Юйтшезцщйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 73
+
+- index: 74
+  speciesName: Сйуищийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 74
+
+- index: 75
+  speciesName: Сцеъйрйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 75
+
+- index: 76
+  speciesName: Сурйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 76
+
+- index: 77
+  speciesName: Ъутэшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 77
+
+- index: 78
+  speciesName: Ьефниечмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 78
+
+- index: 79
+  speciesName: Эруыфупйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 79
+
+- index: 80
+  speciesName: Эруыжцуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 80
+
+- index: 81
+  speciesName: Челтйсншйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 81
+
+- index: 82
+  speciesName: Челтйшутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 82
+
+- index: 83
+  speciesName: РецкйшзмДиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 83
+
+- index: 84
+  speciesName: Оуищуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 84
+
+- index: 85
+  speciesName: Оуицнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 85
+
+- index: 86
+  speciesName: Эййрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 86
+
+- index: 87
+  speciesName: Ойылутлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 87
+
+- index: 88
+  speciesName: Сцнсйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 88
+
+- index: 89
+  speciesName: Чщпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 89
+
+- index: 90
+  speciesName: Эмйррийцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 90
+
+- index: 91
+  speciesName: Нруэчшйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 91
+
+- index: 92
+  speciesName: Сечшрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 92
+
+- index: 93
+  speciesName: Тещтшйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 93
+
+- index: 94
+  speciesName: Сйтлецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 94
+
+- index: 95
+  speciesName: Щтньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 95
+
+- index: 96
+  speciesName: Оцуыюййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 96
+
+- index: 97
+  speciesName: Тэфтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 97
+
+- index: 98
+  speciesName: Хцежжэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 98
+
+- index: 99
+  speciesName: Хнтлрйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 99
+
+- index: 100
+  speciesName: ауршуцжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 100
+
+- index: 101
+  speciesName: Прйзшцуийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 101
+
+- index: 102
+  speciesName: Пьйллзщшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 102
+
+- index: 103
+  speciesName: Пьйллщшуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 103
+
+- index: 104
+  speciesName: Нщжутйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 104
+
+- index: 105
+  speciesName: Чецуыепџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 105
+
+- index: 106
+  speciesName: Тншсутрййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 106
+
+- index: 107
+  speciesName: Тншсутзметџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 107
+
+- index: 108
+  speciesName: Цнзпншщтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 108
+
+- index: 109
+  speciesName: Хуккнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 109
+
+- index: 110
+  speciesName: бййюнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 110
+
+- index: 111
+  speciesName: Ьмэмуцтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 111
+
+- index: 112
+  speciesName: Ьмэиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 112
+
+- index: 113
+  speciesName: Нметчйэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 113
+
+- index: 114
+  speciesName: Юетлйреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 114
+
+- index: 115
+  speciesName: Хетлечпметџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 115
+
+- index: 116
+  speciesName: Туцчйеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 116
+
+- index: 117
+  speciesName: Эйеицеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 117
+
+- index: 118
+  speciesName: Суриййтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 118
+
+- index: 119
+  speciesName: Эйепнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 119
+
+- index: 120
+  speciesName: Эшецэщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 120
+
+- index: 121
+  speciesName: Эшецснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 121
+
+- index: 122
+  speciesName: Чц­
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 122
+
+- index: 123
+  speciesName: Эзэшмйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 123
+
+- index: 124
+  speciesName: Фэтьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 124
+
+- index: 125
+  speciesName: Прйзшежщююџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 125
+
+- index: 126
+  speciesName: Челсецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 126
+
+- index: 127
+  speciesName: Ънтчнцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 127
+
+- index: 128
+  speciesName: Юещцучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 128
+
+- index: 129
+  speciesName: Челнпецфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 129
+
+- index: 130
+  speciesName: Сэецеиучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 130
+
+- index: 131
+  speciesName: Цефцечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 131
+
+- index: 132
+  speciesName: Оншшуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 132
+
+- index: 133
+  speciesName: Пйъййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 133
+
+- index: 134
+  speciesName: аефуцйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 134
+
+- index: 135
+  speciesName: Фуршйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 135
+
+- index: 136
+  speciesName: Ррецйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 136
+
+- index: 137
+  speciesName: Ъуцэлутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 137
+
+- index: 138
+  speciesName: Щсетэшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 138
+
+- index: 139
+  speciesName: Щсечшецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 139
+
+- index: 140
+  speciesName: Хежщшуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 140
+
+- index: 141
+  speciesName: Хежщшуфчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 141
+
+- index: 142
+  speciesName: Лйцуиезшэрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 142
+
+- index: 143
+  speciesName: Этуцреьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 143
+
+- index: 144
+  speciesName: Лцшнзщтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 144
+
+- index: 145
+  speciesName: дефиучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 145
+
+- index: 146
+  speciesName: Чуршцйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 146
+
+- index: 147
+  speciesName: Оцешнтнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 147
+
+- index: 148
+  speciesName: Оцелутенцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 148
+
+- index: 149
+  speciesName: Оцелутншйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 149
+
+- index: 150
+  speciesName: Чйышыуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 150
+
+- index: 151
+  speciesName: Чйыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 151
+
+- index: 152
+  speciesName: Нмнпуцншеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 152
+
+- index: 153
+  speciesName: Меэрййкџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 153
+
+- index: 154
+  speciesName: Чйлетнщсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 154
+
+- index: 155
+  speciesName: Нэтиехщнрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 155
+
+- index: 156
+  speciesName: Ыщнреъеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 156
+
+- index: 157
+  speciesName: Юэфмручнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 157
+
+- index: 158
+  speciesName: Юушуинрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 158
+
+- index: 159
+  speciesName: Нцузутеыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 159
+
+- index: 160
+  speciesName: Рйцернлешцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 160
+
+- index: 161
+  speciesName: Эйтшцйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 161
+
+- index: 162
+  speciesName: Рщццйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 162
+
+- index: 163
+  speciesName: Туушмуушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 163
+
+- index: 164
+  speciesName: Шузшуырџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 164
+
+- index: 165
+  speciesName: Цйиэжеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 165
+
+- index: 166
+  speciesName: Цйинетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 166
+
+- index: 167
+  speciesName: Эфнтецепџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 167
+
+- index: 168
+  speciesName: Лцнеиучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 168
+
+- index: 169
+  speciesName: Нцужешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 169
+
+- index: 170
+  speciesName: Нмнтзмущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 170
+
+- index: 171
+  speciesName: Цетшщцтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 171
+
+- index: 172
+  speciesName: Ънзмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 172
+
+- index: 173
+  speciesName: Нрйккеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 173
+
+- index: 174
+  speciesName: Уллрэжщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 174
+
+- index: 175
+  speciesName: Юулйфнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 175
+
+- index: 176
+  speciesName: Юулйшнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 176
+
+- index: 177
+  speciesName: Шешщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 177
+
+- index: 178
+  speciesName: вешщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 178
+
+- index: 179
+  speciesName: Чецййфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 179
+
+- index: 180
+  speciesName: Ррееккэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 180
+
+- index: 181
+  speciesName: Лсфмецучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 181
+
+- index: 182
+  speciesName: Мйрруччусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 182
+
+- index: 183
+  speciesName: Чецнррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 183
+
+- index: 184
+  speciesName: Лющсецнррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 184
+
+- index: 185
+  speciesName: Эщиуыууиуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 185
+
+- index: 186
+  speciesName: Ъурншуйиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 186
+
+- index: 187
+  speciesName: Туффнфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 187
+
+- index: 188
+  speciesName: Эпнфруусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 188
+
+- index: 189
+  speciesName: Фщсфрщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 189
+
+- index: 190
+  speciesName: Лнфусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 190
+
+- index: 191
+  speciesName: Эщтпйцтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 191
+
+- index: 192
+  speciesName: Эщткруцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 192
+
+- index: 193
+  speciesName: гетсеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 193
+
+- index: 194
+  speciesName: бууфйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 194
+
+- index: 195
+  speciesName: Ыщелчнцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 195
+
+- index: 196
+  speciesName: Пчфйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 196
+
+- index: 197
+  speciesName: Ясжцйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 197
+
+- index: 198
+  speciesName: Чщцпцуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 198
+
+- index: 199
+  speciesName: Эруыпнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 199
+
+- index: 200
+  speciesName: Чнчицйеъщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 200
+
+- index: 201
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 202
+  speciesName: бужжщккйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 202
+
+- index: 203
+  speciesName: Снцекецнлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 203
+
+- index: 204
+  speciesName: Ънтйзуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 204
+
+- index: 205
+  speciesName: Руццйшцйччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 205
+
+- index: 206
+  speciesName: Ощтчфецзйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 206
+
+- index: 207
+  speciesName: Срнлецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 207
+
+- index: 208
+  speciesName: Эшййрньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 208
+
+- index: 209
+  speciesName: Этщжжщррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 209
+
+- index: 210
+  speciesName: Сцетжщррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 210
+
+- index: 211
+  speciesName: Ыынркнчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 211
+
+- index: 212
+  speciesName: Эзнюуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 212
+
+- index: 213
+  speciesName: Эмщзпрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 213
+
+- index: 214
+  speciesName: Тйцезцуччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 214
+
+- index: 215
+  speciesName: Этйечйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 215
+
+- index: 216
+  speciesName: Юйиинщцчеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 216
+
+- index: 217
+  speciesName: Яцчецнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 217
+
+- index: 218
+  speciesName: Эрщлсеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 218
+
+- index: 219
+  speciesName: Челзецлуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 219
+
+- index: 220
+  speciesName: Эынтщжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 220
+
+- index: 221
+  speciesName: Ънручынтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 221
+
+- index: 222
+  speciesName: Нуцчуреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 222
+
+- index: 223
+  speciesName: Ьйсуцениџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 223
+
+- index: 224
+  speciesName: Щзшнррйцэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 224
+
+- index: 225
+  speciesName: Ойрнжнциџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 225
+
+- index: 226
+  speciesName: Четшнтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 226
+
+- index: 227
+  speciesName: Эпецсуцэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 227
+
+- index: 228
+  speciesName: Тущтиущцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 228
+
+- index: 229
+  speciesName: Тущтиуусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 229
+
+- index: 230
+  speciesName: Хнтлицеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 230
+
+- index: 231
+  speciesName: Ъметфэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 231
+
+- index: 232
+  speciesName: Оутфметџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 232
+
+- index: 233
+  speciesName: ЪуцэлутЃџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 233
+
+- index: 234
+  speciesName: Эшетшрйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 234
+
+- index: 235
+  speciesName: Эсйецлрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 235
+
+- index: 236
+  speciesName: Юэцулщйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 236
+
+- index: 237
+  speciesName: Тншсутшуфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 237
+
+- index: 238
+  speciesName: Эсуузмщсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 238
+
+- index: 239
+  speciesName: Прйпниџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 239
+
+- index: 240
+  speciesName: Челжэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 240
+
+- index: 241
+  speciesName: Чнршетпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 241
+
+- index: 242
+  speciesName: Мрнччйэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 242
+
+- index: 243
+  speciesName: Ьенпущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 243
+
+- index: 244
+  speciesName: Птшйнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 244
+
+- index: 245
+  speciesName: Эщнзщтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 245
+
+- index: 246
+  speciesName: Цецъншецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 246
+
+- index: 247
+  speciesName: Ъщфншецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 247
+
+- index: 248
+  speciesName: Юэцетншецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 248
+
+- index: 249
+  speciesName: Цщлнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 249
+
+- index: 250
+  speciesName: ТуЎЩмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 250
+
+- index: 251
+  speciesName: Нйрйжнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 251
+
+- index: 252
+  speciesName: Юцййзпуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 252
+
+- index: 253
+  speciesName: Сцуъэрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 253
+
+- index: 254
+  speciesName: Эзйфшнрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 254
+
+- index: 255
+  speciesName: Юуцзмнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 255
+
+- index: 256
+  speciesName: Нусжщчпйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 256
+
+- index: 257
+  speciesName: Мреюнпйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 257
+
+- index: 258
+  speciesName: Чщипнфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 258
+
+- index: 259
+  speciesName: Чецчмшусфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 259
+
+- index: 260
+  speciesName: Эыесфйцшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 260
+
+- index: 261
+  speciesName: Ъуузмэйтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 261
+
+- index: 262
+  speciesName: Чнлмшэйтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 262
+
+- index: 263
+  speciesName: днлюелуутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 263
+
+- index: 264
+  speciesName: Цнтуутйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 264
+
+- index: 265
+  speciesName: бщцсфрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 265
+
+- index: 266
+  speciesName: Энрзуутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 266
+
+- index: 267
+  speciesName: Мйещшнкрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 267
+
+- index: 268
+  speciesName: Нечзуутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 268
+
+- index: 269
+  speciesName: Ощчшуьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 269
+
+- index: 270
+  speciesName: Цушеиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 270
+
+- index: 271
+  speciesName: Цусжцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 271
+
+- index: 272
+  speciesName: Цщинзуруџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 272
+
+- index: 273
+  speciesName: Эййиушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 273
+
+- index: 274
+  speciesName: Шщюрйекџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 274
+
+- index: 275
+  speciesName: Эмнкшцэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 275
+
+- index: 276
+  speciesName: Юенрруыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 276
+
+- index: 277
+  speciesName: Эыйрруыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 277
+
+- index: 278
+  speciesName: бнтлщррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 278
+
+- index: 279
+  speciesName: Ъйрнффйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 279
+
+- index: 280
+  speciesName: Ьершчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 280
+
+- index: 281
+  speciesName: Хнцрнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 281
+
+- index: 282
+  speciesName: Сецийъунцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 282
+
+- index: 283
+  speciesName: Эщцчпншџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 283
+
+- index: 284
+  speciesName: Чечхщйцентџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 284
+
+- index: 285
+  speciesName: Эмцууснчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 285
+
+- index: 286
+  speciesName: Мцйруусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 286
+
+- index: 287
+  speciesName: Эрепушмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 287
+
+- index: 288
+  speciesName: анлуцушмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 288
+
+- index: 289
+  speciesName: Эрепнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 289
+
+- index: 290
+  speciesName: Шнтзеиеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 290
+
+- index: 291
+  speciesName: Шнтоечпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 291
+
+- index: 292
+  speciesName: Эмйинтоеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 292
+
+- index: 293
+  speciesName: бмнчсщцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 293
+
+- index: 294
+  speciesName: Цущицйиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 294
+
+- index: 295
+  speciesName: Пьфрущиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 295
+
+- index: 296
+  speciesName: Чепщмншеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 296
+
+- index: 297
+  speciesName: Тецнэесеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 297
+
+- index: 298
+  speciesName: Лющцнррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 298
+
+- index: 299
+  speciesName: Шучйфеччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 299
+
+- index: 300
+  speciesName: Эпншшэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 300
+
+- index: 301
+  speciesName: Ойрзешшэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 301
+
+- index: 302
+  speciesName: Эежрйэйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 302
+
+- index: 303
+  speciesName: Чеынрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 303
+
+- index: 304
+  speciesName: Лцутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 304
+
+- index: 305
+  speciesName: Ценцутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 305
+
+- index: 306
+  speciesName: Лллцутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 306
+
+- index: 307
+  speciesName: Чйиншншйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 307
+
+- index: 308
+  speciesName: Чйинзмесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 308
+
+- index: 309
+  speciesName: Прйзшцнпйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 309
+
+- index: 310
+  speciesName: Четйзшцнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 310
+
+- index: 311
+  speciesName: Ърщчрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 311
+
+- index: 312
+  speciesName: Чнтщтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 312
+
+- index: 313
+  speciesName: ауржйешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 313
+
+- index: 314
+  speciesName: Уррщснчйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 314
+
+- index: 315
+  speciesName: Ьучйрнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 315
+
+- index: 316
+  speciesName: Сщрфнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 316
+
+- index: 317
+  speciesName: Эыерушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 317
+
+- index: 318
+  speciesName: Нецъетмеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 318
+
+- index: 319
+  speciesName: Эмецфйиуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 319
+
+- index: 320
+  speciesName: бенрсйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 320
+
+- index: 321
+  speciesName: бенруциџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 321
+
+- index: 322
+  speciesName: Шщсйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 322
+
+- index: 323
+  speciesName: Несйцщфшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 323
+
+- index: 324
+  speciesName: Юуцпуерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 324
+
+- index: 325
+  speciesName: Эфунтпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 325
+
+- index: 326
+  speciesName: Сцщсфнлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 326
+
+- index: 327
+  speciesName: Эфнтиеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 327
+
+- index: 328
+  speciesName: Юцефнтзмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 328
+
+- index: 329
+  speciesName: анжцеъеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 329
+
+- index: 330
+  speciesName: Ррэлутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 330
+
+- index: 331
+  speciesName: Незтйеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 331
+
+- index: 332
+  speciesName: Незшщцтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 332
+
+- index: 333
+  speciesName: Эыежрщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 333
+
+- index: 334
+  speciesName: Лршецнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 334
+
+- index: 335
+  speciesName: детлуучйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 335
+
+- index: 336
+  speciesName: Эйънфйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 336
+
+- index: 337
+  speciesName: Цщтешутйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 337
+
+- index: 338
+  speciesName: Эурцузпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 338
+
+- index: 339
+  speciesName: Мецжуезмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 339
+
+- index: 340
+  speciesName: бмнчзечмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 340
+
+- index: 341
+  speciesName: Нуцфмнчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 341
+
+- index: 342
+  speciesName: Нцеыиещтшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 342
+
+- index: 343
+  speciesName: Мершуэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 343
+
+- index: 344
+  speciesName: Нреэиурџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 344
+
+- index: 345
+  speciesName: Цнрййфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 345
+
+- index: 346
+  speciesName: Нцеинрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 346
+
+- index: 347
+  speciesName: Лтуцншмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 347
+
+- index: 348
+  speciesName: Лцсериуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 348
+
+- index: 349
+  speciesName: Рййжечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 349
+
+- index: 350
+  speciesName: Чнрушнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 350
+
+- index: 351
+  speciesName: Нечшкуцсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 351
+
+- index: 352
+  speciesName: Хйзрйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 352
+
+- index: 353
+  speciesName: Эмщффйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 353
+
+- index: 354
+  speciesName: Метйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 354
+
+- index: 355
+  speciesName: Ощчпщррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 355
+
+- index: 356
+  speciesName: Ощчзруфчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 356
+
+- index: 357
+  speciesName: Юцуфнщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 357
+
+- index: 358
+  speciesName: Нмнсйзмуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 358
+
+- index: 359
+  speciesName: Лжчурџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 359
+
+- index: 360
+  speciesName: бэтещшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 360
+
+- index: 361
+  speciesName: Этуцщтшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 361
+
+- index: 362
+  speciesName: Срернйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 362
+
+- index: 363
+  speciesName: Эфмйерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 363
+
+- index: 364
+  speciesName: Эйерйуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 364
+
+- index: 365
+  speciesName: берцйнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 365
+
+- index: 366
+  speciesName: Нресфйцрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 366
+
+- index: 367
+  speciesName: Тщтшенрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 367
+
+- index: 368
+  speciesName: Суцйжэччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 368
+
+- index: 369
+  speciesName: Ьйрнзетшмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 369
+
+- index: 370
+  speciesName: Цщъинчзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 370
+
+- index: 371
+  speciesName: Мелутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 371
+
+- index: 372
+  speciesName: Эмйрлутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 372
+
+- index: 373
+  speciesName: Эересйтзйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 373
+
+- index: 374
+  speciesName: Мйрищсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 374
+
+- index: 375
+  speciesName: Чйшетлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 375
+
+- index: 376
+  speciesName: Чйшелцуччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 376
+
+- index: 377
+  speciesName: Ьйлнцузпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 377
+
+- index: 378
+  speciesName: Ьйлнзйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 378
+
+- index: 379
+  speciesName: Ьйлнчшййрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 379
+
+- index: 380
+  speciesName: Цешнечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 380
+
+- index: 381
+  speciesName: Цешнучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 381
+
+- index: 382
+  speciesName: Хэулцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 382
+
+- index: 383
+  speciesName: Сцущиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 383
+
+- index: 384
+  speciesName: Ьеэхщеюеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 384
+
+- index: 385
+  speciesName: Фнцезмнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 385
+
+- index: 386
+  speciesName: Ойуьэчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 386
+
+- index: 387
+  speciesName: Ющцшынлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 387
+
+- index: 388
+  speciesName: Сцушрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 388
+
+- index: 389
+  speciesName: Юуцшйццеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 389
+
+- index: 390
+  speciesName: Нмнсзмецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 390
+
+- index: 391
+  speciesName: Чуткйцтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 391
+
+- index: 392
+  speciesName: Уткйцтефйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 392
+
+- index: 393
+  speciesName: Ънфрщфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 393
+
+- index: 394
+  speciesName: Ъцнтфрщфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 394
+
+- index: 395
+  speciesName: Псфурйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 395
+
+- index: 396
+  speciesName: Эшецрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 396
+
+- index: 397
+  speciesName: Эшецеънеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 397
+
+- index: 398
+  speciesName: Эшецефшуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 398
+
+- index: 399
+  speciesName: Мниуукџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 399
+
+- index: 400
+  speciesName: Мнжецйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 400
+
+- index: 401
+  speciesName: Хцнзпйшушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 401
+
+- index: 402
+  speciesName: Хцнзпйшщтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 402
+
+- index: 403
+  speciesName: Эмнтьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 403
+
+- index: 404
+  speciesName: Цщьнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 404
+
+- index: 405
+  speciesName: Цщьцеэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 405
+
+- index: 406
+  speciesName: Мщийыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 406
+
+- index: 407
+  speciesName: Ьучйцеийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 407
+
+- index: 408
+  speciesName: Нцетниучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 408
+
+- index: 409
+  speciesName: Ьесфециучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 409
+
+- index: 410
+  speciesName: Эмнйриутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 410
+
+- index: 411
+  speciesName: Мечшнуиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 411
+
+- index: 412
+  speciesName: Мщцсэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 412
+
+- index: 413
+  speciesName: буцсеиесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 413
+
+- index: 414
+  speciesName: Чушмнсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 414
+
+- index: 415
+  speciesName: Нусжййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 415
+
+- index: 416
+  speciesName: айчфнхщйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 416
+
+- index: 417
+  speciesName: Ъезмнцнчщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 417
+
+- index: 418
+  speciesName: Мщнюйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 418
+
+- index: 419
+  speciesName: Рруешюйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 419
+
+- index: 420
+  speciesName: Нмйцщжнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 420
+
+- index: 421
+  speciesName: Нмйццнсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 421
+
+- index: 422
+  speciesName: Эмйрручџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 422
+
+- index: 423
+  speciesName: Сечшцуиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 423
+
+- index: 424
+  speciesName: Лсжнфусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 424
+
+- index: 425
+  speciesName: Оцнкруутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 425
+
+- index: 426
+  speciesName: Оцнкжрнсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 426
+
+- index: 427
+  speciesName: Мщтйецэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 427
+
+- index: 428
+  speciesName: Цуфщттэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 428
+
+- index: 429
+  speciesName: Чнчселнщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 429
+
+- index: 430
+  speciesName: Тутзмпцуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 430
+
+- index: 431
+  speciesName: Сресйуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 431
+
+- index: 432
+  speciesName: Ъщцщлрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 432
+
+- index: 433
+  speciesName: Нмнтлрнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 433
+
+- index: 434
+  speciesName: Эшщтпэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 434
+
+- index: 435
+  speciesName: Эпщтшетпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 435
+
+- index: 436
+  speciesName: Мцутюуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 436
+
+- index: 437
+  speciesName: Мцутюутлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 437
+
+- index: 438
+  speciesName: Мутчрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 438
+
+- index: 439
+  speciesName: Чнсй
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 439
+
+- index: 440
+  speciesName: Теффнтэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 440
+
+- index: 441
+  speciesName: Нмешушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 441
+
+- index: 442
+  speciesName: Эфнцншусжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 442
+
+- index: 443
+  speciesName: Снжрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 443
+
+- index: 444
+  speciesName: Сежншйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 444
+
+- index: 445
+  speciesName: Сецзмусфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 445
+
+- index: 446
+  speciesName: Чщтзмреьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 446
+
+- index: 447
+  speciesName: Ьнурщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 447
+
+- index: 448
+  speciesName: Цщзецнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 448
+
+- index: 449
+  speciesName: Тнффуфушечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 449
+
+- index: 450
+  speciesName: Тнффуыиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 450
+
+- index: 451
+  speciesName: Эпуцщфнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 451
+
+- index: 452
+  speciesName: Оцефнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 452
+
+- index: 453
+  speciesName: Нцуелщтпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 453
+
+- index: 454
+  speciesName: Юуьнзцуепџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 454
+
+- index: 455
+  speciesName: Нецтнънтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 455
+
+- index: 456
+  speciesName: Рнттйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 456
+
+- index: 457
+  speciesName: Цщснтйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 457
+
+- index: 458
+  speciesName: Четшэпйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 458
+
+- index: 459
+  speciesName: Этуъйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 459
+
+- index: 460
+  speciesName: Лжусечтуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 460
+
+- index: 461
+  speciesName: бйеънрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 461
+
+- index: 462
+  speciesName: Челтйюутйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 462
+
+- index: 463
+  speciesName: Цнзпнрнзпэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 463
+
+- index: 464
+  speciesName: Ьмэфйцнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 464
+
+- index: 465
+  speciesName: Юетлцуышмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 465
+
+- index: 466
+  speciesName: Прйзшнънцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 466
+
+- index: 467
+  speciesName: Челсуцшецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 467
+
+- index: 468
+  speciesName: Юулйпнччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 468
+
+- index: 469
+  speciesName: гетсйлеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 469
+
+- index: 470
+  speciesName: Цйекйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 470
+
+- index: 471
+  speciesName: Срезйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 471
+
+- index: 472
+  speciesName: Срнчзуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 472
+
+- index: 473
+  speciesName: Чесучынтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 473
+
+- index: 474
+  speciesName: ЪуцэлутЎдџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 474
+
+- index: 475
+  speciesName: Серреийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 475
+
+- index: 476
+  speciesName: Ъцужуфеччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 476
+
+- index: 477
+  speciesName: Ощчптунцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 477
+
+- index: 478
+  speciesName: Рцучреччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 478
+
+- index: 479
+  speciesName: Ьушусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 479
+
+- index: 480
+  speciesName: Яьнйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 480
+
+- index: 481
+  speciesName: Чйчфцншџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 481
+
+- index: 482
+  speciesName: Люйркџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 482
+
+- index: 483
+  speciesName: Онерлеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 483
+
+- index: 484
+  speciesName: Ъерпнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 484
+
+- index: 485
+  speciesName: Тйешцетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 485
+
+- index: 486
+  speciesName: Ьйлнлнлечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 486
+
+- index: 487
+  speciesName: Снцешнтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 487
+
+- index: 488
+  speciesName: Нцйччйрнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 488
+
+- index: 489
+  speciesName: Ъмнутйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 489
+
+- index: 490
+  speciesName: Четефмэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 490
+
+- index: 491
+  speciesName: Оецпценџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 491
+
+- index: 492
+  speciesName: Эмеэснтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 492
+
+- index: 493
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 494
+  speciesName: анзшнтнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 494
+
+- index: 495
+  speciesName: Этнъэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 495
+
+- index: 496
+  speciesName: Эйцънтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 496
+
+- index: 497
+  speciesName: Эйцфйцнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 497
+
+- index: 498
+  speciesName: Юйфнлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 498
+
+- index: 499
+  speciesName: Ънлтншйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 499
+
+- index: 500
+  speciesName: Псжуецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 500
+
+- index: 501
+  speciesName: Щчмеыушшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 501
+
+- index: 502
+  speciesName: Ойыушшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 502
+
+- index: 503
+  speciesName: Эесщцушшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 503
+
+- index: 504
+  speciesName: Ъешцешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 504
+
+- index: 505
+  speciesName: бешзмулџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 505
+
+- index: 506
+  speciesName: Цнррнфщфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 506
+
+- index: 507
+  speciesName: Тйцинйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 507
+
+- index: 508
+  speciesName: Эшущшретиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 508
+
+- index: 509
+  speciesName: Ъщццрунтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 509
+
+- index: 510
+  speciesName: Цнйфециџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 510
+
+- index: 511
+  speciesName: Ъетчелйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 511
+
+- index: 512
+  speciesName: Энснчелйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 512
+
+- index: 513
+  speciesName: Ъетчйецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 513
+
+- index: 514
+  speciesName: Энснчйецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 514
+
+- index: 515
+  speciesName: Ъетфущцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 515
+
+- index: 516
+  speciesName: Энснфущцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 516
+
+- index: 517
+  speciesName: Чщттеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 517
+
+- index: 518
+  speciesName: Чщчмецтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 518
+
+- index: 519
+  speciesName: Ъниуъйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 519
+
+- index: 520
+  speciesName: Юцетхщнррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 520
+
+- index: 521
+  speciesName: Яткйюетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 521
+
+- index: 522
+  speciesName: Мрншюрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 522
+
+- index: 523
+  speciesName: дйжчшцнпеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 523
+
+- index: 524
+  speciesName: Ьуллйтцуреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 524
+
+- index: 525
+  speciesName: Муриуцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 525
+
+- index: 526
+  speciesName: Снлерншмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 526
+
+- index: 527
+  speciesName: буужешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 527
+
+- index: 528
+  speciesName: Эыуужешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 528
+
+- index: 529
+  speciesName: Оцнржщцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 529
+
+- index: 530
+  speciesName: Пьзеицнррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 530
+
+- index: 531
+  speciesName: Лщинтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 531
+
+- index: 532
+  speciesName: Юнсжщццџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 532
+
+- index: 533
+  speciesName: Сщцищццџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 533
+
+- index: 534
+  speciesName: Нутпйрищццџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 534
+
+- index: 535
+  speciesName: Юэсфурйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 535
+
+- index: 536
+  speciesName: Ъерфншуеиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 536
+
+- index: 537
+  speciesName: Эйнчсншуеиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 537
+
+- index: 538
+  speciesName: Юмцумџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 538
+
+- index: 539
+  speciesName: Эеыпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 539
+
+- index: 540
+  speciesName: Эйыеиирйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 540
+
+- index: 541
+  speciesName: Эыеируутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 541
+
+- index: 542
+  speciesName: Цйеъеттэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 542
+
+- index: 543
+  speciesName: айтнфйийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 543
+
+- index: 544
+  speciesName: бмнцрнфйийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 544
+
+- index: 545
+  speciesName: Эзурнфйийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 545
+
+- index: 546
+  speciesName: Нушшутййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 546
+
+- index: 547
+  speciesName: бмнсчнзушшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 547
+
+- index: 548
+  speciesName: Ъйшнрнрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 548
+
+- index: 549
+  speciesName: Цнррнлетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 549
+
+- index: 550
+  speciesName: Мечзщрнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 550
+
+- index: 551
+  speciesName: Эетинрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 551
+
+- index: 552
+  speciesName: Хцупуцупџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 552
+
+- index: 553
+  speciesName: Хцуупуинрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 553
+
+- index: 554
+  speciesName: Оецщсепеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 554
+
+- index: 555
+  speciesName: Оецсетншетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 555
+
+- index: 556
+  speciesName: Чецезшщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 556
+
+- index: 557
+  speciesName: Оыйжжрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 557
+
+- index: 558
+  speciesName: Нцщчшрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 558
+
+- index: 559
+  speciesName: Эзцеллэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 559
+
+- index: 560
+  speciesName: Эзцекшэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 560
+
+- index: 561
+  speciesName: Энлнрэфмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 561
+
+- index: 562
+  speciesName: гесечпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 562
+
+- index: 563
+  speciesName: Нукелцнлщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 563
+
+- index: 564
+  speciesName: Юнцшущлеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 564
+
+- index: 565
+  speciesName: Неццезучшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 565
+
+- index: 566
+  speciesName: Лцзмйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 566
+
+- index: 567
+  speciesName: Лцзмйуфчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 567
+
+- index: 568
+  speciesName: Юцщжжнчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 568
+
+- index: 569
+  speciesName: Сецжуиуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 569
+
+- index: 570
+  speciesName: дуцщеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 570
+
+- index: 571
+  speciesName: дуцуецпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 571
+
+- index: 572
+  speciesName: Чнтззнтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 572
+
+- index: 573
+  speciesName: Ннтззнтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 573
+
+- index: 574
+  speciesName: Сушмншеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 574
+
+- index: 575
+  speciesName: Сушмуцншеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 575
+
+- index: 576
+  speciesName: Сушмншйррйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 576
+
+- index: 577
+  speciesName: Эуручнчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 577
+
+- index: 578
+  speciesName: Ощучнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 578
+
+- index: 579
+  speciesName: Ьйщтнзрщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 579
+
+- index: 580
+  speciesName: Ощзпрйшшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 580
+
+- index: 581
+  speciesName: Эыеттеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 581
+
+- index: 582
+  speciesName: аетнррншйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 582
+
+- index: 583
+  speciesName: аетнррнчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 583
+
+- index: 584
+  speciesName: аетнррщьйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 584
+
+- index: 585
+  speciesName: Оййцрнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 585
+
+- index: 586
+  speciesName: Эеычжщзпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 586
+
+- index: 587
+  speciesName: Псурлеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 587
+
+- index: 588
+  speciesName: Хеццежречшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 588
+
+- index: 589
+  speciesName: Пчзеъернйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 589
+
+- index: 590
+  speciesName: Руутлщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 590
+
+- index: 591
+  speciesName: Лсуутлщччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 591
+
+- index: 592
+  speciesName: Рцнррнчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 592
+
+- index: 593
+  speciesName: Фйррнзйтшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 593
+
+- index: 594
+  speciesName: Лрусусуреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 594
+
+- index: 595
+  speciesName: Фуршнпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 595
+
+- index: 596
+  speciesName: Серъетшщреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 596
+
+- index: 597
+  speciesName: Рйццучййиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 597
+
+- index: 598
+  speciesName: Рйццушмуцтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 598
+
+- index: 599
+  speciesName: Хрнтпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 599
+
+- index: 600
+  speciesName: Хретлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 600
+
+- index: 601
+  speciesName: Хрнтпретлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 601
+
+- index: 602
+  speciesName: Юэтесуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 602
+
+- index: 603
+  speciesName: Пйрйпшцнпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 603
+
+- index: 604
+  speciesName: Пйрйпшцуччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 604
+
+- index: 605
+  speciesName: Прлэйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 605
+
+- index: 606
+  speciesName: Мймййэйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 606
+
+- index: 607
+  speciesName: Цншынзпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 607
+
+- index: 608
+  speciesName: Цесфйтшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 608
+
+- index: 609
+  speciesName: Нметийрщцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 609
+
+- index: 610
+  speciesName: Льйыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 610
+
+- index: 611
+  speciesName: Рцеьщцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 611
+
+- index: 612
+  speciesName: Теьуцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 612
+
+- index: 613
+  speciesName: Нщжзмууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 613
+
+- index: 614
+  speciesName: Мйецшнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 614
+
+- index: 615
+  speciesName: Нцэулутерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 615
+
+- index: 616
+  speciesName: Эмйрсйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 616
+
+- index: 617
+  speciesName: Лззйрлуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 617
+
+- index: 618
+  speciesName: Эшщткнчпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 618
+
+- index: 619
+  speciesName: Чнйткууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 619
+
+- index: 620
+  speciesName: Чнйтчмеуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 620
+
+- index: 621
+  speciesName: Оцщиинлутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 621
+
+- index: 622
+  speciesName: Сурйшшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 622
+
+- index: 623
+  speciesName: Сурщцпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 623
+
+- index: 624
+  speciesName: Ъеытнециџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 624
+
+- index: 625
+  speciesName: Мнчмецфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 625
+
+- index: 626
+  speciesName: Мущккеретшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 626
+
+- index: 627
+  speciesName: Ьщккрйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 627
+
+- index: 628
+  speciesName: Мцеънецэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 628
+
+- index: 629
+  speciesName: ащррежэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 629
+
+- index: 630
+  speciesName: Четинжщююџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 630
+
+- index: 631
+  speciesName: Тйешсуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 631
+
+- index: 632
+  speciesName: Ощцетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 632
+
+- index: 633
+  speciesName: Ойнтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 633
+
+- index: 634
+  speciesName: дыйнрущчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 634
+
+- index: 635
+  speciesName: Тэицйнлутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 635
+
+- index: 636
+  speciesName: Цецъйчшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 636
+
+- index: 637
+  speciesName: аурзецутеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 637
+
+- index: 638
+  speciesName: Нужернутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 638
+
+- index: 639
+  speciesName: Юйццепнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 639
+
+- index: 640
+  speciesName: анцнюнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 640
+
+- index: 641
+  speciesName: Юуцтеищчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 641
+
+- index: 642
+  speciesName: Юмщтищцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 642
+
+- index: 643
+  speciesName: Ьйчмнцесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 643
+
+- index: 644
+  speciesName: дйпцусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 644
+
+- index: 645
+  speciesName: Цетиуцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 645
+
+- index: 646
+  speciesName: Хэщцйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 646
+
+- index: 647
+  speciesName: Хйрийуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 647
+
+- index: 648
+  speciesName: Чйруйшшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 648
+
+- index: 649
+  speciesName: Сйтйчйзшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 649
+
+- index: 650
+  speciesName: Нмйчфнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 650
+
+- index: 651
+  speciesName: Ыщнрреинтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 651
+
+- index: 652
+  speciesName: Нмйчтещлмшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 652
+
+- index: 653
+  speciesName: Рйттйпнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 653
+
+- index: 654
+  speciesName: Мценьйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 654
+
+- index: 655
+  speciesName: Ойрфмуьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 655
+
+- index: 656
+  speciesName: Рцуепнйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 656
+
+- index: 657
+  speciesName: Рцулеинйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 657
+
+- index: 658
+  speciesName: Сцйтнтоеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 658
+
+- index: 659
+  speciesName: Мщттйржэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 659
+
+- index: 660
+  speciesName: Онллйцчжэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 660
+
+- index: 661
+  speciesName: Ррйшзмрнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 661
+
+- index: 662
+  speciesName: Ррйшзмнтийцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 662
+
+- index: 663
+  speciesName: Юеруткресйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 663
+
+- index: 664
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 665
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 666
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 667
+  speciesName: Цншрйуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 667
+
+- index: 668
+  speciesName: Ъэцуецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 668
+
+- index: 669
+  speciesName: Ррежжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 669
+
+- index: 670
+  speciesName: Рруйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 670
+
+- index: 671
+  speciesName: Рруцлйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 671
+
+- index: 672
+  speciesName: Эпнииуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 672
+
+- index: 673
+  speciesName: Сулуешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 673
+
+- index: 674
+  speciesName: Ъетзмесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 674
+
+- index: 675
+  speciesName: Ъетлуцуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 675
+
+- index: 676
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 677
+  speciesName: Пчфщццџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 677
+
+- index: 678
+  speciesName: Чйуычшнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 678
+
+- index: 679
+  speciesName: Тутйилйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 679
+
+- index: 680
+  speciesName: Оущжреийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 680
+
+- index: 681
+  speciesName: Лйлнчречмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 681
+
+- index: 682
+  speciesName: Эфцншюййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 682
+
+- index: 683
+  speciesName: Лцусешнччйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 683
+
+- index: 684
+  speciesName: Эынцрньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 684
+
+- index: 685
+  speciesName: Эрщцфщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 685
+
+- index: 686
+  speciesName: Утпеэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 686
+
+- index: 687
+  speciesName: Чересецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 687
+
+- index: 688
+  speciesName: Мнтезрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 688
+
+- index: 689
+  speciesName: Мецжецезрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 689
+
+- index: 690
+  speciesName: Эпцйрфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 690
+
+- index: 691
+  speciesName: Оцелерлйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 691
+
+- index: 692
+  speciesName: Нрещтзмйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 692
+
+- index: 693
+  speciesName: Нреыншюйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 693
+
+- index: 694
+  speciesName: Тйрнуфшнрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 694
+
+- index: 695
+  speciesName: Тйрнурнчпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 695
+
+- index: 696
+  speciesName: Юэцщтшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 696
+
+- index: 697
+  speciesName: Юэцетшцщсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 697
+
+- index: 698
+  speciesName: Лсещцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 698
+
+- index: 699
+  speciesName: Лщцуцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 699
+
+- index: 700
+  speciesName: Ээръйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 700
+
+- index: 701
+  speciesName: Теырщзмеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 701
+
+- index: 702
+  speciesName: Ойийттйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 702
+
+- index: 703
+  speciesName: Нецжнтпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 703
+
+- index: 704
+  speciesName: Суусэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 704
+
+- index: 705
+  speciesName: Эрнллууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 705
+
+- index: 706
+  speciesName: Сууицеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 706
+
+- index: 707
+  speciesName: Хрйкпнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 707
+
+- index: 708
+  speciesName: Ъметшщсфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 708
+
+- index: 709
+  speciesName: Юцйъйтетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 709
+
+- index: 710
+  speciesName: Ъщсфпежууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 710
+
+- index: 711
+  speciesName: Сущцлйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 711
+
+- index: 712
+  speciesName: Мйцлсншйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 712
+
+- index: 713
+  speciesName: Лъерщллџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 713
+
+- index: 714
+  speciesName: Шунжешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 714
+
+- index: 715
+  speciesName: Шунъйцтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 715
+
+- index: 716
+  speciesName: вйцтйечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 716
+
+- index: 717
+  speciesName: гъйршерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 717
+
+- index: 718
+  speciesName: дэлецийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 718
+
+- index: 719
+  speciesName: Онетзнйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 719
+
+- index: 720
+  speciesName: Тууфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 720
+
+- index: 721
+  speciesName: аурзетнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 721
+
+- index: 722
+  speciesName: Ьуырйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 722
+
+- index: 723
+  speciesName: Оецшцньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 723
+
+- index: 724
+  speciesName: Ойзнищйэйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 724
+
+- index: 725
+  speciesName: Цншшйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 725
+
+- index: 726
+  speciesName: Юуццезешџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 726
+
+- index: 727
+  speciesName: Утзнтйцуецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 727
+
+- index: 728
+  speciesName: Ъуффрнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 728
+
+- index: 729
+  speciesName: Мцнуттйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 729
+
+- index: 730
+  speciesName: Ъцнсецнтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 730
+
+- index: 731
+  speciesName: Ънпнфйпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 731
+
+- index: 732
+  speciesName: Юцщсжйепџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 732
+
+- index: 733
+  speciesName: Юущзеттутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 733
+
+- index: 734
+  speciesName: гщтлуучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 734
+
+- index: 735
+  speciesName: Сщсчмуучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 735
+
+- index: 736
+  speciesName: Сцщжжнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 736
+
+- index: 737
+  speciesName: Нмецоежщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 737
+
+- index: 738
+  speciesName: анпеъуршџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 738
+
+- index: 739
+  speciesName: Нцежцеырйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 739
+
+- index: 740
+  speciesName: Нцежуснтежрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 740
+
+- index: 741
+  speciesName: Щцнзуцнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 741
+
+- index: 742
+  speciesName: Нщшнйкрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 742
+
+- index: 743
+  speciesName: Ьнжусжййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 743
+
+- index: 744
+  speciesName: Ьузпцщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 744
+
+- index: 745
+  speciesName: Цэзетцузџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 745
+
+- index: 746
+  speciesName: бнчмныечмнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 746
+
+- index: 747
+  speciesName: Чецйетнйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 747
+
+- index: 748
+  speciesName: Юуьефйьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 748
+
+- index: 749
+  speciesName: Чщижцеэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 749
+
+- index: 750
+  speciesName: Чщичиерйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 750
+
+- index: 751
+  speciesName: Ойыфнийцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 751
+
+- index: 752
+  speciesName: Лцехщетниџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 752
+
+- index: 753
+  speciesName: Русетшнчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 753
+
+- index: 754
+  speciesName: Цщцетшнчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 754
+
+- index: 755
+  speciesName: Чуцйрщррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 755
+
+- index: 756
+  speciesName: Эмннтушнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 756
+
+- index: 757
+  speciesName: Эеретиншџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 757
+
+- index: 758
+  speciesName: Эереююрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 758
+
+- index: 759
+  speciesName: Эшщккщрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 759
+
+- index: 760
+  speciesName: Мйыйецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 760
+
+- index: 761
+  speciesName: Мущтчыййшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 761
+
+- index: 762
+  speciesName: Эшййтййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 762
+
+- index: 763
+  speciesName: Ючецййтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 763
+
+- index: 764
+  speciesName: Нускйэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 764
+
+- index: 765
+  speciesName: Щцетлщцщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 765
+
+- index: 766
+  speciesName: Ъеччнснетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 766
+
+- index: 767
+  speciesName: бнсфуиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 767
+
+- index: 768
+  speciesName: Сурнчуфуиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 768
+
+- index: 769
+  speciesName: Эетиэлечшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 769
+
+- index: 770
+  speciesName: Ъеруччетиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 770
+
+- index: 771
+  speciesName: Ъэщпщсщпщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 771
+
+- index: 772
+  speciesName: Юэфй№
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 772
+
+- index: 773
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 774
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 775
+  speciesName: Хусереџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 775
+
+- index: 776
+  speciesName: Ющцшутешуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 776
+
+- index: 777
+  speciesName: Юулйийсецщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 777
+
+- index: 778
+  speciesName: Чнснпэщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 778
+
+- index: 779
+  speciesName: Мцщьнчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 779
+
+- index: 780
+  speciesName: Оцесфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 780
+
+- index: 781
+  speciesName: Омйрснчйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 781
+
+- index: 782
+  speciesName: ФетлсуЎуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 782
+
+- index: 783
+  speciesName: ТепесуЎуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 783
+
+- index: 784
+  speciesName: ХуссуЎуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 784
+
+- index: 785
+  speciesName: Юефщ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 785
+
+- index: 786
+  speciesName: Юефщ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 786
+
+- index: 787
+  speciesName: Юефщ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 787
+
+- index: 788
+  speciesName: Юефщ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 788
+
+- index: 789
+  speciesName: Нучсулџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 789
+
+- index: 790
+  speciesName: Нучсуйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 790
+
+- index: 791
+  speciesName: Эурлерйуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 791
+
+- index: 792
+  speciesName: Цщтереџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 792
+
+- index: 793
+  speciesName: Шнмнрйлуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 793
+
+- index: 794
+  speciesName: Мщююыурйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 794
+
+- index: 795
+  speciesName: Ъмйцусучеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 795
+
+- index: 796
+  speciesName: вщцпншцййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 796
+
+- index: 797
+  speciesName: Нйрйчшййреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 797
+
+- index: 798
+  speciesName: Хецшетеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 798
+
+- index: 799
+  speciesName: Сщююруциџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 799
+
+- index: 800
+  speciesName: Шйзцуюсеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 800
+
+- index: 801
+  speciesName: Челйецтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 801
+
+- index: 802
+  speciesName: Чецчмеиуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 802
+
+- index: 803
+  speciesName: Ъунфурйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 803
+
+- index: 804
+  speciesName: Шелетеийрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 804
+
+- index: 805
+  speciesName: Эшепешепеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 805
+
+- index: 806
+  speciesName: Мрезйфмерутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 806
+
+- index: 807
+  speciesName: дйцеуцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 807
+
+- index: 808
+  speciesName: Чйршетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 808
+
+- index: 809
+  speciesName: Чйрсйшерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 809
+
+- index: 810
+  speciesName: Сцуупйэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 810
+
+- index: 811
+  speciesName: Юмыезпйэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 811
+
+- index: 812
+  speciesName: Ьнррежуусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 812
+
+- index: 813
+  speciesName: Эзуцжщттэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 813
+
+- index: 814
+  speciesName: Ьежуушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 814
+
+- index: 815
+  speciesName: Ннтийцезйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 815
+
+- index: 816
+  speciesName: Эужжрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 816
+
+- index: 817
+  speciesName: Оцнююнрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 817
+
+- index: 818
+  speciesName: Утшйрйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 818
+
+- index: 819
+  speciesName: Эпыуъйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 819
+
+- index: 820
+  speciesName: Сцййийтшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 820
+
+- index: 821
+  speciesName: Ьуупниййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 821
+
+- index: 822
+  speciesName: Нуцънчхщнцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 822
+
+- index: 823
+  speciesName: Нуцънптнлмшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 823
+
+- index: 824
+  speciesName: Мрнфжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 824
+
+- index: 825
+  speciesName: Оушшрйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 825
+
+- index: 826
+  speciesName: Щцжййшрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 826
+
+- index: 827
+  speciesName: Шнзпншџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 827
+
+- index: 828
+  speciesName: Юмнйъщрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 828
+
+- index: 829
+  speciesName: Суччнкрйщцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 829
+
+- index: 830
+  speciesName: Прийлуччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 830
+
+- index: 831
+  speciesName: буурууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 831
+
+- index: 832
+  speciesName: Ощжыуурџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 832
+
+- index: 833
+  speciesName: Нмйышрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 833
+
+- index: 834
+  speciesName: Оцйитеыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 834
+
+- index: 835
+  speciesName: гесфйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 835
+
+- index: 836
+  speciesName: Муршщтиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 836
+
+- index: 837
+  speciesName: Ьурэзурэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 837
+
+- index: 838
+  speciesName: Нецпурџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 838
+
+- index: 839
+  speciesName: Нуеруччерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 839
+
+- index: 840
+  speciesName: Лффрнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 840
+
+- index: 841
+  speciesName: Рреффрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 841
+
+- index: 842
+  speciesName: Лффрйшщтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 842
+
+- index: 843
+  speciesName: Энрнзужцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 843
+
+- index: 844
+  speciesName: Эетиезутиеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 844
+
+- index: 845
+  speciesName: Нцесуцетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 845
+
+- index: 846
+  speciesName: Лццупщиеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 846
+
+- index: 847
+  speciesName: Меццечпйыиеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 847
+
+- index: 848
+  speciesName: Юуьйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 848
+
+- index: 849
+  speciesName: Юуьшцнзншэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 849
+
+- index: 850
+  speciesName: Энююрнфйийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 850
+
+- index: 851
+  speciesName: Нйтшнчпуцзмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 851
+
+- index: 852
+  speciesName: Нружжуфщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 852
+
+- index: 853
+  speciesName: Сцеффрузшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 853
+
+- index: 854
+  speciesName: Энтнчшйеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 854
+
+- index: 855
+  speciesName: Ъуршйелйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 855
+
+- index: 856
+  speciesName: Тешйттеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 856
+
+- index: 857
+  speciesName: Тешшцйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 857
+
+- index: 858
+  speciesName: Тешшйцйтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 858
+
+- index: 859
+  speciesName: Усфнинсфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 859
+
+- index: 860
+  speciesName: Чуцлцйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 860
+
+- index: 861
+  speciesName: Сцнссчтецрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 861
+
+- index: 862
+  speciesName: Щжчшелуутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 862
+
+- index: 863
+  speciesName: Ъйццчйцпйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 863
+
+- index: 864
+  speciesName: Нщцчуреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 864
+
+- index: 865
+  speciesName: ЭнцкйшзмДиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 865
+
+- index: 866
+  speciesName: Чц­
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 866
+
+- index: 867
+  speciesName: Ьщтйцнлщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 867
+
+- index: 868
+  speciesName: Чнрзйцэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 868
+
+- index: 869
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 870
+  speciesName: Рернтпчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 870
+
+- index: 871
+  speciesName: Ънтзщцзмнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 871
+
+- index: 872
+  speciesName: Этусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 872
+
+- index: 873
+  speciesName: Рцучсушмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 873
+
+- index: 874
+  speciesName: Эшутоущцтйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 874
+
+- index: 875
+  speciesName: Пнчзщйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 875
+
+- index: 876
+  speciesName: Утиййиййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 876
+
+- index: 877
+  speciesName: Чуцфйпуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 877
+
+- index: 878
+  speciesName: Нщкетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 878
+
+- index: 879
+  speciesName: Нуффйцеоемџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 879
+
+- index: 880
+  speciesName: Оцезуюуршџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 880
+
+- index: 881
+  speciesName: Лцзшуюуршџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 881
+
+- index: 882
+  speciesName: Оцезуънчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 882
+
+- index: 883
+  speciesName: Лцзшуънчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 883
+
+- index: 884
+  speciesName: Ощцерщиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 884
+
+- index: 885
+  speciesName: Оцййфэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 885
+
+- index: 886
+  speciesName: Оцепруепџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 886
+
+- index: 887
+  speciesName: Оцелефщршџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 887
+
+- index: 888
+  speciesName: дезнетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 888
+
+- index: 889
+  speciesName: десеюйтшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 889
+
+- index: 890
+  speciesName: Пшйцтешщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 890
+
+- index: 891
+  speciesName: Хщжкщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 891
+
+- index: 892
+  speciesName: Яцчмнкщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 892
+
+- index: 893
+  speciesName: децщийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 893
+
+- index: 894
+  speciesName: Ьйлнйрйпнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 894
+
+- index: 895
+  speciesName: Ьйлницелуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 895
+
+- index: 896
+  speciesName: Сречшцнйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 896
+
+- index: 897
+  speciesName: Эфйзшцнйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 897
+
+- index: 898
+  speciesName: Нерэцйьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 898
+
+- index: 899
+  speciesName: бэциййцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 899
+
+- index: 900
+  speciesName: Хрйеъуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 900
+
+- index: 901
+  speciesName: Яцчерщтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 901
+
+- index: 902
+  speciesName: Мечзщрйлнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 902
+
+- index: 903
+  speciesName: Этйечрйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 903
+
+- index: 904
+  speciesName: Щъйцхынрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 904
+
+- index: 905
+  speciesName: Птесуцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 905
+
+- index: 906
+  speciesName: айтщчещцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 3
+
+- index: 907
+  speciesName: Нмецнюециџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 6
+
+- index: 908
+  speciesName: Нмецнюециџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 6
+
+- index: 909
+  speciesName: Мречшунчйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 9
+
+- index: 910
+  speciesName: Мййицнррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 15
+
+- index: 911
+  speciesName: Ънилйушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 18
+
+- index: 912
+  speciesName: Лрепеюесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 65
+
+- index: 913
+  speciesName: Эруыжцуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 80
+
+- index: 914
+  speciesName: Сйтлецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 94
+
+- index: 915
+  speciesName: Хетлечпметџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 115
+
+- index: 916
+  speciesName: Ънтчнцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 127
+
+- index: 917
+  speciesName: Сэецеиучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 130
+
+- index: 918
+  speciesName: Лйцуиезшэрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 142
+
+- index: 919
+  speciesName: Чйышыуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 150
+
+- index: 920
+  speciesName: Чйышыуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 150
+
+- index: 921
+  speciesName: Лсфмецучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 181
+
+- index: 922
+  speciesName: Эшййрньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 208
+
+- index: 923
+  speciesName: Эзнюуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 212
+
+- index: 924
+  speciesName: Тйцезцуччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 214
+
+- index: 925
+  speciesName: Тущтиуусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 229
+
+- index: 926
+  speciesName: Юэцетншецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 248
+
+- index: 927
+  speciesName: Эзйфшнрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 254
+
+- index: 928
+  speciesName: Мреюнпйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 257
+
+- index: 929
+  speciesName: Эыесфйцшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 260
+
+- index: 930
+  speciesName: Сецийъунцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 282
+
+- index: 931
+  speciesName: Эежрйэйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 302
+
+- index: 932
+  speciesName: Чеынрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 303
+
+- index: 933
+  speciesName: Лллцутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 306
+
+- index: 934
+  speciesName: Чйинзмесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 308
+
+- index: 935
+  speciesName: Четйзшцнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 310
+
+- index: 936
+  speciesName: Эмецфйиуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 319
+
+- index: 937
+  speciesName: Несйцщфшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 323
+
+- index: 938
+  speciesName: Лршецнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 334
+
+- index: 939
+  speciesName: Метйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 354
+
+- index: 940
+  speciesName: Лжчурџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 359
+
+- index: 941
+  speciesName: Срернйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 362
+
+- index: 942
+  speciesName: Эересйтзйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 373
+
+- index: 943
+  speciesName: Чйшелцуччџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 376
+
+- index: 944
+  speciesName: Цешнечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 380
+
+- index: 945
+  speciesName: Цешнучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 381
+
+- index: 946
+  speciesName: Цуфщттэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 428
+
+- index: 947
+  speciesName: Сецзмусфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 445
+
+- index: 948
+  speciesName: Цщзецнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 448
+
+- index: 949
+  speciesName: Лжусечтуыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 460
+
+- index: 950
+  speciesName: Серреийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 475
+
+- index: 951
+  speciesName: Лщинтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 531
+
+- index: 952
+  speciesName: Онетзнйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 719
+
+- index: 953
+  speciesName: Ьеэхщеюеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 384
+
+- index: 954
+  speciesName: Хэулцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 382
+
+- index: 955
+  speciesName: Сцущиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 383
+
+- index: 956
+  speciesName: Ьешшешеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 19
+
+- index: 957
+  speciesName: Ьешнзешйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 20
+
+- index: 958
+  speciesName: Ьензмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 26
+
+- index: 959
+  speciesName: Эетичмцйыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 27
+
+- index: 960
+  speciesName: Эетичречмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 28
+
+- index: 961
+  speciesName: ащрфньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 37
+
+- index: 962
+  speciesName: Шнтйшерйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 38
+
+- index: 963
+  speciesName: Онлрйшшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 50
+
+- index: 964
+  speciesName: Ощлшцнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 51
+
+- index: 965
+  speciesName: Чйуышмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 52
+
+- index: 966
+  speciesName: Ъйцчнетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 53
+
+- index: 967
+  speciesName: Сйуищийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 74
+
+- index: 968
+  speciesName: Сцеъйрйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 75
+
+- index: 969
+  speciesName: Сурйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 76
+
+- index: 970
+  speciesName: Сцнсйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 88
+
+- index: 971
+  speciesName: Чщпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 89
+
+- index: 972
+  speciesName: Пьйллщшуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 103
+
+- index: 973
+  speciesName: Чецуыепџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 105
+
+- index: 974
+  speciesName: Чйуышмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 52
+
+- index: 975
+  speciesName: Ъутэшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 77
+
+- index: 976
+  speciesName: Ьефниечмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 78
+
+- index: 977
+  speciesName: Эруыфупйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 79
+
+- index: 978
+  speciesName: Эруыжцуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 80
+
+- index: 979
+  speciesName: РецкйшзмДиџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 83
+
+- index: 980
+  speciesName: бййюнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 110
+
+- index: 981
+  speciesName: Чц­
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 122
+
+- index: 982
+  speciesName: Лцшнзщтуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 144
+
+- index: 983
+  speciesName: дефиучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 145
+
+- index: 984
+  speciesName: Чуршцйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 146
+
+- index: 985
+  speciesName: Эруыпнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 199
+
+- index: 986
+  speciesName: Нуцчуреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 222
+
+- index: 987
+  speciesName: днлюелуутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 263
+
+- index: 988
+  speciesName: Цнтуутйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 264
+
+- index: 989
+  speciesName: Оецщсепеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 554
+
+- index: 990
+  speciesName: Оецсетншетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 555
+
+- index: 991
+  speciesName: гесечпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 562
+
+- index: 992
+  speciesName: Эшщткнчпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 618
+
+- index: 993
+  speciesName: Сцуырншмйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 58
+
+- index: 994
+  speciesName: Лцзетнтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 59
+
+- index: 995
+  speciesName: ауршуцжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 100
+
+- index: 996
+  speciesName: Прйзшцуийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 101
+
+- index: 997
+  speciesName: Юэфмручнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 157
+
+- index: 998
+  speciesName: Ыынркнчмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 211
+
+- index: 999
+  speciesName: Этйечйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 215
+
+- index: 1000
+  speciesName: Эесщцушшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 503
+
+- index: 1001
+  speciesName: Цнррнлетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 549
+
+- index: 1002
+  speciesName: дуцщеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 570
+
+- index: 1003
+  speciesName: дуцуецпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 571
+
+- index: 1004
+  speciesName: Мцеънецэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 628
+
+- index: 1005
+  speciesName: Эрнллууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 705
+
+- index: 1006
+  speciesName: Сууицеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 706
+
+- index: 1007
+  speciesName: Лъерщллџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 713
+
+- index: 1008
+  speciesName: Ойзнищйэйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 724
+
+- index: 1009
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1010
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1011
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1012
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1013
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1014
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1015
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1016
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1017
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1018
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1019
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1020
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1021
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1022
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1023
+  speciesName: Ънзмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 172
+
+- index: 1024
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1025
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1026
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1027
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1028
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1029
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1030
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1031
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1032
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1033
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1034
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1035
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1036
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1037
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1038
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1039
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1040
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1041
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1042
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1043
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1044
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1045
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1046
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1047
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1048
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1049
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1050
+  speciesName: Ятуытџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 201
+
+- index: 1051
+  speciesName: Нечшкуцсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 351
+
+- index: 1052
+  speciesName: Нечшкуцсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 351
+
+- index: 1053
+  speciesName: Нечшкуцсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 351
+
+- index: 1054
+  speciesName: Ойуьэчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 386
+
+- index: 1055
+  speciesName: Ойуьэчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 386
+
+- index: 1056
+  speciesName: Ойуьэчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 386
+
+- index: 1057
+  speciesName: Мщцсэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 412
+
+- index: 1058
+  speciesName: Мщцсэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 412
+
+- index: 1059
+  speciesName: буцсеиесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 413
+
+- index: 1060
+  speciesName: буцсеиесџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 413
+
+- index: 1061
+  speciesName: Нмйццнсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 421
+
+- index: 1062
+  speciesName: Эмйрручџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 422
+
+- index: 1063
+  speciesName: Сечшцуиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 423
+
+- index: 1064
+  speciesName: Ьушусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 479
+
+- index: 1065
+  speciesName: Ьушусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 479
+
+- index: 1066
+  speciesName: Ьушусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 479
+
+- index: 1067
+  speciesName: Ьушусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 479
+
+- index: 1068
+  speciesName: Ьушусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 479
+
+- index: 1069
+  speciesName: Онерлеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 483
+
+- index: 1070
+  speciesName: Ъерпнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 484
+
+- index: 1071
+  speciesName: Снцешнтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 487
+
+- index: 1072
+  speciesName: Эмеэснтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 492
+
+- index: 1073
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1074
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1075
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1076
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1077
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1078
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1079
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1080
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1081
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1082
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1083
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1084
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1085
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1086
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1087
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1088
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1089
+  speciesName: Лцзйщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 493
+
+- index: 1090
+  speciesName: Мечзщрнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 550
+
+- index: 1091
+  speciesName: Мечзщрнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 550
+
+- index: 1092
+  speciesName: Оецсетншетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 555
+
+- index: 1093
+  speciesName: Оецсетншетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 555
+
+- index: 1094
+  speciesName: Оййцрнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 585
+
+- index: 1095
+  speciesName: Оййцрнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 585
+
+- index: 1096
+  speciesName: Оййцрнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 585
+
+- index: 1097
+  speciesName: Эеычжщзпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 586
+
+- index: 1098
+  speciesName: Эеычжщзпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 586
+
+- index: 1099
+  speciesName: Эеычжщзпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 586
+
+- index: 1100
+  speciesName: Юуцтеищчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 641
+
+- index: 1101
+  speciesName: Юмщтищцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 642
+
+- index: 1102
+  speciesName: Цетиуцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 645
+
+- index: 1103
+  speciesName: Птесуцщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 905
+
+- index: 1104
+  speciesName: Хэщцйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 646
+
+- index: 1105
+  speciesName: Хэщцйсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 646
+
+- index: 1106
+  speciesName: Хйрийуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 647
+
+- index: 1107
+  speciesName: Чйруйшшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 648
+
+- index: 1108
+  speciesName: Сйтйчйзшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 649
+
+- index: 1109
+  speciesName: Сйтйчйзшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 649
+
+- index: 1110
+  speciesName: Сйтйчйзшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 649
+
+- index: 1111
+  speciesName: Сйтйчйзшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 649
+
+- index: 1112
+  speciesName: Сцйтнтоеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 658
+
+- index: 1113
+  speciesName: Сцйтнтоеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 658
+
+- index: 1114
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1115
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1116
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1117
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1118
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1119
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1120
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1121
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1122
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1123
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1124
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1125
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1126
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1127
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1128
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1129
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1130
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1131
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1132
+  speciesName: анънррутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 666
+
+- index: 1133
+  speciesName: Ррежжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 669
+
+- index: 1134
+  speciesName: Ррежжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 669
+
+- index: 1135
+  speciesName: Ррежжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 669
+
+- index: 1136
+  speciesName: Ррежжџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 669
+
+- index: 1137
+  speciesName: Рруйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 670
+
+- index: 1138
+  speciesName: Рруйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 670
+
+- index: 1139
+  speciesName: Рруйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 670
+
+- index: 1140
+  speciesName: Рруйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 670
+
+- index: 1141
+  speciesName: Рруйшшйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 670
+
+- index: 1142
+  speciesName: Рруцлйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 671
+
+- index: 1143
+  speciesName: Рруцлйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 671
+
+- index: 1144
+  speciesName: Рруцлйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 671
+
+- index: 1145
+  speciesName: Рруцлйчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 671
+
+- index: 1146
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1147
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1148
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1149
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1150
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1151
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1152
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1153
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1154
+  speciesName: Рщцкцущџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 676
+
+- index: 1155
+  speciesName: Чйуычшнзџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 678
+
+- index: 1156
+  speciesName: Лйлнчречмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 681
+
+- index: 1157
+  speciesName: Ъщсфпежууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 710
+
+- index: 1158
+  speciesName: Ъщсфпежууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 710
+
+- index: 1159
+  speciesName: Ъщсфпежууџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 710
+
+- index: 1160
+  speciesName: Сущцлйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 711
+
+- index: 1161
+  speciesName: Сущцлйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 711
+
+- index: 1162
+  speciesName: Сущцлйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 711
+
+- index: 1163
+  speciesName: вйцтйечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 716
+
+- index: 1164
+  speciesName: дэлецийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 718
+
+- index: 1165
+  speciesName: дэлецийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 718
+
+- index: 1166
+  speciesName: дэлецийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 718
+
+- index: 1167
+  speciesName: дэлецийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 718
+
+- index: 1168
+  speciesName: Тууфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 720
+
+- index: 1169
+  speciesName: Щцнзуцнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 741
+
+- index: 1170
+  speciesName: Щцнзуцнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 741
+
+- index: 1171
+  speciesName: Щцнзуцнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 741
+
+- index: 1172
+  speciesName: Ьузпцщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 744
+
+- index: 1173
+  speciesName: Цэзетцузџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 745
+
+- index: 1174
+  speciesName: Цэзетцузџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 745
+
+- index: 1175
+  speciesName: бнчмныечмнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 746
+
+- index: 1176
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1177
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1178
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1179
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1180
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1181
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1182
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1183
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1184
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1185
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1186
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1187
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1188
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1189
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1190
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1191
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1192
+  speciesName: Энръеррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 773
+
+- index: 1193
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1194
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1195
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1196
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1197
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1198
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1199
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1200
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1201
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1202
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1203
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1204
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1205
+  speciesName: Чнтнуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 774
+
+- index: 1206
+  speciesName: Чнснпэщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 778
+
+- index: 1207
+  speciesName: Шйзцуюсеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 800
+
+- index: 1208
+  speciesName: Шйзцуюсеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 800
+
+- index: 1209
+  speciesName: Шйзцуюсеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 800
+
+- index: 1210
+  speciesName: Челйецтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 801
+
+- index: 1211
+  speciesName: Нцесуцетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 845
+
+- index: 1212
+  speciesName: Нцесуцетшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 845
+
+- index: 1213
+  speciesName: Юуьшцнзншэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 849
+
+- index: 1214
+  speciesName: Энтнчшйеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 854
+
+- index: 1215
+  speciesName: Ъуршйелйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 855
+
+- index: 1216
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1217
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1218
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1219
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1220
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1221
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1222
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1223
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1224
+  speciesName: Пнчзщйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 875
+
+- index: 1225
+  speciesName: Утиййиййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 876
+
+- index: 1226
+  speciesName: Чуцфйпуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 877
+
+- index: 1227
+  speciesName: дезнетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 888
+
+- index: 1228
+  speciesName: десеюйтшеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 889
+
+- index: 1229
+  speciesName: Пшйцтешщчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 890
+
+- index: 1230
+  speciesName: Яцчмнкщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 892
+
+- index: 1231
+  speciesName: децщийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 893
+
+- index: 1232
+  speciesName: Нерэцйьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 898
+
+- index: 1233
+  speciesName: Нерэцйьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 898
+
+- index: 1234
+  speciesName: Мечзщрйлнутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 902
+
+- index: 1235
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1236
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1237
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1238
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1239
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1240
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1241
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1242
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1243
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1244
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1245
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1246
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1247
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1248
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1249
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1250
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1251
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1252
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1253
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1254
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1255
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1256
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1257
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1258
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1259
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1260
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1261
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1262
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1263
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1264
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1265
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1266
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1267
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1268
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1269
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1270
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1271
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1272
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1273
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1274
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1275
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1276
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1277
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1278
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1279
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1280
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1281
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1282
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1283
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1284
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1285
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1286
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1287
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1288
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1289
+  speciesName: Эфцнлешншуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 906
+
+- index: 1290
+  speciesName: Рруцелешуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 907
+
+- index: 1291
+  speciesName: Чйуычзецеиеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 908
+
+- index: 1292
+  speciesName: Рщйзузуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 909
+
+- index: 1293
+  speciesName: Нцузеруцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 910
+
+- index: 1294
+  speciesName: Эпйрйинцлйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 911
+
+- index: 1295
+  speciesName: Ыщеьрэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 912
+
+- index: 1296
+  speciesName: Ыщеьыйррџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 913
+
+- index: 1297
+  speciesName: Ыщехщеъерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 914
+
+- index: 1298
+  speciesName: Цйзмутпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 915
+
+- index: 1299
+  speciesName: Щнтпурултйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 916
+
+- index: 1300
+  speciesName: Щнтпурултйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 916
+
+- index: 1301
+  speciesName: Юецущтшщреџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 917
+
+- index: 1302
+  speciesName: Эфниуфчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 918
+
+- index: 1303
+  speciesName: Шэсжрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 919
+
+- index: 1304
+  speciesName: Цупньџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 920
+
+- index: 1305
+  speciesName: Ъеыснџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 921
+
+- index: 1306
+  speciesName: Ъеысуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 922
+
+- index: 1307
+  speciesName: Ъеысушџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 923
+
+- index: 1308
+  speciesName: Юетийсещчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 924
+
+- index: 1309
+  speciesName: Чещчмуриџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 925
+
+- index: 1310
+  speciesName: Чещчмуриџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 925
+
+- index: 1311
+  speciesName: Рниущлмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 926
+
+- index: 1312
+  speciesName: Оезмчжщтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 927
+
+- index: 1313
+  speciesName: Эсурнъџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 928
+
+- index: 1314
+  speciesName: Оуррнъџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 929
+
+- index: 1315
+  speciesName: Лцжурнъеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 930
+
+- index: 1316
+  speciesName: Эхщеыпежнррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 931
+
+- index: 1317
+  speciesName: Эхщеыпежнррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 931
+
+- index: 1318
+  speciesName: Эхщеыпежнррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 931
+
+- index: 1319
+  speciesName: Эхщеыпежнррэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 931
+
+- index: 1320
+  speciesName: Шезрнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 932
+
+- index: 1321
+  speciesName: Шезрчшезпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 933
+
+- index: 1322
+  speciesName: Сецлетезрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 934
+
+- index: 1323
+  speciesName: Нмецзеийшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 935
+
+- index: 1324
+  speciesName: Лцсецущлйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 936
+
+- index: 1325
+  speciesName: Нйцщрйилйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 937
+
+- index: 1326
+  speciesName: Юеижщржџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 938
+
+- index: 1327
+  speciesName: Мйррнжуршџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 939
+
+- index: 1328
+  speciesName: бешшцйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 940
+
+- index: 1329
+  speciesName: Хнруыешшцйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 941
+
+- index: 1330
+  speciesName: Чечзмнккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 942
+
+- index: 1331
+  speciesName: Чежуччшнккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 943
+
+- index: 1332
+  speciesName: Эмцууирйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 944
+
+- index: 1333
+  speciesName: Сцекененџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 945
+
+- index: 1334
+  speciesName: Мцесжрнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 946
+
+- index: 1335
+  speciesName: Мцесжрйлмечшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 947
+
+- index: 1336
+  speciesName: Юуйичзуурџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 948
+
+- index: 1337
+  speciesName: Юуйичзцщйрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 949
+
+- index: 1338
+  speciesName: Хреыкџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 950
+
+- index: 1339
+  speciesName: Нефчепниџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 951
+
+- index: 1340
+  speciesName: Эзуънррентџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 952
+
+- index: 1341
+  speciesName: Ьйрруцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 953
+
+- index: 1342
+  speciesName: Ьежчзеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 954
+
+- index: 1343
+  speciesName: Ррншшрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 955
+
+- index: 1344
+  speciesName: Пчфешмцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 956
+
+- index: 1345
+  speciesName: Юнтпешнтпџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 957
+
+- index: 1346
+  speciesName: Юнтпешщккџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 958
+
+- index: 1347
+  speciesName: Юнтпешутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 959
+
+- index: 1348
+  speciesName: бнлрйшшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 960
+
+- index: 1349
+  speciesName: бщлшцнуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 961
+
+- index: 1350
+  speciesName: Мусжнцинйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 962
+
+- index: 1351
+  speciesName: Рнтнюйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 963
+
+- index: 1352
+  speciesName: Ъерекнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 964
+
+- index: 1353
+  speciesName: Ъерекнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 964
+
+- index: 1354
+  speciesName: аецуусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 965
+
+- index: 1355
+  speciesName: Ьйъеъцуусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 966
+
+- index: 1356
+  speciesName: Нэзрнюецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 967
+
+- index: 1357
+  speciesName: Щцшмыуцсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 968
+
+- index: 1358
+  speciesName: Срнссйшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 969
+
+- index: 1359
+  speciesName: Срнссуцеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 970
+
+- index: 1360
+  speciesName: Сцйеъециџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 971
+
+- index: 1361
+  speciesName: Тущтичшутйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 972
+
+- index: 1362
+  speciesName: Рреснлуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 973
+
+- index: 1363
+  speciesName: Нйшуиирйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 974
+
+- index: 1364
+  speciesName: Нйшншетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 975
+
+- index: 1365
+  speciesName: айрщюеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 976
+
+- index: 1366
+  speciesName: Оутиуюуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 977
+
+- index: 1367
+  speciesName: Юешчщлнцнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 978
+
+- index: 1368
+  speciesName: Юешчщлнцнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 978
+
+- index: 1369
+  speciesName: Юешчщлнцнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 978
+
+- index: 1370
+  speciesName: Лттнмнрефйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 979
+
+- index: 1371
+  speciesName: Нруичнцйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 980
+
+- index: 1372
+  speciesName: Рецнлнцекџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 981
+
+- index: 1373
+  speciesName: Ощищтчфецзйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 982
+
+- index: 1374
+  speciesName: Ощищтчфецзйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 982
+
+- index: 1375
+  speciesName: Хнтлесжншџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 983
+
+- index: 1376
+  speciesName: Сцйеш
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 984
+
+- index: 1377
+  speciesName: Эзцйес
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 985
+
+- index: 1378
+  speciesName: Мцщшй
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 986
+
+- index: 1379
+  speciesName: Ррщшшйц
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 987
+
+- index: 1380
+  speciesName: Эрншмйц
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 988
+
+- index: 1381
+  speciesName: Эетиэ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 989
+
+- index: 1382
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 990
+
+- index: 1383
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 991
+
+- index: 1384
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 992
+
+- index: 1385
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 993
+
+- index: 1386
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 994
+
+- index: 1387
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 995
+
+- index: 1388
+  speciesName: Рцнлнжеьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 996
+
+- index: 1389
+  speciesName: Лцзшнжеьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 997
+
+- index: 1390
+  speciesName: Меьзернжщцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 998
+
+- index: 1391
+  speciesName: Снсснлмущрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 999
+
+- index: 1392
+  speciesName: Снсснлмущрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 999
+
+- index: 1393
+  speciesName: Смурийтлуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1000
+
+- index: 1394
+  speciesName: буЎНмнйтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1001
+
+- index: 1395
+  speciesName: НмнйтЎЪеуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1002
+
+- index: 1396
+  speciesName: ЮнтлЎЦщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1003
+
+- index: 1397
+  speciesName: НмнЎгщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1004
+
+- index: 1398
+  speciesName: Ьуецнтл
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1005
+
+- index: 1399
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1006
+
+- index: 1400
+  speciesName: Хуцениутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1007
+
+- index: 1401
+  speciesName: Чнцениутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1008
+
+- index: 1402
+  speciesName: Юещцучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 128
+
+- index: 1403
+  speciesName: Юещцучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 128
+
+- index: 1404
+  speciesName: Юещцучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 128
+
+- index: 1405
+  speciesName: бууфйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 194
+
+- index: 1406
+  speciesName: берпнтл
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1009
+
+- index: 1407
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1010
+
+- index: 1408
+  speciesName: Онффрнтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1011
+
+- index: 1409
+  speciesName: Ъуршзмелйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1012
+
+- index: 1410
+  speciesName: Ъуршзмелйнчшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1012
+
+- index: 1411
+  speciesName: Энтнчшзмеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1013
+
+- index: 1412
+  speciesName: Энтнчшзмеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1013
+
+- index: 1413
+  speciesName: Щпниулнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1014
+
+- index: 1414
+  speciesName: Чщтпниуцнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1015
+
+- index: 1415
+  speciesName: Рйюетинфншнџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1016
+
+- index: 1416
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1417
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1418
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1419
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1420
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1421
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1422
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1423
+  speciesName: Щлйцфутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1017
+
+- index: 1424
+  speciesName: Яцчерщтеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 901
+
+- index: 1425
+  speciesName: Лцзмерщиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1018
+
+- index: 1426
+  speciesName: Тэицеффрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1019
+
+- index: 1427
+  speciesName: Сущлнтл
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1020
+
+- index: 1428
+  speciesName: Ьелнтл
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1021
+
+- index: 1429
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1022
+
+- index: 1430
+  speciesName: Уцут
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1023
+
+- index: 1431
+  speciesName: Юйцефелучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1024
+
+- index: 1432
+  speciesName: Юйцефелучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1024
+
+- index: 1433
+  speciesName: Юйцефелучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1024
+
+- index: 1434
+  speciesName: Ъйзмецщтшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 1025
+
+- index: 1435
+  speciesName: null
+
+- index: 1436
+  speciesName: Чушмнсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 414
+
+- index: 1437
+  speciesName: Чушмнсџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 414
+
+- index: 1438
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1439
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1440
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1441
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1442
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1443
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1444
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1445
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1446
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1447
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1448
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1449
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1450
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1451
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1452
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1453
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1454
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1455
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1456
+  speciesName: Эзешшйцжщлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 664
+
+- index: 1457
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1458
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1459
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1460
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1461
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1462
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1463
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1464
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1465
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1466
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1467
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1468
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1469
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1470
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1471
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1472
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1473
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1474
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1475
+  speciesName: Эфйыфеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 665
+
+- index: 1476
+  speciesName: Ьешнзешйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 20
+
+- index: 1477
+  speciesName: Сщсчмуучџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 735
+
+- index: 1478
+  speciesName: анпеъуршџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 738
+
+- index: 1479
+  speciesName: Цщцетшнчџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 754
+
+- index: 1480
+  speciesName: Эереююрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 758
+
+- index: 1481
+  speciesName: Чнснпэщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 778
+
+- index: 1482
+  speciesName: ХуссуЎуџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 784
+
+- index: 1483
+  speciesName: Чецуыепџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 105
+
+- index: 1484
+  speciesName: Ьнжусжййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 743
+
+- index: 1485
+  speciesName: Лцехщетниџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 752
+
+- index: 1486
+  speciesName: Юулйийсецщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 777
+
+- index: 1487
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1488
+  speciesName: Пйъййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 133
+
+- index: 1489
+  speciesName: Цщьцеэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 405
+
+- index: 1490
+  speciesName: Юуцшйццеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 389
+
+- index: 1491
+  speciesName: Псфурйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 395
+
+- index: 1492
+  speciesName: Псфурйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 395
+
+- index: 1493
+  speciesName: Уткйцтефйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 392
+
+- index: 1494
+  speciesName: айтщчещцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 3
+
+- index: 1495
+  speciesName: Мречшунчйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 9
+
+- index: 1496
+  speciesName: Нмецнюециџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 6
+
+- index: 1497
+  speciesName: Мщшшйцкцййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 12
+
+- index: 1498
+  speciesName: Ънпезмщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 25
+
+- index: 1499
+  speciesName: Чйуышмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 52
+
+- index: 1500
+  speciesName: Чезмесфџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 68
+
+- index: 1501
+  speciesName: Сйтлецџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 94
+
+- index: 1502
+  speciesName: Хнтлрйцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 99
+
+- index: 1503
+  speciesName: Цефцечџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 131
+
+- index: 1504
+  speciesName: Пйъййџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 133
+
+- index: 1505
+  speciesName: Этуцреьџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 143
+
+- index: 1506
+  speciesName: Сецжуиуцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 569
+
+- index: 1507
+  speciesName: Чйрсйшерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 809
+
+- index: 1508
+  speciesName: Ьнррежуусџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 812
+
+- index: 1509
+  speciesName: Ннтийцезйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 815
+
+- index: 1510
+  speciesName: Утшйрйутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 818
+
+- index: 1511
+  speciesName: Нуцънптнлмшџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 823
+
+- index: 1512
+  speciesName: Щцжййшрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 826
+
+- index: 1513
+  speciesName: Оцйитеыџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 834
+
+- index: 1514
+  speciesName: Нуеруччерџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 839
+
+- index: 1515
+  speciesName: Рреффрйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 841
+
+- index: 1516
+  speciesName: Лффрйшщтџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 842
+
+- index: 1517
+  speciesName: Эетиезутиеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 844
+
+- index: 1518
+  speciesName: Юуьшцнзншэџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 849
+
+- index: 1519
+  speciesName: Нйтшнчпуцзмџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 851
+
+- index: 1520
+  speciesName: Тешшйцйтйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 858
+
+- index: 1521
+  speciesName: Сцнссчтецрџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 861
+
+- index: 1522
+  speciesName: Лрзцйснйџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 869
+
+- index: 1523
+  speciesName: Нуффйцеоемџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 879
+
+- index: 1524
+  speciesName: Ощцерщиутџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 884
+
+- index: 1525
+  speciesName: Яцчмнкщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 892
+
+- index: 1526
+  speciesName: Яцчмнкщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 892
+
+- index: 1527
+  speciesName: Эрепнтлџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 289
+
+- index: 1528
+  speciesName: Оецсетншетџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 555
+
+- index: 1529
+  speciesName: Онерлеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 483
+
+- index: 1530
+  speciesName: Ъерпнеџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 484
+
+- index: 1531
+  speciesName: Ьучйцеийџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 407
+
+- index: 1532
+  speciesName: Ощчптунцџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 477
+
+- index: 1533
+  speciesName: Чнснпэщџ
+  frontSprite: p
+  shinyPalette: p
+  iconSprite: p
+  nationalDex: 778
+

@@ -30,7 +30,7 @@ def read_data_from_elf(elf_file, address, size):
 def decompress_lz77(data):
     """Decompress LZ77 compressed data"""
     if data[0] != 0x10:  # LZ77 compression identifier
-        print("WARNING: Data does not appear to be LZ77 compressed")
+        print("Data does not appear to be LZ77 compressed")
         return data
 
     decompressed_size = data[1] | (data[2] << 8) | (data[3] << 16)
@@ -56,7 +56,7 @@ def decompress_lz77(data):
                 # Safety check to avoid index errors
                 if disp >= len(result):
                     print(
-                        f"Warning: Displacement {disp} exceeds result size {len(result)}"
+                        f"Displacement {disp} exceeds result size {len(result)}"
                     )
                     continue
 
@@ -134,7 +134,7 @@ def render_sprite(sprite_data, palette, width=64, height=64):
     expected_size = (width * height) // 2  # 4bpp = 2 pixels per byte
     if len(sprite_data) < expected_size:
         print(
-            f"Warning: Sprite data too small ({len(sprite_data)} bytes, expected {expected_size})"
+            f"Sprite data too small ({len(sprite_data)} bytes, expected {expected_size})"
         )
 
     # GBA 4bpp format uses interleaved bit planes
@@ -198,8 +198,6 @@ def main():
     with open(JSON_FILE, "r") as f:
         sprites = json.load(f)
 
-    # Get a specific Pokemon by ID
-    # pokemon_id = 1  # Bulbasaur by default
     pokemon_name = "All"  # Set to a specific name to process just one Pokemon
 
     # Process each Pokemon
@@ -211,10 +209,6 @@ def main():
         index = pokemon["index"]
         name = pokemon["speciesName"]
 
-        # if index > 25:
-        #     break
-
-        # Skip if not the requested Pokemon (unless we want all)
         if pokemon_name != "All" and name != pokemon_name:
             continue
 
@@ -234,7 +228,7 @@ def main():
             continue
 
         # Extract sprite data
-        max_sprite_size = 8192  # Maximum reasonable size for a compressed sprite
+        max_sprite_size = 8192  # Little sanity here
         sprite_data = read_data_from_elf(ELF_FILE, sprite_ptr, max_sprite_size)
 
         if not sprite_data:
@@ -251,31 +245,78 @@ def main():
                 print(f"  Error decompressing sprite: {e}")
                 continue
 
-        # Extract and parse the normal palette
+        # Extract and parse normal palette
         normal_palette = extract_palette(ELF_FILE, normal_palette_ptr)
         if not normal_palette:
             print(f"  Failed to extract normal palette for {name}")
             continue
 
-        # Determine sprite dimensions (most Pokemon sprites are 64x64)
+        # dimension for the regular sprite
         width = height = 64  # Default size
+        single_frame_size = (width * height) // 2  # 4bpp
 
         # Render and save sprites
-        normal_image = render_sprite(sprite_data, normal_palette, width, height)
+        normal_image = render_sprite(
+            sprite_data[:single_frame_size], normal_palette, width, height
+        )
         normal_output_path = os.path.join(OUTPUT_DIR, "front", f"{index}.png")
         normal_image.save(normal_output_path)
         print(f"  Saved normal sprite to {normal_output_path}")
+
+        # Prepare anim directories
+        anim_front_dir = os.path.join(OUTPUT_DIR, "anim_front")
+        anim_front_shiny_dir = os.path.join(OUTPUT_DIR, "anim_front_shiny")
+        os.makedirs(anim_front_dir, exist_ok=True)
+        os.makedirs(anim_front_shiny_dir, exist_ok=True)
+
+        # Handle animation frame for normal
+        if len(sprite_data) >= single_frame_size * 2:
+            anim_frame_data = sprite_data[single_frame_size : single_frame_size * 2]
+            anim_image = render_sprite(anim_frame_data, normal_palette, width, height)
+            anim_output_path = os.path.join(anim_front_dir, f"{index}.png")
+            anim_image.save(anim_output_path)
+            print(f"  Saved anim frame to {anim_output_path}")
+        else:
+            # Copy regular frame to anim directory
+            anim_output_path = os.path.join(anim_front_dir, f"{index}.png")
+            normal_image.save(anim_output_path)
+            print(f"  Copied normal frame to anim directory: {anim_output_path}")
 
         # Process shiny palette if available
         if shiny_palette_ptr:
             shiny_palette = extract_palette(ELF_FILE, shiny_palette_ptr)
             if shiny_palette:
-                shiny_image = render_sprite(sprite_data, shiny_palette, width, height)
+                shiny_image = render_sprite(
+                    sprite_data[:single_frame_size], shiny_palette, width, height
+                )
                 shiny_output_path = os.path.join(
                     OUTPUT_DIR, "front_shiny", f"{index}.png"
                 )
                 shiny_image.save(shiny_output_path)
                 print(f"  Saved shiny sprite to {shiny_output_path}")
+
+                # Handle animation frame for shiny
+                if len(sprite_data) >= single_frame_size * 2:
+                    anim_frame_data = sprite_data[
+                        single_frame_size : single_frame_size * 2
+                    ]
+                    anim_shiny_image = render_sprite(
+                        anim_frame_data, shiny_palette, width, height
+                    )
+                    anim_shiny_output_path = os.path.join(
+                        anim_front_shiny_dir, f"{index}.png"
+                    )
+                    anim_shiny_image.save(anim_shiny_output_path)
+                    print(f"  Saved shiny anim frame to {anim_shiny_output_path}")
+                else:
+                    # Copy regular shiny frame to anim directory
+                    anim_shiny_output_path = os.path.join(
+                        anim_front_shiny_dir, f"{index}.png"
+                    )
+                    shiny_image.save(anim_shiny_output_path)
+                    print(
+                        f"  Copied shiny frame to anim directory: {anim_shiny_output_path}"
+                    )
 
 
 if __name__ == "__main__":

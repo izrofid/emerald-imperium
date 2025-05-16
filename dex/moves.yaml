@@ -6,6 +6,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 2
   name: Karate Chop
@@ -15,6 +16,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 3
   name: Double Slap
@@ -24,6 +26,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 4
   name: Comet Punch
@@ -33,6 +36,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 5
   name: Mega Punch
@@ -42,6 +46,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 6
   name: Pay Day
@@ -51,6 +56,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 7
   name: Fire Punch
@@ -60,6 +66,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 8
   name: Ice Punch
@@ -69,6 +76,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 9
   name: Thunder Punch
@@ -78,6 +86,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 10
   name: Scratch
@@ -87,6 +96,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 11
   name: Vise Grip
@@ -96,6 +106,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 12
   name: Guillotine
@@ -105,6 +116,7 @@
 
   acc: 30
 
+  cat: 0
   properties: ["contact"]
 - id: 13
   name: Razor Wind
@@ -114,6 +126,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 14
   name: Swords Dance
@@ -123,6 +136,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["dance"]
 - id: 15
   name: Cut
@@ -132,6 +146,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 16
   name: Gust
@@ -141,6 +156,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 17
   name: Wing Attack
@@ -150,6 +166,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 18
   name: Whirlwind
@@ -159,6 +176,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["wind"]
 - id: 19
   name: Fly
@@ -168,6 +186,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 20
   name: Bind
@@ -177,6 +196,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 21
   name: Slam
@@ -186,6 +206,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 22
   name: Vine Whip
@@ -195,6 +216,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 23
   name: Stomp
@@ -204,6 +226,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 24
   name: Double Kick
@@ -213,6 +236,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 25
   name: Mega Kick
@@ -222,6 +246,7 @@
 
   acc: 75
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 26
   name: Jump Kick
@@ -231,6 +256,7 @@
 
   acc: 95
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 27
   name: Rolling Kick
@@ -240,6 +266,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 28
   name: Sand Attack
@@ -249,6 +276,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 29
   name: Headbutt
@@ -258,6 +286,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 30
   name: Horn Attack
@@ -267,6 +296,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 31
   name: Fury Attack
@@ -276,6 +306,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 32
   name: Horn Drill
@@ -285,6 +316,7 @@
 
   acc: 30
 
+  cat: 0
   properties: ["contact"]
 - id: 33
   name: Tackle
@@ -294,6 +326,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 34
   name: Body Slam
@@ -303,6 +336,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 35
   name: Wrap
@@ -312,6 +346,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact"]
 - id: 36
   name: Take Down
@@ -321,6 +356,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 37
   name: Thrash
@@ -330,6 +366,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 38
   name: Double-Edge
@@ -339,6 +376,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 39
   name: Tail Whip
@@ -348,6 +386,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 40
   name: Poison Sting
@@ -357,6 +396,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 41
   name: Twineedle
@@ -366,6 +406,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 42
   name: Pin Missile
@@ -375,6 +416,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 43
   name: Leer
@@ -384,6 +426,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 44
   name: Bite
@@ -393,6 +436,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 45
   name: Growl
@@ -402,6 +446,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["sound"]
 - id: 46
   name: Roar
@@ -411,6 +456,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["sound"]
 - id: 47
   name: Sing
@@ -420,6 +466,7 @@
 
   acc: 55
 
+  cat: 2
   properties: ["sound"]
 - id: 48
   name: Supersonic
@@ -429,6 +476,7 @@
 
   acc: 55
 
+  cat: 2
   properties: ["sound"]
 - id: 49
   name: Sonic Boom
@@ -438,6 +486,7 @@
 
   acc: 90
 
+  cat: 1
   properties: []
 - id: 50
   name: Disable
@@ -447,6 +496,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 51
   name: Acid
@@ -456,6 +506,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 52
   name: Ember
@@ -465,6 +516,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 53
   name: Flamethrower
@@ -474,6 +526,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 54
   name: Mist
@@ -483,6 +536,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 55
   name: Water Gun
@@ -492,6 +546,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 56
   name: Hydro Pump
@@ -501,6 +556,7 @@
 
   acc: 80
 
+  cat: 1
   properties: []
 - id: 57
   name: Surf
@@ -510,6 +566,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 58
   name: Ice Beam
@@ -519,6 +576,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 59
   name: Blizzard
@@ -528,6 +586,7 @@
 
   acc: 70
 
+  cat: 1
   properties: ["wind"]
 - id: 60
   name: Psybeam
@@ -537,6 +596,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 61
   name: Bubble Beam
@@ -546,6 +606,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 62
   name: Aurora Beam
@@ -555,6 +616,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 63
   name: Hyper Beam
@@ -564,6 +626,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 64
   name: Peck
@@ -573,6 +636,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 65
   name: Drill Peck
@@ -582,6 +646,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 66
   name: Submission
@@ -591,6 +656,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 67
   name: Low Kick
@@ -600,6 +666,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 68
   name: Counter
@@ -609,6 +676,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 69
   name: Seismic Toss
@@ -618,6 +686,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 70
   name: Strength
@@ -627,6 +696,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 71
   name: Absorb
@@ -636,6 +706,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 72
   name: Mega Drain
@@ -645,6 +716,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 73
   name: Leech Seed
@@ -654,6 +726,7 @@
 
   acc: 90
 
+  cat: 2
   properties: []
 - id: 74
   name: Growth
@@ -663,6 +736,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 75
   name: Razor Leaf
@@ -672,6 +746,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["slicing"]
 - id: 76
   name: Solar Beam
@@ -681,6 +756,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 77
   name: Poison Powder
@@ -690,6 +766,7 @@
 
   acc: 75
 
+  cat: 2
   properties: ["powder"]
 - id: 78
   name: Stun Spore
@@ -699,6 +776,7 @@
 
   acc: 75
 
+  cat: 2
   properties: ["powder"]
 - id: 79
   name: Sleep Powder
@@ -708,6 +786,7 @@
 
   acc: 75
 
+  cat: 2
   properties: ["powder"]
 - id: 80
   name: Petal Dance
@@ -717,6 +796,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["contact", "dance"]
 - id: 81
   name: String Shot
@@ -726,6 +806,7 @@
 
   acc: 95
 
+  cat: 2
   properties: []
 - id: 82
   name: Dragon Rage
@@ -735,6 +816,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 83
   name: Fire Spin
@@ -744,6 +826,7 @@
 
   acc: 85
 
+  cat: 1
   properties: []
 - id: 84
   name: Thunder Shock
@@ -753,6 +836,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 85
   name: Thunderbolt
@@ -762,6 +846,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 86
   name: Thunder Wave
@@ -771,6 +856,7 @@
 
   acc: 90
 
+  cat: 2
   properties: []
 - id: 87
   name: Thunder
@@ -780,6 +866,7 @@
 
   acc: 70
 
+  cat: 1
   properties: []
 - id: 88
   name: Rock Throw
@@ -789,6 +876,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 89
   name: Earthquake
@@ -798,6 +886,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 90
   name: Fissure
@@ -807,6 +896,7 @@
 
   acc: 30
 
+  cat: 0
   properties: []
 - id: 91
   name: Dig
@@ -816,6 +906,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 92
   name: Toxic
@@ -825,6 +916,7 @@
 
   acc: 90
 
+  cat: 2
   properties: []
 - id: 93
   name: Confusion
@@ -834,6 +926,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 94
   name: Psychic
@@ -843,6 +936,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 95
   name: Hypnosis
@@ -852,6 +946,7 @@
 
   acc: 60
 
+  cat: 2
   properties: []
 - id: 96
   name: Meditate
@@ -861,6 +956,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 97
   name: Agility
@@ -870,6 +966,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 98
   name: Quick Attack
@@ -879,6 +976,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 99
   name: Rage
@@ -888,6 +986,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 100
   name: Teleport
@@ -897,6 +996,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 101
   name: Night Shade
@@ -906,6 +1006,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 102
   name: Mimic
@@ -915,6 +1016,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 103
   name: Screech
@@ -924,6 +1026,7 @@
 
   acc: 85
 
+  cat: 2
   properties: ["sound"]
 - id: 104
   name: Double Team
@@ -933,6 +1036,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 105
   name: Recover
@@ -942,6 +1046,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 106
   name: Harden
@@ -951,6 +1056,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 107
   name: Minimize
@@ -960,6 +1066,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 108
   name: Smokescreen
@@ -969,6 +1076,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 109
   name: Confuse Ray
@@ -978,6 +1086,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 110
   name: Withdraw
@@ -987,6 +1096,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 111
   name: Defense Curl
@@ -996,6 +1106,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 112
   name: Barrier
@@ -1005,6 +1116,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 113
   name: Light Screen
@@ -1014,6 +1126,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 114
   name: Haze
@@ -1023,6 +1136,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 115
   name: Reflect
@@ -1032,6 +1146,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 116
   name: Focus Energy
@@ -1041,6 +1156,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 117
   name: Bide
@@ -1050,15 +1166,17 @@
 
   acc: 0
 
+  cat: 0
   properties: ["contact"]
 - id: 118
   name: Metronome
   type: 1
-  description: Waggles a finger to use any Pokêmon move at random.
+  description: Waggles a finger to use any Pokémon move at random.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 119
   name: Mirror Move
@@ -1068,6 +1186,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 120
   name: Self-Destruct
@@ -1077,6 +1196,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 121
   name: Egg Bomb
@@ -1086,6 +1206,7 @@
 
   acc: 75
 
+  cat: 0
   properties: ["ballistic"]
 - id: 122
   name: Lick
@@ -1095,6 +1216,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 123
   name: Smog
@@ -1104,6 +1226,7 @@
 
   acc: 70
 
+  cat: 1
   properties: []
 - id: 124
   name: Sludge
@@ -1113,6 +1236,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 125
   name: Bone Club
@@ -1122,6 +1246,7 @@
 
   acc: 85
 
+  cat: 0
   properties: []
 - id: 126
   name: Fire Blast
@@ -1131,6 +1256,7 @@
 
   acc: 85
 
+  cat: 1
   properties: []
 - id: 127
   name: Waterfall
@@ -1140,6 +1266,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 128
   name: Clamp
@@ -1149,6 +1276,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 129
   name: Swift
@@ -1158,6 +1286,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 130
   name: Skull Bash
@@ -1167,6 +1296,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 131
   name: Spike Cannon
@@ -1176,6 +1306,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["ballistic"]
 - id: 132
   name: Constrict
@@ -1185,6 +1316,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 133
   name: Amnesia
@@ -1194,6 +1326,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 134
   name: Kinesis
@@ -1203,6 +1336,7 @@
 
   acc: 80
 
+  cat: 2
   properties: []
 - id: 135
   name: Soft-Boiled
@@ -1212,6 +1346,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["healing"]
 - id: 136
   name: High Jump Kick
@@ -1221,6 +1356,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 137
   name: Glare
@@ -1230,6 +1366,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 138
   name: Dream Eater
@@ -1239,6 +1376,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 139
   name: Poison Gas
@@ -1248,6 +1386,7 @@
 
   acc: 90
 
+  cat: 2
   properties: []
 - id: 140
   name: Barrage
@@ -1257,6 +1396,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["ballistic"]
 - id: 141
   name: Leech Life
@@ -1266,6 +1406,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "healing"]
 - id: 142
   name: Lovely Kiss
@@ -1275,6 +1416,7 @@
 
   acc: 85
 
+  cat: 2
   properties: []
 - id: 143
   name: Sky Attack
@@ -1284,6 +1426,7 @@
 
   acc: 90
 
+  cat: 0
   properties: []
 - id: 144
   name: Transform
@@ -1293,6 +1436,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 145
   name: Bubble
@@ -1302,6 +1446,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 146
   name: Dizzy Punch
@@ -1311,6 +1456,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 147
   name: Spore
@@ -1320,6 +1466,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["powder"]
 - id: 148
   name: Flash
@@ -1329,6 +1476,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 149
   name: Psywave
@@ -1338,6 +1486,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 150
   name: Splash
@@ -1347,6 +1496,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 151
   name: Acid Armor
@@ -1356,6 +1506,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 152
   name: Crabhammer
@@ -1365,6 +1516,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact"]
 - id: 153
   name: Explosion
@@ -1374,6 +1526,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 154
   name: Fury Swipes
@@ -1383,6 +1536,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 155
   name: Bonemerang
@@ -1392,6 +1546,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 156
   name: Rest
@@ -1401,6 +1556,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 157
   name: Rock Slide
@@ -1410,6 +1566,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 158
   name: Hyper Fang
@@ -1419,6 +1576,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 159
   name: Sharpen
@@ -1428,6 +1586,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 160
   name: Conversion
@@ -1437,6 +1596,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 161
   name: Tri Attack
@@ -1446,6 +1606,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 162
   name: Super Fang
@@ -1455,6 +1616,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact"]
 - id: 163
   name: Slash
@@ -1464,6 +1626,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 164
   name: Substitute
@@ -1473,6 +1636,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 165
   name: Struggle
@@ -1482,6 +1646,7 @@
 
   acc: 0
 
+  cat: 0
   properties: ["contact"]
 - id: 166
   name: Sketch
@@ -1491,6 +1656,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 167
   name: Triple Kick
@@ -1500,6 +1666,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 168
   name: Thief
@@ -1509,6 +1676,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 169
   name: Spider Web
@@ -1518,6 +1686,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 170
   name: Mind Reader
@@ -1527,6 +1696,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 171
   name: Nightmare
@@ -1536,6 +1706,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 172
   name: Flame Wheel
@@ -1545,6 +1716,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 173
   name: Snore
@@ -1554,6 +1726,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 174
   name: Curse
@@ -1563,6 +1736,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 175
   name: Flail
@@ -1572,6 +1746,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 176
   name: Conversion 2
@@ -1581,6 +1756,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 177
   name: Aeroblast
@@ -1590,6 +1766,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 178
   name: Cotton Spore
@@ -1599,6 +1776,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["powder"]
 - id: 179
   name: Reversal
@@ -1608,6 +1786,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 180
   name: Spite
@@ -1617,6 +1796,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 181
   name: Powder Snow
@@ -1626,6 +1806,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 182
   name: Protect
@@ -1635,6 +1816,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 183
   name: Mach Punch
@@ -1644,6 +1826,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 184
   name: Scary Face
@@ -1653,6 +1836,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 185
   name: Feint Attack
@@ -1662,6 +1846,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["contact"]
 - id: 186
   name: Sweet Kiss
@@ -1671,6 +1856,7 @@
 
   acc: 75
 
+  cat: 2
   properties: []
 - id: 187
   name: Belly Drum
@@ -1680,6 +1866,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 188
   name: Sludge Bomb
@@ -1689,6 +1876,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 189
   name: Mud-Slap
@@ -1698,6 +1886,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 190
   name: Octazooka
@@ -1707,6 +1896,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 191
   name: Spikes
@@ -1716,6 +1906,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 192
   name: Zap Cannon
@@ -1725,6 +1916,7 @@
 
   acc: 50
 
+  cat: 1
   properties: ["ballistic"]
 - id: 193
   name: Foresight
@@ -1734,6 +1926,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 194
   name: Destiny Bond
@@ -1743,15 +1936,17 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 195
   name: Perish Song
   type: 1
-  description: Any Pokêmon hearing this song faints in 3 turns.
+  description: Any Pokémon hearing this song faints in 3 turns.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: ["sound"]
 - id: 196
   name: Icy Wind
@@ -1761,6 +1956,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 197
   name: Detect
@@ -1770,6 +1966,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 198
   name: Bone Rush
@@ -1779,6 +1976,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 199
   name: Lock-On
@@ -1788,6 +1986,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 200
   name: Outrage
@@ -1797,6 +1996,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 201
   name: Sandstorm
@@ -1806,6 +2006,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["wind"]
 - id: 202
   name: Giga Drain
@@ -1815,6 +2016,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 203
   name: Endure
@@ -1824,6 +2026,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 204
   name: Charm
@@ -1833,6 +2036,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 205
   name: Rollout
@@ -1842,6 +2046,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact"]
 - id: 206
   name: False Swipe
@@ -1851,6 +2056,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 207
   name: Swagger
@@ -1860,6 +2066,7 @@
 
   acc: 90
 
+  cat: 2
   properties: []
 - id: 208
   name: Milk Drink
@@ -1869,6 +2076,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 209
   name: Spark
@@ -1878,6 +2086,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 210
   name: Fury Cutter
@@ -1887,6 +2096,7 @@
 
   acc: 95
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 211
   name: Steel Wing
@@ -1896,6 +2106,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 212
   name: Mean Look
@@ -1905,6 +2116,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 213
   name: Attract
@@ -1914,6 +2126,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 214
   name: Sleep Talk
@@ -1923,6 +2136,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 215
   name: Heal Bell
@@ -1932,6 +2146,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["sound"]
 - id: 216
   name: Return
@@ -1941,6 +2156,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 217
   name: Present
@@ -1950,6 +2166,7 @@
 
   acc: 90
 
+  cat: 0
   properties: []
 - id: 218
   name: Frustration
@@ -1959,6 +2176,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 219
   name: Safeguard
@@ -1968,6 +2186,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 220
   name: Pain Split
@@ -1977,6 +2196,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 221
   name: Sacred Fire
@@ -1986,6 +2206,7 @@
 
   acc: 95
 
+  cat: 0
   properties: []
 - id: 222
   name: Magnitude
@@ -1995,6 +2216,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 223
   name: Dynamic Punch
@@ -2004,6 +2226,7 @@
 
   acc: 50
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 224
   name: Megahorn
@@ -2013,6 +2236,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 225
   name: Dragon Breath
@@ -2022,6 +2246,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 226
   name: Baton Pass
@@ -2031,6 +2256,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 227
   name: Encore
@@ -2040,6 +2266,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 228
   name: Pursuit
@@ -2049,6 +2276,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 229
   name: Rapid Spin
@@ -2058,6 +2286,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 230
   name: Sweet Scent
@@ -2067,6 +2296,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 231
   name: Iron Tail
@@ -2076,6 +2306,7 @@
 
   acc: 75
 
+  cat: 0
   properties: ["contact"]
 - id: 232
   name: Metal Claw
@@ -2085,6 +2316,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 233
   name: Vital Throw
@@ -2094,6 +2326,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["contact"]
 - id: 234
   name: Morning Sun
@@ -2103,6 +2336,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 235
   name: Synthesis
@@ -2112,6 +2346,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 236
   name: Moonlight
@@ -2121,6 +2356,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 237
   name: Hidden Power
@@ -2130,6 +2366,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 238
   name: Cross Chop
@@ -2139,6 +2376,7 @@
 
   acc: 80
 
+  cat: 0
   properties: ["contact"]
 - id: 239
   name: Twister
@@ -2148,6 +2386,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 240
   name: Rain Dance
@@ -2157,6 +2396,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 241
   name: Sunny Day
@@ -2166,6 +2406,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 242
   name: Crunch
@@ -2175,6 +2416,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 243
   name: Mirror Coat
@@ -2184,15 +2426,17 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 244
   name: Psych Up
   type: 1
-  description: Copies the foe's effect\s] and gives to the user.
+  description: Copies the foe's effectÍs% and gives to the user.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 245
   name: Extreme Speed
@@ -2202,6 +2446,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 246
   name: Ancient Power
@@ -2211,6 +2456,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 247
   name: Shadow Ball
@@ -2220,6 +2466,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 248
   name: Future Sight
@@ -2229,6 +2476,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 249
   name: Rock Smash
@@ -2238,6 +2486,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 250
   name: Whirlpool
@@ -2247,6 +2496,7 @@
 
   acc: 85
 
+  cat: 1
   properties: []
 - id: 251
   name: Beat Up
@@ -2256,6 +2506,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 252
   name: Fake Out
@@ -2265,6 +2516,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 253
   name: Uproar
@@ -2274,6 +2526,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 254
   name: Stockpile
@@ -2283,15 +2536,17 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 255
   name: Spit Up
   type: 1
-  description: Releases stockpiled power \the more the better].
+  description: Releases stockpiled power Íthe more the better%.
   power: 1
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 256
   name: Swallow
@@ -2301,6 +2556,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 257
   name: Heat Wave
@@ -2310,6 +2566,7 @@
 
   acc: 90
 
+  cat: 1
   properties: ["wind"]
 - id: 258
   name: Hail
@@ -2319,6 +2576,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 259
   name: Torment
@@ -2328,6 +2586,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 260
   name: Flatter
@@ -2337,6 +2596,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 261
   name: Will-O-Wisp
@@ -2346,6 +2606,7 @@
 
   acc: 85
 
+  cat: 2
   properties: []
 - id: 262
   name: Memento
@@ -2355,6 +2616,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 263
   name: Facade
@@ -2364,6 +2626,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 264
   name: Focus Punch
@@ -2373,6 +2636,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 265
   name: Smelling Salts
@@ -2382,6 +2646,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 266
   name: Follow Me
@@ -2391,6 +2656,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 267
   name: Nature Power
@@ -2400,6 +2666,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 268
   name: Charge
@@ -2409,6 +2676,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 269
   name: Taunt
@@ -2418,6 +2686,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 270
   name: Helping Hand
@@ -2427,6 +2696,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 271
   name: Trick
@@ -2436,6 +2706,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 272
   name: Role Play
@@ -2445,6 +2716,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 273
   name: Wish
@@ -2454,6 +2726,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 274
   name: Assist
@@ -2463,6 +2736,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 275
   name: Ingrain
@@ -2472,6 +2746,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 276
   name: Superpower
@@ -2481,6 +2756,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 277
   name: Magic Coat
@@ -2490,6 +2766,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 278
   name: Recycle
@@ -2499,6 +2776,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 279
   name: Revenge
@@ -2508,6 +2786,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 280
   name: Brick Break
@@ -2517,6 +2796,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 281
   name: Yawn
@@ -2526,6 +2806,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 282
   name: Knock Off
@@ -2535,6 +2816,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 283
   name: Endeavor
@@ -2544,6 +2826,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 284
   name: Eruption
@@ -2553,6 +2836,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 285
   name: Skill Swap
@@ -2562,6 +2846,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 286
   name: Imprison
@@ -2571,6 +2856,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 287
   name: Refresh
@@ -2580,6 +2866,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 288
   name: Grudge
@@ -2589,6 +2876,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 289
   name: Snatch
@@ -2598,6 +2886,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 290
   name: Secret Power
@@ -2607,6 +2896,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 291
   name: Dive
@@ -2616,6 +2906,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 292
   name: Arm Thrust
@@ -2625,15 +2916,17 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 293
   name: Camouflage
   type: 1
-  description: Alters the Pokêmon's type depending on the location.
+  description: Alters the Pokémon's type depending on the location.
   power: 0
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 294
   name: Tail Glow
@@ -2643,6 +2936,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 295
   name: Luster Purge
@@ -2652,6 +2946,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 296
   name: Mist Ball
@@ -2661,6 +2956,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 297
   name: Feather Dance
@@ -2670,15 +2966,17 @@
 
   acc: 100
 
+  cat: 2
   properties: ["dance"]
 - id: 298
   name: Teeter Dance
   type: 1
-  description: Confuses all Pokêmon on the scene.
+  description: Confuses all Pokémon on the scene.
   power: 0
 
   acc: 100
 
+  cat: 2
   properties: ["dance"]
 - id: 299
   name: Blaze Kick
@@ -2688,6 +2986,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 300
   name: Mud Sport
@@ -2697,6 +2996,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 301
   name: Ice Ball
@@ -2706,6 +3006,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "ballistic"]
 - id: 302
   name: Needle Arm
@@ -2715,6 +3016,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 303
   name: Slack Off
@@ -2724,6 +3026,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["healing"]
 - id: 304
   name: Hyper Voice
@@ -2733,6 +3036,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 305
   name: Poison Fang
@@ -2742,6 +3046,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 306
   name: Crush Claw
@@ -2751,6 +3056,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 307
   name: Blast Burn
@@ -2760,6 +3066,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 308
   name: Hydro Cannon
@@ -2769,6 +3076,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 309
   name: Meteor Mash
@@ -2778,6 +3086,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 310
   name: Astonish
@@ -2787,6 +3096,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 311
   name: Weather Ball
@@ -2796,6 +3106,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 312
   name: Aromatherapy
@@ -2805,6 +3116,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 313
   name: Fake Tears
@@ -2814,6 +3126,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 314
   name: Air Cutter
@@ -2823,6 +3136,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["slicing", "wind"]
 - id: 315
   name: Overheat
@@ -2832,6 +3146,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 316
   name: Odor Sleuth
@@ -2841,6 +3156,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 317
   name: Rock Tomb
@@ -2850,6 +3166,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 318
   name: Silver Wind
@@ -2859,6 +3176,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 319
   name: Metal Sound
@@ -2868,6 +3186,7 @@
 
   acc: 85
 
+  cat: 2
   properties: ["sound"]
 - id: 320
   name: Grass Whistle
@@ -2877,6 +3196,7 @@
 
   acc: 55
 
+  cat: 2
   properties: ["sound"]
 - id: 321
   name: Tickle
@@ -2886,6 +3206,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 322
   name: Cosmic Power
@@ -2895,6 +3216,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 323
   name: Water Spout
@@ -2904,6 +3226,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 324
   name: Signal Beam
@@ -2913,6 +3236,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 325
   name: Shadow Punch
@@ -2922,6 +3246,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 326
   name: Extrasensory
@@ -2931,6 +3256,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 327
   name: Sky Uppercut
@@ -2940,6 +3266,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 328
   name: Sand Tomb
@@ -2949,6 +3276,7 @@
 
   acc: 85
 
+  cat: 0
   properties: []
 - id: 329
   name: Sheer Cold
@@ -2958,6 +3286,7 @@
 
   acc: 30
 
+  cat: 1
   properties: []
 - id: 330
   name: Muddy Water
@@ -2967,6 +3296,7 @@
 
   acc: 85
 
+  cat: 1
   properties: []
 - id: 331
   name: Bullet Seed
@@ -2976,6 +3306,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["ballistic"]
 - id: 332
   name: Aerial Ace
@@ -2985,6 +3316,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 333
   name: Icicle Spear
@@ -2994,6 +3326,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 334
   name: Iron Defense
@@ -3003,6 +3336,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 335
   name: Block
@@ -3012,6 +3346,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 336
   name: Howl
@@ -3021,6 +3356,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["sound"]
 - id: 337
   name: Dragon Claw
@@ -3030,6 +3366,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 338
   name: Frenzy Plant
@@ -3039,6 +3376,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 339
   name: Bulk Up
@@ -3048,6 +3386,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 340
   name: Bounce
@@ -3057,6 +3396,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 341
   name: Mud Shot
@@ -3066,6 +3406,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 342
   name: Poison Tail
@@ -3075,6 +3416,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 343
   name: Covet
@@ -3084,6 +3426,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 344
   name: Volt Tackle
@@ -3093,6 +3436,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 345
   name: Magical Leaf
@@ -3102,6 +3446,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 346
   name: Water Sport
@@ -3111,6 +3456,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 347
   name: Calm Mind
@@ -3120,6 +3466,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 348
   name: Leaf Blade
@@ -3129,6 +3476,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 349
   name: Dragon Dance
@@ -3138,6 +3486,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["dance"]
 - id: 350
   name: Rock Blast
@@ -3147,6 +3496,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["ballistic"]
 - id: 351
   name: Shock Wave
@@ -3156,6 +3506,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 352
   name: Water Pulse
@@ -3165,6 +3516,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["pulse"]
 - id: 353
   name: Doom Desire
@@ -3174,6 +3526,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 354
   name: Psycho Boost
@@ -3183,6 +3536,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 355
   name: Roost
@@ -3192,6 +3546,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 356
   name: Gravity
@@ -3201,6 +3556,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 357
   name: Miracle Eye
@@ -3210,6 +3566,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 358
   name: Wake-Up Slap
@@ -3219,6 +3576,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 359
   name: Hammer Arm
@@ -3228,6 +3586,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 360
   name: Gyro Ball
@@ -3237,6 +3596,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "ballistic"]
 - id: 361
   name: Healing Wish
@@ -3246,6 +3606,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 362
   name: Brine
@@ -3255,6 +3616,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 363
   name: Natural Gift
@@ -3264,6 +3626,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 364
   name: Feint
@@ -3273,6 +3636,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 365
   name: Pluck
@@ -3282,6 +3646,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 366
   name: Tailwind
@@ -3291,6 +3656,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["wind"]
 - id: 367
   name: Acupressure
@@ -3300,6 +3666,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 368
   name: Metal Burst
@@ -3309,6 +3676,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 369
   name: U-turn
@@ -3318,6 +3686,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 370
   name: Close Combat
@@ -3327,6 +3696,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 371
   name: Payback
@@ -3336,6 +3706,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 372
   name: Assurance
@@ -3345,6 +3716,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 373
   name: Embargo
@@ -3354,6 +3726,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 374
   name: Fling
@@ -3363,6 +3736,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 375
   name: Psycho Shift
@@ -3372,6 +3746,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 376
   name: Trump Card
@@ -3381,6 +3756,7 @@
 
   acc: 0
 
+  cat: 1
   properties: ["contact"]
 - id: 377
   name: Heal Block
@@ -3390,6 +3766,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 378
   name: Wring Out
@@ -3399,6 +3776,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["contact"]
 - id: 379
   name: Power Trick
@@ -3408,6 +3786,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 380
   name: Gastro Acid
@@ -3417,6 +3796,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 381
   name: Lucky Chant
@@ -3426,6 +3806,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 382
   name: Me First
@@ -3435,6 +3816,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 383
   name: Copycat
@@ -3444,6 +3826,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 384
   name: Power Swap
@@ -3453,6 +3836,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 385
   name: Guard Swap
@@ -3462,6 +3846,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 386
   name: Punishment
@@ -3471,6 +3856,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 387
   name: Last Resort
@@ -3480,6 +3866,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 388
   name: Worry Seed
@@ -3489,6 +3876,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 389
   name: Sucker Punch
@@ -3498,6 +3886,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 390
   name: Toxic Spikes
@@ -3507,6 +3896,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 391
   name: Heart Swap
@@ -3516,6 +3906,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 392
   name: Aqua Ring
@@ -3525,6 +3916,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 393
   name: Magnet Rise
@@ -3534,6 +3926,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 394
   name: Flare Blitz
@@ -3543,6 +3936,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 395
   name: Force Palm
@@ -3552,6 +3946,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 396
   name: Aura Sphere
@@ -3561,6 +3956,7 @@
 
   acc: 999
 
+  cat: 1
   properties: ["pulse", "ballistic"]
 - id: 397
   name: Rock Polish
@@ -3570,6 +3966,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 398
   name: Poison Jab
@@ -3579,6 +3976,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 399
   name: Dark Pulse
@@ -3588,6 +3986,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["pulse"]
 - id: 400
   name: Night Slash
@@ -3597,6 +3996,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 401
   name: Aqua Tail
@@ -3606,6 +4006,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 402
   name: Seed Bomb
@@ -3615,6 +4016,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["ballistic"]
 - id: 403
   name: Air Slash
@@ -3624,6 +4026,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["slicing"]
 - id: 404
   name: X-Scissor
@@ -3633,6 +4036,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 405
   name: Bug Buzz
@@ -3642,6 +4046,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 406
   name: Dragon Pulse
@@ -3651,6 +4056,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["pulse"]
 - id: 407
   name: Dragon Rush
@@ -3660,6 +4066,7 @@
 
   acc: 75
 
+  cat: 0
   properties: ["contact"]
 - id: 408
   name: Power Gem
@@ -3669,6 +4076,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 409
   name: Drain Punch
@@ -3678,6 +4086,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching", "healing"]
 - id: 410
   name: Vacuum Wave
@@ -3687,6 +4096,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 411
   name: Focus Blast
@@ -3696,6 +4106,7 @@
 
   acc: 70
 
+  cat: 1
   properties: ["ballistic"]
 - id: 412
   name: Energy Ball
@@ -3705,6 +4116,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 413
   name: Brave Bird
@@ -3714,6 +4126,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 414
   name: Earth Power
@@ -3723,6 +4136,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 415
   name: Switcheroo
@@ -3732,6 +4146,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 416
   name: Giga Impact
@@ -3741,6 +4156,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 417
   name: Nasty Plot
@@ -3750,6 +4166,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 418
   name: Bullet Punch
@@ -3759,6 +4176,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 419
   name: Avalanche
@@ -3768,6 +4186,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 420
   name: Ice Shard
@@ -3777,6 +4196,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 421
   name: Shadow Claw
@@ -3786,6 +4206,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 422
   name: Thunder Fang
@@ -3795,6 +4216,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 423
   name: Ice Fang
@@ -3804,6 +4226,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 424
   name: Fire Fang
@@ -3813,6 +4236,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 425
   name: Shadow Sneak
@@ -3822,6 +4246,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 426
   name: Mud Bomb
@@ -3831,6 +4256,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 427
   name: Psycho Cut
@@ -3840,6 +4266,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["slicing"]
 - id: 428
   name: Zen Headbutt
@@ -3849,6 +4276,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 429
   name: Mirror Shot
@@ -3858,6 +4286,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 430
   name: Flash Cannon
@@ -3867,6 +4296,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 431
   name: Rock Climb
@@ -3876,6 +4306,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 432
   name: Defog
@@ -3885,15 +4316,17 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 433
   name: Trick Room
   type: 15
-  description: Slower Pokêmon get to move first for 5 turns.
+  description: Slower Pokémon get to move first for 5 turns.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 434
   name: Draco Meteor
@@ -3903,6 +4336,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 435
   name: Discharge
@@ -3912,6 +4346,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 436
   name: Lava Plume
@@ -3921,6 +4356,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 437
   name: Leaf Storm
@@ -3930,6 +4366,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 438
   name: Power Whip
@@ -3939,6 +4376,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact"]
 - id: 439
   name: Rock Wrecker
@@ -3948,6 +4386,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["ballistic"]
 - id: 440
   name: Cross Poison
@@ -3957,6 +4396,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 441
   name: Gunk Shot
@@ -3966,6 +4406,7 @@
 
   acc: 80
 
+  cat: 0
   properties: []
 - id: 442
   name: Iron Head
@@ -3975,6 +4416,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 443
   name: Magnet Bomb
@@ -3984,6 +4426,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["ballistic"]
 - id: 444
   name: Stone Edge
@@ -3993,6 +4436,7 @@
 
   acc: 90
 
+  cat: 0
   properties: []
 - id: 445
   name: Captivate
@@ -4002,6 +4446,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 446
   name: Stealth Rock
@@ -4011,6 +4456,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 447
   name: Grass Knot
@@ -4020,6 +4466,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["contact"]
 - id: 448
   name: Chatter
@@ -4029,6 +4476,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 449
   name: Judgment
@@ -4038,6 +4486,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 450
   name: Bug Bite
@@ -4047,6 +4496,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 451
   name: Charge Beam
@@ -4056,6 +4506,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 452
   name: Wood Hammer
@@ -4065,6 +4516,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 453
   name: Aqua Jet
@@ -4074,6 +4526,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 454
   name: Attack Order
@@ -4083,6 +4536,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 455
   name: Defend Order
@@ -4092,6 +4546,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 456
   name: Heal Order
@@ -4101,6 +4556,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 457
   name: Head Smash
@@ -4110,6 +4566,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 458
   name: Double Hit
@@ -4119,6 +4576,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 459
   name: Roar of Time
@@ -4128,6 +4586,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 460
   name: Spacial Rend
@@ -4137,6 +4596,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 461
   name: Lunar Dance
@@ -4146,6 +4606,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["dance", "healing"]
 - id: 462
   name: Crush Grip
@@ -4155,6 +4616,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 463
   name: Magma Storm
@@ -4164,6 +4626,7 @@
 
   acc: 75
 
+  cat: 1
   properties: []
 - id: 464
   name: Dark Void
@@ -4173,6 +4636,7 @@
 
   acc: 80
 
+  cat: 2
   properties: []
 - id: 465
   name: Seed Flare
@@ -4182,6 +4646,7 @@
 
   acc: 85
 
+  cat: 1
   properties: []
 - id: 466
   name: Ominous Wind
@@ -4191,6 +4656,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 467
   name: Shadow Force
@@ -4200,6 +4666,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 468
   name: Hone Claws
@@ -4209,6 +4676,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 469
   name: Wide Guard
@@ -4218,6 +4686,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 470
   name: Guard Split
@@ -4227,6 +4696,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 471
   name: Power Split
@@ -4236,6 +4706,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 472
   name: Wonder Room
@@ -4245,6 +4716,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 473
   name: Psyshock
@@ -4254,6 +4726,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 474
   name: Venoshock
@@ -4263,6 +4736,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 475
   name: Autotomize
@@ -4272,6 +4746,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 476
   name: Rage Powder
@@ -4281,6 +4756,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["powder"]
 - id: 477
   name: Telekinesis
@@ -4290,6 +4766,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 478
   name: Magic Room
@@ -4299,6 +4776,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 479
   name: Smack Down
@@ -4308,6 +4786,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 480
   name: Storm Throw
@@ -4317,6 +4796,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 481
   name: Flame Burst
@@ -4326,6 +4806,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 482
   name: Sludge Wave
@@ -4335,6 +4816,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 483
   name: Quiver Dance
@@ -4344,6 +4826,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["dance"]
 - id: 484
   name: Heavy Slam
@@ -4353,6 +4836,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 485
   name: Synchronoise
@@ -4362,6 +4846,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 486
   name: Electro Ball
@@ -4371,6 +4856,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 487
   name: Soak
@@ -4380,6 +4866,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 488
   name: Flame Charge
@@ -4389,6 +4876,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 489
   name: Coil
@@ -4398,6 +4886,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 490
   name: Low Sweep
@@ -4407,6 +4896,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 491
   name: Acid Spray
@@ -4416,6 +4906,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 492
   name: Foul Play
@@ -4425,6 +4916,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 493
   name: Simple Beam
@@ -4434,6 +4926,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 494
   name: Entrainment
@@ -4443,6 +4936,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 495
   name: After You
@@ -4452,6 +4946,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 496
   name: Round
@@ -4461,6 +4956,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 497
   name: Echoed Voice
@@ -4470,6 +4966,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 498
   name: Chip Away
@@ -4479,6 +4976,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 499
   name: Clear Smog
@@ -4488,6 +4986,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 500
   name: Stored Power
@@ -4497,6 +4996,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 501
   name: Quick Guard
@@ -4506,6 +5006,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 502
   name: Ally Switch
@@ -4515,6 +5016,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 503
   name: Scald
@@ -4524,6 +5026,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 504
   name: Shell Smash
@@ -4533,6 +5036,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 505
   name: Heal Pulse
@@ -4542,6 +5046,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["pulse", "healing"]
 - id: 506
   name: Hex
@@ -4551,6 +5056,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 507
   name: Sky Drop
@@ -4560,6 +5066,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 508
   name: Shift Gear
@@ -4569,6 +5076,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 509
   name: Circle Throw
@@ -4578,6 +5086,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 510
   name: Incinerate
@@ -4587,6 +5096,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 511
   name: Quash
@@ -4596,6 +5106,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 512
   name: Acrobatics
@@ -4605,6 +5116,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 513
   name: Reflect Type
@@ -4614,6 +5126,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 514
   name: Retaliate
@@ -4623,6 +5136,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 515
   name: Final Gambit
@@ -4632,6 +5146,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 516
   name: Bestow
@@ -4641,6 +5156,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 517
   name: Inferno
@@ -4650,6 +5166,7 @@
 
   acc: 50
 
+  cat: 1
   properties: []
 - id: 518
   name: Water Pledge
@@ -4659,6 +5176,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 519
   name: Fire Pledge
@@ -4668,6 +5186,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 520
   name: Grass Pledge
@@ -4677,6 +5196,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 521
   name: Volt Switch
@@ -4686,6 +5206,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 522
   name: Struggle Bug
@@ -4695,6 +5216,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 523
   name: Bulldoze
@@ -4704,6 +5226,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 524
   name: Frost Breath
@@ -4713,6 +5236,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 525
   name: Dragon Tail
@@ -4722,6 +5246,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 526
   name: Work Up
@@ -4731,6 +5256,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 527
   name: Electroweb
@@ -4740,6 +5266,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 528
   name: Wild Charge
@@ -4749,6 +5276,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 529
   name: Drill Run
@@ -4758,6 +5286,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 530
   name: Dual Chop
@@ -4767,6 +5296,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 531
   name: Heart Stamp
@@ -4776,6 +5306,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 532
   name: Horn Leech
@@ -4785,6 +5316,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "healing"]
 - id: 533
   name: Sacred Sword
@@ -4794,6 +5326,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 534
   name: Razor Shell
@@ -4803,6 +5336,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 535
   name: Heat Crash
@@ -4812,6 +5346,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 536
   name: Leaf Tornado
@@ -4821,6 +5356,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 537
   name: Steamroller
@@ -4830,6 +5366,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 538
   name: Cotton Guard
@@ -4839,6 +5376,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 539
   name: Night Daze
@@ -4848,6 +5386,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 540
   name: Psystrike
@@ -4857,6 +5396,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 541
   name: Tail Slap
@@ -4866,6 +5406,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 542
   name: Hurricane
@@ -4875,6 +5416,7 @@
 
   acc: 70
 
+  cat: 1
   properties: ["wind"]
 - id: 543
   name: Head Charge
@@ -4884,6 +5426,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 544
   name: Gear Grind
@@ -4893,6 +5436,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 545
   name: Searing Shot
@@ -4902,6 +5446,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 546
   name: Techno Blast
@@ -4911,6 +5456,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 547
   name: Relic Song
@@ -4920,6 +5466,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 548
   name: Secret Sword
@@ -4929,6 +5476,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["slicing"]
 - id: 549
   name: Glaciate
@@ -4938,6 +5486,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 550
   name: Bolt Strike
@@ -4947,6 +5496,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 551
   name: Blue Flare
@@ -4956,6 +5506,7 @@
 
   acc: 85
 
+  cat: 1
   properties: []
 - id: 552
   name: Fiery Dance
@@ -4965,6 +5516,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["dance"]
 - id: 553
   name: Freeze Shock
@@ -4974,6 +5526,7 @@
 
   acc: 90
 
+  cat: 0
   properties: []
 - id: 554
   name: Ice Burn
@@ -4983,6 +5536,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 555
   name: Snarl
@@ -4992,6 +5546,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 556
   name: Icicle Crash
@@ -5001,6 +5556,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 557
   name: V-create
@@ -5010,6 +5566,7 @@
 
   acc: 95
 
+  cat: 0
   properties: ["contact"]
 - id: 558
   name: Fusion Flare
@@ -5019,6 +5576,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 559
   name: Fusion Bolt
@@ -5028,6 +5586,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 560
   name: Flying Press
@@ -5037,6 +5596,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 561
   name: Mat Block
@@ -5046,6 +5606,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 562
   name: Belch
@@ -5055,15 +5616,17 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 563
   name: Rototiller
   type: 5
-  description: Ups the Attack and Sp. Atk of Grass-type Pokêmon.
+  description: Ups the Attack and Sp. Atk of Grass-type Pokémon.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 564
   name: Sticky Web
@@ -5073,6 +5636,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 565
   name: Fell Stinger
@@ -5082,6 +5646,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 566
   name: Phantom Force
@@ -5091,6 +5656,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 567
   name: Trick-or-Treat
@@ -5100,6 +5666,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 568
   name: Noble Roar
@@ -5109,6 +5676,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["sound"]
 - id: 569
   name: Ion Deluge
@@ -5118,15 +5686,17 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 570
   name: Parabolic Charge
   type: 14
-  description: Damages adjacent Pokêmon and heals up by half of it.
+  description: Damages adjacent Pokémon and heals up by half of it.
   power: 75
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 571
   name: Forest's Curse
@@ -5136,6 +5706,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 572
   name: Petal Blizzard
@@ -5145,6 +5716,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["wind"]
 - id: 573
   name: Freeze-Dry
@@ -5154,6 +5726,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 574
   name: Disarming Voice
@@ -5163,6 +5736,7 @@
 
   acc: 999
 
+  cat: 1
   properties: ["sound"]
 - id: 575
   name: Parting Shot
@@ -5172,6 +5746,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["sound"]
 - id: 576
   name: Topsy-Turvy
@@ -5181,6 +5756,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 577
   name: Draining Kiss
@@ -5190,6 +5766,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["contact", "healing"]
 - id: 578
   name: Crafty Shield
@@ -5199,15 +5776,17 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 579
   name: Flower Shield
   type: 19
-  description: Raises the Defense of Grass-type Pokêmon.
+  description: Raises the Defense of Grass-type Pokémon.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 580
   name: Grassy Terrain
@@ -5217,6 +5796,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 581
   name: Misty Terrain
@@ -5226,6 +5806,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 582
   name: Electrify
@@ -5235,6 +5816,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 583
   name: Play Rough
@@ -5244,6 +5826,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 584
   name: Fairy Wind
@@ -5253,6 +5836,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["wind"]
 - id: 585
   name: Moonblast
@@ -5262,6 +5846,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 586
   name: Boomburst
@@ -5271,6 +5856,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 587
   name: Fairy Lock
@@ -5280,6 +5866,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 588
   name: King's Shield
@@ -5289,6 +5876,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 589
   name: Play Nice
@@ -5298,6 +5886,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 590
   name: Confide
@@ -5307,6 +5896,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["sound"]
 - id: 591
   name: Diamond Storm
@@ -5316,6 +5906,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 592
   name: Steam Eruption
@@ -5325,6 +5916,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 593
   name: Hyperspace Hole
@@ -5334,6 +5926,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 594
   name: Water Shuriken
@@ -5343,6 +5936,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 595
   name: Mystical Fire
@@ -5352,6 +5946,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 596
   name: Spiky Shield
@@ -5361,15 +5956,17 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 597
   name: Aromatic Mist
   type: 19
-  description: Raises the Sp. Def of a partner Pokêmon.
+  description: Raises the Sp. Def of a partner Pokémon.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 598
   name: Eerie Impulse
@@ -5379,6 +5976,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 599
   name: Venom Drench
@@ -5388,6 +5986,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 600
   name: Powder
@@ -5397,6 +5996,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["powder"]
 - id: 601
   name: Geomancy
@@ -5406,6 +6006,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 602
   name: Magnetic Flux
@@ -5415,6 +6016,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 603
   name: Happy Hour
@@ -5424,6 +6026,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 604
   name: Electric Terrain
@@ -5433,6 +6036,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 605
   name: Dazzling Gleam
@@ -5442,6 +6046,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 606
   name: Celebrate
@@ -5451,6 +6056,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 607
   name: Hold Hands
@@ -5460,6 +6066,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 608
   name: Baby-Doll Eyes
@@ -5469,6 +6076,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 609
   name: Nuzzle
@@ -5478,6 +6086,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 610
   name: Hold Back
@@ -5487,6 +6096,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 611
   name: Infestation
@@ -5496,6 +6106,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["contact"]
 - id: 612
   name: Power-Up Punch
@@ -5505,6 +6116,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 613
   name: Oblivion Wing
@@ -5514,6 +6126,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 614
   name: Thousand Arrows
@@ -5523,6 +6136,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 615
   name: Thousand Waves
@@ -5532,6 +6146,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 616
   name: Land's Wrath
@@ -5541,6 +6156,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 617
   name: Light Of Ruin
@@ -5550,6 +6166,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 618
   name: Origin Pulse
@@ -5559,6 +6176,7 @@
 
   acc: 85
 
+  cat: 1
   properties: ["pulse"]
 - id: 619
   name: Precipice Blades
@@ -5568,6 +6186,7 @@
 
   acc: 85
 
+  cat: 0
   properties: []
 - id: 620
   name: Dragon Ascent
@@ -5577,6 +6196,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 621
   name: Hyperspace Fury
@@ -5586,6 +6206,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 622
   name: Shore Up
@@ -5595,6 +6216,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 623
   name: First Impression
@@ -5604,6 +6226,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 624
   name: Baneful Bunker
@@ -5613,6 +6236,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 625
   name: Spirit Shackle
@@ -5622,6 +6246,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 626
   name: Darkest Lariat
@@ -5631,6 +6256,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 627
   name: Sparkling Aria
@@ -5640,6 +6266,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 628
   name: Ice Hammer
@@ -5649,6 +6276,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 629
   name: Floral Healing
@@ -5658,6 +6286,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 630
   name: High Horsepower
@@ -5667,6 +6296,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 631
   name: Strength Sap
@@ -5676,6 +6306,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["healing"]
 - id: 632
   name: Solar Blade
@@ -5685,6 +6316,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 633
   name: Leafage
@@ -5694,15 +6326,17 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 634
   name: Spotlight
   type: 1
-  description: Makes the foe attack the spotlighted Pokêmon.
+  description: Makes the foe attack the spotlighted Pokémon.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 635
   name: Toxic Thread
@@ -5712,6 +6346,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 636
   name: Laser Focus
@@ -5721,6 +6356,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 637
   name: Gear Up
@@ -5730,6 +6366,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 638
   name: Throat Chop
@@ -5739,6 +6376,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 639
   name: Pollen Puff
@@ -5748,6 +6386,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 640
   name: Anchor Shot
@@ -5757,6 +6396,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 641
   name: Psychic Terrain
@@ -5766,6 +6406,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 642
   name: Lunge
@@ -5775,6 +6416,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 643
   name: Fire Lash
@@ -5784,6 +6426,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 644
   name: Power Trip
@@ -5793,6 +6436,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 645
   name: Burn Up
@@ -5802,6 +6446,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 646
   name: Speed Swap
@@ -5811,6 +6456,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 647
   name: Smart Strike
@@ -5820,6 +6466,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["contact"]
 - id: 648
   name: Purify
@@ -5829,6 +6476,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 649
   name: Revelation Dance
@@ -5838,6 +6486,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["dance"]
 - id: 650
   name: Core Enforcer
@@ -5847,6 +6496,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 651
   name: Trop Kick
@@ -5856,6 +6506,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 652
   name: Instruct
@@ -5865,6 +6516,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 653
   name: Beak Blast
@@ -5874,6 +6526,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["ballistic"]
 - id: 654
   name: Clanging Scales
@@ -5883,6 +6536,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 655
   name: Dragon Hammer
@@ -5892,6 +6546,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 656
   name: Brutal Swing
@@ -5901,6 +6556,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 657
   name: Aurora Veil
@@ -5910,6 +6566,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 658
   name: Shell Trap
@@ -5919,6 +6576,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 659
   name: Fleur Cannon
@@ -5928,6 +6586,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 660
   name: Psychic Fangs
@@ -5937,6 +6596,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 661
   name: Stomping Tantrum
@@ -5946,6 +6606,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 662
   name: Shadow Bone
@@ -5955,6 +6616,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 663
   name: Accelerock
@@ -5964,6 +6626,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 664
   name: Liquidation
@@ -5973,6 +6636,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 665
   name: Prismatic Laser
@@ -5982,6 +6646,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 666
   name: Spectral Thief
@@ -5991,6 +6656,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 667
   name: Sunsteel Strike
@@ -6000,6 +6666,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 668
   name: Moongeist Beam
@@ -6009,6 +6676,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 669
   name: Tearful Look
@@ -6018,6 +6686,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 670
   name: Zing Zap
@@ -6027,6 +6696,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 671
   name: Nature's Madness
@@ -6036,6 +6706,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 672
   name: Multi-Attack
@@ -6045,6 +6716,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 673
   name: Mind Blown
@@ -6054,6 +6726,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 674
   name: Plasma Fists
@@ -6063,6 +6736,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 675
   name: Photon Geyser
@@ -6072,6 +6746,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 676
   name: Zippy Zap
@@ -6081,6 +6756,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 677
   name: Splishy Splash
@@ -6090,6 +6766,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 678
   name: Floaty Fall
@@ -6099,6 +6776,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 679
   name: Pika Papow
@@ -6108,6 +6786,7 @@
 
   acc: 0
 
+  cat: 1
   properties: []
 - id: 680
   name: Bouncy Bubble
@@ -6117,6 +6796,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 681
   name: Buzzy Buzz
@@ -6126,6 +6806,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 682
   name: Sizzly Slide
@@ -6135,6 +6816,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 683
   name: Glitzy Glow
@@ -6144,6 +6826,7 @@
 
   acc: 95
 
+  cat: 1
   properties: []
 - id: 684
   name: Baddy Bad
@@ -6153,6 +6836,7 @@
 
   acc: 95
 
+  cat: 1
   properties: []
 - id: 685
   name: Sappy Seed
@@ -6162,6 +6846,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 686
   name: Freezy Frost
@@ -6171,6 +6856,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 687
   name: Sparkly Swirl
@@ -6180,6 +6866,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 688
   name: Veevee Volley
@@ -6189,6 +6876,7 @@
 
   acc: 0
 
+  cat: 0
   properties: ["contact"]
 - id: 689
   name: Double Iron Bash
@@ -6198,6 +6886,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 690
   name: Dynamax Cannon
@@ -6207,6 +6896,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 691
   name: Snipe Shot
@@ -6216,6 +6906,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["ballistic"]
 - id: 692
   name: Jaw Lock
@@ -6225,6 +6916,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 693
   name: Stuff Cheeks
@@ -6234,6 +6926,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 694
   name: No Retreat
@@ -6243,6 +6936,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 695
   name: Tar Shot
@@ -6252,6 +6946,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 696
   name: Magic Powder
@@ -6261,6 +6956,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["powder"]
 - id: 697
   name: Dragon Darts
@@ -6270,15 +6966,17 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 698
   name: Teatime
   type: 1
-  description: All Pokêmon have teatime and eat their Berries.
+  description: All Pokémon have teatime and eat their Berries.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 699
   name: Octolock
@@ -6288,6 +6986,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 700
   name: Bolt Beak
@@ -6297,6 +6996,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 701
   name: Fishious Rend
@@ -6306,6 +7006,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 702
   name: Court Change
@@ -6315,6 +7016,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 703
   name: Clangorous Soul
@@ -6324,6 +7026,7 @@
 
   acc: 100
 
+  cat: 2
   properties: ["sound", "dance"]
 - id: 704
   name: Body Press
@@ -6333,6 +7036,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 705
   name: Decorate
@@ -6342,6 +7046,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 706
   name: Drum Beating
@@ -6351,6 +7056,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 707
   name: Snap Trap
@@ -6360,6 +7066,7 @@
 
   acc: 85
 
+  cat: 0
   properties: ["contact"]
 - id: 708
   name: Pyro Ball
@@ -6369,6 +7076,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["kicking", "ballistic"]
 - id: 709
   name: Behemoth Blade
@@ -6378,6 +7086,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 710
   name: Behemoth Bash
@@ -6387,6 +7096,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 711
   name: Aura Wheel
@@ -6396,6 +7106,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 712
   name: Breaking Swipe
@@ -6405,6 +7116,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 713
   name: Branch Poke
@@ -6414,6 +7126,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 714
   name: Overdrive
@@ -6423,6 +7136,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 715
   name: Apple Acid
@@ -6432,6 +7146,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 716
   name: Grav Apple
@@ -6441,6 +7156,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 717
   name: Spirit Break
@@ -6450,6 +7166,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 718
   name: Strange Steam
@@ -6459,6 +7176,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 719
   name: Life Dew
@@ -6468,6 +7186,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 720
   name: Obstruct
@@ -6477,6 +7196,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 721
   name: False Surrender
@@ -6486,6 +7206,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["contact"]
 - id: 722
   name: Meteor Assault
@@ -6495,6 +7216,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 723
   name: Eternabeam
@@ -6504,6 +7226,7 @@
 
   acc: 90
 
+  cat: 1
   properties: []
 - id: 724
   name: Steel Beam
@@ -6513,6 +7236,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 725
   name: Expanding Force
@@ -6522,6 +7246,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 726
   name: Steel Roller
@@ -6531,6 +7256,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 727
   name: Scale Shot
@@ -6540,6 +7266,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 728
   name: Meteor Beam
@@ -6549,6 +7276,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 729
   name: Shell Side Arm
@@ -6558,6 +7286,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 730
   name: Misty Explosion
@@ -6567,6 +7296,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 731
   name: Grassy Glide
@@ -6576,6 +7306,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 732
   name: Rising Voltage
@@ -6585,6 +7316,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 733
   name: Terrain Pulse
@@ -6594,6 +7326,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["pulse"]
 - id: 734
   name: Skitter Smack
@@ -6603,6 +7336,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 735
   name: Burning Jealousy
@@ -6612,6 +7346,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 736
   name: Lash Out
@@ -6621,6 +7356,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 737
   name: Poltergeist
@@ -6630,15 +7366,17 @@
 
   acc: 90
 
+  cat: 0
   properties: []
 - id: 738
   name: Corrosive Gas
   type: 4
-  description: Highly acidic gas melts items held by surrounding Pokêmon.
+  description: Highly acidic gas melts items held by surrounding Pokémon.
   power: 0
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 739
   name: Coaching
@@ -6648,15 +7386,17 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 740
   name: Flip Turn
   type: 12
-  description: Attacks and rushes back to switch with a party Pokêmon.
+  description: Attacks and rushes back to switch with a party Pokémon.
   power: 60
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 741
   name: Triple Axel
@@ -6666,6 +7406,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 742
   name: Dual Wingbeat
@@ -6675,6 +7416,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 743
   name: Scorching Sands
@@ -6684,6 +7426,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 744
   name: Jungle Healing
@@ -6693,6 +7436,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 745
   name: Wicked Blow
@@ -6702,6 +7446,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 746
   name: Surging Strikes
@@ -6711,6 +7456,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 747
   name: Thunder Cage
@@ -6720,6 +7466,7 @@
 
   acc: 90
 
+  cat: 1
   properties: []
 - id: 748
   name: Dragon Energy
@@ -6729,6 +7476,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 749
   name: Freezing Glare
@@ -6738,6 +7486,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 750
   name: Fiery Wrath
@@ -6747,6 +7496,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 751
   name: Thunderous Kick
@@ -6756,6 +7506,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 752
   name: Glacial Lance
@@ -6765,6 +7516,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 753
   name: Astral Barrage
@@ -6774,6 +7526,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 754
   name: Eerie Spell
@@ -6783,6 +7536,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 755
   name: Dire Claw
@@ -6792,6 +7546,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 756
   name: Psyshield Bash
@@ -6801,6 +7556,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 757
   name: Power Shift
@@ -6810,6 +7566,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 758
   name: Stone Axe
@@ -6819,6 +7576,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 759
   name: Springtide Storm
@@ -6828,6 +7586,7 @@
 
   acc: 90
 
+  cat: 1
   properties: ["wind"]
 - id: 760
   name: Mystical Power
@@ -6837,6 +7596,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 761
   name: Raging Fury
@@ -6846,6 +7606,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 762
   name: Wave Crash
@@ -6855,6 +7616,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 763
   name: Chloroblast
@@ -6864,6 +7626,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 764
   name: Mountain Gale
@@ -6873,6 +7636,7 @@
 
   acc: 90
 
+  cat: 0
   properties: []
 - id: 765
   name: Victory Dance
@@ -6882,6 +7646,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["dance"]
 - id: 766
   name: Headlong Rush
@@ -6891,6 +7656,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 767
   name: Barb Barrage
@@ -6900,6 +7666,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 768
   name: Esper Wing
@@ -6909,6 +7676,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 769
   name: Bitter Malice
@@ -6918,6 +7686,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 770
   name: Shelter
@@ -6927,6 +7696,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 771
   name: Triple Arrows
@@ -6936,6 +7706,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["kicking"]
 - id: 772
   name: Infernal Parade
@@ -6945,6 +7716,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 773
   name: Ceaseless Edge
@@ -6954,6 +7726,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 774
   name: Bleakwind Storm
@@ -6963,6 +7736,7 @@
 
   acc: 90
 
+  cat: 1
   properties: ["wind"]
 - id: 775
   name: Wildbolt Storm
@@ -6972,6 +7746,7 @@
 
   acc: 90
 
+  cat: 1
   properties: ["wind"]
 - id: 776
   name: Sandsear Storm
@@ -6981,6 +7756,7 @@
 
   acc: 90
 
+  cat: 1
   properties: ["wind"]
 - id: 777
   name: Lunar Blessing
@@ -6990,6 +7766,7 @@
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 778
   name: Take Heart
@@ -6999,6 +7776,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 779
   name: Tera Blast
@@ -7008,6 +7786,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 780
   name: Silk Trap
@@ -7017,6 +7796,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 781
   name: Axe Kick
@@ -7026,6 +7806,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "kicking"]
 - id: 782
   name: Last Respects
@@ -7035,6 +7816,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 783
   name: Lumina Crash
@@ -7044,6 +7826,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 784
   name: Order Up
@@ -7053,6 +7836,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 785
   name: Jet Punch
@@ -7062,6 +7846,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 786
   name: Spicy Extract
@@ -7071,6 +7856,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 787
   name: Spin Out
@@ -7080,6 +7866,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 788
   name: Population Bomb
@@ -7089,6 +7876,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 789
   name: Ice Spinner
@@ -7098,6 +7886,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 790
   name: Glaive Rush
@@ -7107,15 +7896,17 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 791
   name: Revival Blessing
   type: 1
-  description: Revives a fainted party ST and restores half of its HP.
+  description: Revives a fainted party PKMN and restores half of its HP.
   power: 0
 
   acc: 0
 
+  cat: 2
   properties: ["healing"]
 - id: 792
   name: Salt Cure
@@ -7125,6 +7916,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 793
   name: Triple Dive
@@ -7134,6 +7926,7 @@
 
   acc: 90
 
+  cat: 0
   properties: ["contact"]
 - id: 794
   name: Mortal Spin
@@ -7143,6 +7936,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 795
   name: Doodle
@@ -7152,6 +7946,7 @@
 
   acc: 100
 
+  cat: 2
   properties: []
 - id: 796
   name: Fillet Away
@@ -7161,6 +7956,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 797
   name: Kowtow Cleave
@@ -7170,6 +7966,7 @@
 
   acc: 999
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 798
   name: Flower Trick
@@ -7179,6 +7976,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 799
   name: Torch Song
@@ -7188,6 +7986,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 800
   name: Aqua Step
@@ -7197,6 +7996,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "kicking", "dance"]
 - id: 801
   name: Raging Bull
@@ -7206,6 +8006,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 802
   name: Make It Rain
@@ -7215,6 +8016,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 803
   name: Ruination
@@ -7224,6 +8026,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 804
   name: Collision Course
@@ -7233,6 +8036,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 805
   name: Electro Drift
@@ -7242,6 +8046,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["contact"]
 - id: 806
   name: Shed Tail
@@ -7251,6 +8056,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 807
   name: Chilly Reception
@@ -7260,6 +8066,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 808
   name: Tidy Up
@@ -7269,6 +8076,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 809
   name: Snowscape
@@ -7278,6 +8086,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 810
   name: Pounce
@@ -7287,6 +8096,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 811
   name: Trailblaze
@@ -7296,6 +8106,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 812
   name: Chilling Water
@@ -7305,6 +8116,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 813
   name: Hyper Drill
@@ -7314,6 +8126,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 814
   name: Twin Beam
@@ -7323,6 +8136,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 815
   name: Rage Fist
@@ -7332,6 +8146,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "punching"]
 - id: 816
   name: Armor Cannon
@@ -7341,6 +8156,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 817
   name: Bitter Blade
@@ -7350,6 +8166,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing", "healing"]
 - id: 818
   name: Double Shock
@@ -7359,6 +8176,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 819
   name: Gigaton Hammer
@@ -7368,6 +8186,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 820
   name: Comeuppance
@@ -7377,6 +8196,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 821
   name: Aqua Cutter
@@ -7386,6 +8206,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["slicing"]
 - id: 822
   name: Blazing Torque
@@ -7395,6 +8216,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 823
   name: Wicked Torque
@@ -7404,6 +8226,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 824
   name: Noxious Torque
@@ -7413,6 +8236,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 825
   name: Combat Torque
@@ -7422,6 +8246,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 826
   name: Magical Torque
@@ -7431,6 +8256,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 827
   name: Psyblade
@@ -7440,6 +8266,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 828
   name: Hydro Steam
@@ -7449,6 +8276,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 829
   name: Blood Moon
@@ -7458,6 +8286,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 830
   name: Matcha Gotcha
@@ -7467,6 +8296,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["healing"]
 - id: 831
   name: Syrup Bomb
@@ -7476,6 +8306,7 @@
 
   acc: 85
 
+  cat: 1
   properties: ["ballistic"]
 - id: 832
   name: Ivy Cudgel
@@ -7485,6 +8316,7 @@
 
   acc: 100
 
+  cat: 0
   properties: []
 - id: 833
   name: Electro Shot
@@ -7494,6 +8326,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 834
   name: Tera Starstorm
@@ -7503,6 +8336,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 835
   name: Fickle Beam
@@ -7512,6 +8346,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 836
   name: Burning Bulwark
@@ -7521,6 +8356,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 837
   name: Thunderclap
@@ -7530,6 +8366,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 838
   name: Mighty Cleave
@@ -7539,6 +8376,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "slicing"]
 - id: 839
   name: Tachyon Cutter
@@ -7548,6 +8386,7 @@
 
   acc: 999
 
+  cat: 1
   properties: ["slicing"]
 - id: 840
   name: Hard Press
@@ -7557,6 +8396,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 841
   name: Dragon Cheer
@@ -7566,6 +8406,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 842
   name: Alluring Voice
@@ -7575,6 +8416,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 843
   name: Temper Flare
@@ -7584,6 +8426,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 844
   name: Supercell Slam
@@ -7593,6 +8436,7 @@
 
   acc: 95
 
+  cat: 0
   properties: ["contact"]
 - id: 845
   name: Psychic Noise
@@ -7602,6 +8446,7 @@
 
   acc: 100
 
+  cat: 1
   properties: ["sound"]
 - id: 846
   name: Upper Hand
@@ -7611,6 +8456,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact"]
 - id: 847
   name: Malignant Chain
@@ -7620,6 +8466,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 848
   name: Aqua Fang
@@ -7629,6 +8476,7 @@
 
   acc: 100
 
+  cat: 0
   properties: ["contact", "biting"]
 - id: 849
   name: Dark Hole
@@ -7638,6 +8486,7 @@
 
   acc: 100
 
+  cat: 1
   properties: []
 - id: 850
   name: Breakneck Blitz
@@ -7647,6 +8496,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 851
   name: All Out Pummeling
@@ -7656,6 +8506,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 852
   name: Supersonic Skystrike
@@ -7665,6 +8516,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 853
   name: Acid Downpour
@@ -7674,6 +8526,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 854
   name: Tectonic Rage
@@ -7683,6 +8536,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 855
   name: Continental Crush
@@ -7692,6 +8546,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 856
   name: Savage Spin Out
@@ -7701,6 +8556,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 857
   name: Never Ending Nightmare
@@ -7710,6 +8566,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 858
   name: Corkscrew Crash
@@ -7719,6 +8576,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 859
   name: Inferno Overdrive
@@ -7728,6 +8586,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 860
   name: Hydro Vortex
@@ -7737,6 +8596,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 861
   name: Bloom Doom
@@ -7746,6 +8606,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 862
   name: Gigavolt Havoc
@@ -7755,6 +8616,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 863
   name: Shattered Psyche
@@ -7764,6 +8626,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 864
   name: Subzero Slammer
@@ -7773,6 +8636,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 865
   name: Devastating Drake
@@ -7782,6 +8646,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 866
   name: Black Hole Eclipse
@@ -7791,6 +8656,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 867
   name: Twinkle Tackle
@@ -7800,6 +8666,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 868
   name: Catastropika
@@ -7809,6 +8676,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 869
   name: 10,000,000 Volt Thunderbolt
@@ -7818,6 +8686,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 870
   name: Stoked Sparksurfer
@@ -7827,6 +8696,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 871
   name: Extreme Evoboost
@@ -7836,6 +8706,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 872
   name: Pulverizing Pancake
@@ -7845,6 +8716,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 873
   name: Genesis Supernova
@@ -7854,6 +8726,7 @@
 
   acc: 0
 
+  cat: 1
   properties: []
 - id: 874
   name: Sinister Arrow Raid
@@ -7863,6 +8736,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 875
   name: Malicious Moonsault
@@ -7872,6 +8746,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 876
   name: Oceanic Operetta
@@ -7881,6 +8756,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 877
   name: Splintered Stormshards
@@ -7890,6 +8766,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 878
   name: Let's Snuggle Forever
@@ -7899,6 +8776,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 879
   name: Clangorous Soulblaze
@@ -7908,6 +8786,7 @@
 
   acc: 999
 
+  cat: 1
   properties: ["sound"]
 - id: 880
   name: Guardian of Alola
@@ -7917,6 +8796,7 @@
 
   acc: 0
 
+  cat: 1
   properties: []
 - id: 881
   name: Searing Sunraze Smash
@@ -7926,6 +8806,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 882
   name: Menacing Moonraze Maelstrom
@@ -7935,6 +8816,7 @@
 
   acc: 999
 
+  cat: 1
   properties: []
 - id: 883
   name: Light That Burns The Sky
@@ -7944,6 +8826,7 @@
 
   acc: 0
 
+  cat: 1
   properties: []
 - id: 884
   name: Soul Stealing 7 Star Strike
@@ -7953,6 +8836,7 @@
 
   acc: 999
 
+  cat: 0
   properties: []
 - id: 885
   name: Max Guard
@@ -7962,6 +8846,7 @@
 
   acc: 0
 
+  cat: 2
   properties: []
 - id: 886
   name: Max Strike
@@ -7971,6 +8856,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 887
   name: Max Knuckle
@@ -7980,6 +8866,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 888
   name: Max Airstream
@@ -7989,6 +8876,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 889
   name: Max Ooze
@@ -7998,6 +8886,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 890
   name: Max Quake
@@ -8007,6 +8896,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 891
   name: Max Rockfall
@@ -8016,6 +8906,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 892
   name: Max Flutterby
@@ -8025,6 +8916,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 893
   name: Max Phantasm
@@ -8034,6 +8926,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 894
   name: Max Steelspike
@@ -8043,6 +8936,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 895
   name: Max Flare
@@ -8052,6 +8946,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 896
   name: Max Geyser
@@ -8061,6 +8956,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 897
   name: Max Overgrowth
@@ -8070,6 +8966,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 898
   name: Max Lightning
@@ -8079,6 +8976,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 899
   name: Max Mindstorm
@@ -8088,6 +8986,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 900
   name: Max Hailstorm
@@ -8097,6 +8996,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 901
   name: Max Wyrmwind
@@ -8106,6 +9006,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 902
   name: Max Darkness
@@ -8115,6 +9016,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 903
   name: Max Starfall
@@ -8124,6 +9026,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 904
   name: G-Max Vine Lash
@@ -8133,6 +9036,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 905
   name: G-Max Wildfire
@@ -8142,6 +9046,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 906
   name: G-Max Canonade
@@ -8151,6 +9056,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 907
   name: G-Max Befuddle
@@ -8160,6 +9066,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 908
   name: G-Max Volt Crash
@@ -8169,6 +9076,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 909
   name: G-Max Gold Rush
@@ -8178,6 +9086,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 910
   name: G-Max Chi Strike
@@ -8187,6 +9096,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 911
   name: G-Max Terror
@@ -8196,6 +9106,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 912
   name: G-Max Foam Burst
@@ -8205,6 +9116,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 913
   name: G-Max Resonance
@@ -8214,6 +9126,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 914
   name: G-Max Cuddle
@@ -8223,6 +9136,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 915
   name: G-Max Replenish
@@ -8232,6 +9146,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 916
   name: G-Max Malodor
@@ -8241,6 +9156,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 917
   name: G-Max Meltdown
@@ -8250,6 +9166,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 918
   name: G-Max Drum Solo
@@ -8259,6 +9176,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 919
   name: G-Max Fireball
@@ -8268,6 +9186,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 920
   name: G-Max Hydrosnipe
@@ -8277,6 +9196,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 921
   name: G-Max Wind Rage
@@ -8286,6 +9206,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 922
   name: G-Max Gravitas
@@ -8295,6 +9216,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 923
   name: G-Max Stonesurge
@@ -8304,6 +9226,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 924
   name: G-Max Volcalith
@@ -8313,6 +9236,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 925
   name: G-Max Tartness
@@ -8322,6 +9246,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 926
   name: G-Max Sweetness
@@ -8331,6 +9256,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 927
   name: G-Max Sandblast
@@ -8340,6 +9266,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 928
   name: G-Max Stun Shock
@@ -8349,6 +9276,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 929
   name: G-Max Centiferno
@@ -8358,6 +9286,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 930
   name: G-Max Smite
@@ -8367,6 +9296,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 931
   name: G-Max Snooze
@@ -8376,6 +9306,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 932
   name: G-Max Finale
@@ -8385,6 +9316,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 933
   name: G-Max Steelsurge
@@ -8394,6 +9326,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 934
   name: G-Max Depletion
@@ -8403,6 +9336,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 935
   name: G-Max One Blow
@@ -8412,6 +9346,7 @@
 
   acc: 0
 
+  cat: 0
   properties: []
 - id: 936
   name: G-Max Rapid Flow
@@ -8421,4 +9356,5 @@
 
   acc: 0
 
+  cat: 0
   properties: []

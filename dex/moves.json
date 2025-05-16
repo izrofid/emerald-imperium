@@ -6,7 +6,10 @@
     "description": "Pounds the foe with forelegs or tail.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 2,
@@ -15,7 +18,10 @@
     "description": "A chopping attack with a high critical-hit ratio.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 3,
@@ -24,7 +30,10 @@
     "description": "Repeatedly slaps the foe 2 to 5 times.",
     "power": 15,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 4,
@@ -33,7 +42,11 @@
     "description": "Repeatedly punches the foe 2 to 5 times.",
     "power": 18,
     "acc": 85,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 5,
@@ -42,7 +55,11 @@
     "description": "A strong punch thrown with incredible power.",
     "power": 80,
     "acc": 85,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 6,
@@ -51,6 +68,7 @@
     "description": "Throws coins at the foe. Money is recovered after.",
     "power": 40,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -60,7 +78,11 @@
     "description": "A fiery punch that may burn the foe.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 8,
@@ -69,7 +91,11 @@
     "description": "An icy punch that may leave the foe with frostbite.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 9,
@@ -78,7 +104,11 @@
     "description": "An electrified punch that may paralyze the foe.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 10,
@@ -87,7 +117,10 @@
     "description": "Scratches the foe with sharp claws.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 11,
@@ -96,7 +129,10 @@
     "description": "Grips the foe with large and powerful pincers.",
     "power": 55,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 12,
@@ -105,7 +141,10 @@
     "description": "A powerful pincer attack that may cause fainting.",
     "power": 1,
     "acc": 30,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 13,
@@ -114,7 +153,10 @@
     "description": "A 2-turn move that strikes the foe on the 2nd turn.",
     "power": 80,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 14,
@@ -123,7 +165,10 @@
     "description": "A fighting dance that sharply raises Attack.",
     "power": 0,
     "acc": 0,
-    "properties": ["dance"]
+    "cat": 2,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 15,
@@ -132,7 +177,11 @@
     "description": "Cuts the foe with sharp scythes, claws, etc.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 16,
@@ -141,7 +190,10 @@
     "description": "Strikes the foe with a gust of wind whipped up by wings.",
     "power": 40,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 17,
@@ -150,7 +202,10 @@
     "description": "Strikes the foe with wings spread wide.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 18,
@@ -159,7 +214,10 @@
     "description": "Blows away the foe with wind and ends the battle.",
     "power": 0,
     "acc": 0,
-    "properties": ["wind"]
+    "cat": 2,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 19,
@@ -168,7 +226,10 @@
     "description": "Flies up on the first turn, then strikes the next turn.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 20,
@@ -177,7 +238,10 @@
     "description": "Binds and squeezes the foe for 4 or 5 turns.",
     "power": 15,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 21,
@@ -186,7 +250,10 @@
     "description": "Slams the foe with a long tail, vine, etc.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 22,
@@ -195,7 +262,10 @@
     "description": "Strikes the foe with slender, whiplike vines.",
     "power": 45,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 23,
@@ -204,7 +274,11 @@
     "description": "Stomps the enemy with a big foot. May cause flinching.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 24,
@@ -213,7 +287,11 @@
     "description": "A double-kicking attack that strikes the foe twice.",
     "power": 30,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 25,
@@ -222,7 +300,11 @@
     "description": "An extremely powerful kick with intense force.",
     "power": 120,
     "acc": 75,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 26,
@@ -231,7 +313,11 @@
     "description": "A strong jumping kick. May miss and hurt the kicker.",
     "power": 100,
     "acc": 95,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 27,
@@ -240,7 +326,11 @@
     "description": "A fast kick delivered from a rapid spin.",
     "power": 60,
     "acc": 85,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 28,
@@ -249,6 +339,7 @@
     "description": "Reduces the foe's attack by hurling sand in its face.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -258,7 +349,10 @@
     "description": "A ramming attack that may cause flinching.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 30,
@@ -267,7 +361,10 @@
     "description": "Jabs the foe with sharp horns.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 31,
@@ -276,7 +373,10 @@
     "description": "Jabs the foe 2 to 5 times with sharp horns, etc.",
     "power": 20,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 32,
@@ -285,7 +385,10 @@
     "description": "A one-hit KO attack that uses a horn like a drill.",
     "power": 1,
     "acc": 30,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 33,
@@ -294,7 +397,10 @@
     "description": "Charges the foe with a full- body tackle.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 34,
@@ -303,7 +409,10 @@
     "description": "A full-body slam that may cause paralysis.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 35,
@@ -312,7 +421,10 @@
     "description": "Wraps and squeezes the foe 4 or 5 times with vines, etc.",
     "power": 15,
     "acc": 90,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 36,
@@ -321,7 +433,10 @@
     "description": "A reckless charge attack that also hurts the user.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 37,
@@ -330,7 +445,10 @@
     "description": "A rampage of 2 to 3 turns that confuses the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 38,
@@ -339,7 +457,10 @@
     "description": "A life-risking tackle that also hurts the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 39,
@@ -348,6 +469,7 @@
     "description": "Wags the tail to lower the foe's Defense.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -357,6 +479,7 @@
     "description": "A toxic attack with barbs, etc., that may poison.",
     "power": 15,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -366,6 +489,7 @@
     "description": "Stingers on the forelegs jab the foe twice.",
     "power": 25,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -375,6 +499,7 @@
     "description": "Sharp pins are fired to strike 2 to 5 times.",
     "power": 25,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -384,6 +509,7 @@
     "description": "Frightens the foe with a leer to lower Defense.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -393,7 +519,11 @@
     "description": "Bites with vicious fangs. May cause flinching.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 45,
@@ -402,7 +532,10 @@
     "description": "Growls cutely to reduce the foe's Attack.",
     "power": 0,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 46,
@@ -411,7 +544,10 @@
     "description": "Makes the foe flee to end the battle.",
     "power": 0,
     "acc": 0,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 47,
@@ -420,7 +556,10 @@
     "description": "A soothing song lulls the foe into a deep slumber.",
     "power": 0,
     "acc": 55,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 48,
@@ -429,7 +568,10 @@
     "description": "Emits bizarre sound waves that may confuse the foe.",
     "power": 0,
     "acc": 55,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 49,
@@ -438,6 +580,7 @@
     "description": "Launches shock waves that always inflict 20 HP damage.",
     "power": 1,
     "acc": 90,
+    "cat": 1,
     "properties": []
   },
   {
@@ -447,6 +590,7 @@
     "description": "Psychically disables one of the foe's moves.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -456,6 +600,7 @@
     "description": "Sprays a hide-melting acid. May lower Sp. Def.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -465,6 +610,7 @@
     "description": "A weak fire attack that may inflict a burn.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -474,6 +620,7 @@
     "description": "A powerful fire attack that may inflict a burn.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -483,6 +630,7 @@
     "description": "Creates a mist that stops reduction of abilities.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -492,6 +640,7 @@
     "description": "Squirts water to attack the foe.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -501,6 +650,7 @@
     "description": "Blasts water at high power to strike the foe.",
     "power": 110,
     "acc": 80,
+    "cat": 1,
     "properties": []
   },
   {
@@ -510,6 +660,7 @@
     "description": "Creates a huge wave, then crashes it down on the foe.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -519,6 +670,7 @@
     "description": "Blasts the foe with an icy beam. May cause frostbite.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -528,7 +680,10 @@
     "description": "Hits the foe with an icy storm. May cause frostbite.",
     "power": 110,
     "acc": 70,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 60,
@@ -537,6 +692,7 @@
     "description": "Fires a peculiar ray that may confuse the foe.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -546,6 +702,7 @@
     "description": "Forcefully sprays bubbles that may lower Speed.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -555,6 +712,7 @@
     "description": "Fires a rainbow-colored beam that may lower Attack.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -564,6 +722,7 @@
     "description": "Powerful, but leaves the user immobile the next turn.",
     "power": 150,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -573,7 +732,10 @@
     "description": "Attacks the foe with a jabbing beak, etc.",
     "power": 35,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 65,
@@ -582,7 +744,10 @@
     "description": "A corkscrewing attack with the beak acting as a drill.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 66,
@@ -591,7 +756,10 @@
     "description": "A reckless body slam that also hurts the user.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 67,
@@ -600,7 +768,11 @@
     "description": "A kick that inflicts more damage on heavier foes.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 68,
@@ -609,7 +781,10 @@
     "description": "Retaliates any physical hit with double the power.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 69,
@@ -618,7 +793,10 @@
     "description": "Inflicts damage identical to the user's level.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 70,
@@ -627,7 +805,10 @@
     "description": "Builds enormous power, then slams the foe.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 71,
@@ -636,7 +817,10 @@
     "description": "An attack that absorbs half the damage inflicted.",
     "power": 25,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 72,
@@ -645,7 +829,10 @@
     "description": "An attack that absorbs half the damage inflicted.",
     "power": 60,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 73,
@@ -654,6 +841,7 @@
     "description": "Plants a seed on the foe to steal HP on every turn.",
     "power": 0,
     "acc": 90,
+    "cat": 2,
     "properties": []
   },
   {
@@ -663,6 +851,7 @@
     "description": "Forces the body to grow, raising Attack and Sp. Atk.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -672,7 +861,10 @@
     "description": "Cuts the enemy with leaves. High critical-hit ratio.",
     "power": 55,
     "acc": 100,
-    "properties": ["slicing"]
+    "cat": 0,
+    "properties": [
+      "slicing"
+    ]
   },
   {
     "id": 76,
@@ -681,6 +873,7 @@
     "description": "Absorbs light in one turn, then attacks next turn.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -690,7 +883,10 @@
     "description": "Scatters a toxic powder that may poison the foe.",
     "power": 0,
     "acc": 75,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 78,
@@ -699,7 +895,10 @@
     "description": "Scatters a powder that may paralyze the foe.",
     "power": 0,
     "acc": 75,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 79,
@@ -708,7 +907,10 @@
     "description": "Scatters a powder that may cause the foe to sleep.",
     "power": 0,
     "acc": 75,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 80,
@@ -717,7 +919,11 @@
     "description": "A rampage of 2 to 3 turns that confuses the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact", "dance"]
+    "cat": 1,
+    "properties": [
+      "contact",
+      "dance"
+    ]
   },
   {
     "id": 81,
@@ -726,6 +932,7 @@
     "description": "Binds the foe with string to reduce its Speed.",
     "power": 0,
     "acc": 95,
+    "cat": 2,
     "properties": []
   },
   {
@@ -735,6 +942,7 @@
     "description": "Launches shock waves that always inflict 40 HP damage.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -744,6 +952,7 @@
     "description": "Traps the foe in a ring of fire for 4 or 5 turns.",
     "power": 35,
     "acc": 85,
+    "cat": 1,
     "properties": []
   },
   {
@@ -753,6 +962,7 @@
     "description": "An electrical attack that may paralyze the foe.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -762,6 +972,7 @@
     "description": "A strong electrical attack that may paralyze the foe.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -771,6 +982,7 @@
     "description": "A weak jolt of electricity that paralyzes the foe.",
     "power": 0,
     "acc": 90,
+    "cat": 2,
     "properties": []
   },
   {
@@ -780,6 +992,7 @@
     "description": "A lightning attack that may cause paralysis.",
     "power": 110,
     "acc": 70,
+    "cat": 1,
     "properties": []
   },
   {
@@ -789,6 +1002,7 @@
     "description": "Throws small rocks to strike the foe.",
     "power": 50,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -798,6 +1012,7 @@
     "description": "A powerful quake, but has no effect on flying foes.",
     "power": 100,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -807,6 +1022,7 @@
     "description": "A one-hit KO move that drops the foe in a fissure.",
     "power": 1,
     "acc": 30,
+    "cat": 0,
     "properties": []
   },
   {
@@ -816,7 +1032,10 @@
     "description": "Digs underground the first turn and strikes next turn.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 92,
@@ -825,6 +1044,7 @@
     "description": "Poisons the foe with an intensifying toxin.",
     "power": 0,
     "acc": 90,
+    "cat": 2,
     "properties": []
   },
   {
@@ -834,6 +1054,7 @@
     "description": "A psychic attack that may cause confusion.",
     "power": 50,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -843,6 +1064,7 @@
     "description": "A powerful psychic attack that may lower Sp. Def.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -852,6 +1074,7 @@
     "description": "A hypnotizing move that may induce sleep.",
     "power": 0,
     "acc": 60,
+    "cat": 2,
     "properties": []
   },
   {
@@ -861,6 +1084,7 @@
     "description": "Meditates in a peaceful fashion to raise Attack.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -870,6 +1094,7 @@
     "description": "Relaxes the body to sharply boost Speed.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -879,7 +1104,10 @@
     "description": "An extremely fast attack that always strikes first.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 99,
@@ -888,7 +1116,10 @@
     "description": "Raises the user's Attack every time it is hit.",
     "power": 20,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 100,
@@ -897,6 +1128,7 @@
     "description": "A psychic move for fleeing from battle instantly.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -906,6 +1138,7 @@
     "description": "Inflicts damage identical to the user's level.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -915,6 +1148,7 @@
     "description": "Copies a move used by the foe during one battle.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -924,7 +1158,10 @@
     "description": "Emits a screech to sharply reduce the foe's Defense.",
     "power": 0,
     "acc": 85,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 104,
@@ -933,6 +1170,7 @@
     "description": "Creates illusory copies to raise evasiveness.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -942,7 +1180,10 @@
     "description": "Recovers up to half the user's maximum HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 106,
@@ -951,6 +1192,7 @@
     "description": "Stiffens the body's  muscles to raise Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -960,6 +1202,7 @@
     "description": "Minimizes the user's size to raise evasiveness.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -969,6 +1212,7 @@
     "description": "Lowers the foe's accuracy using smoke, ink, etc.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -978,6 +1222,7 @@
     "description": "A sinister ray that confuses the foe.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -987,6 +1232,7 @@
     "description": "Withdraws the body into its hard shell to raise Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -996,6 +1242,7 @@
     "description": "Curls up to conceal weak spots and raise Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1005,6 +1252,7 @@
     "description": "Creates a barrier that sharply raises Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1014,6 +1262,7 @@
     "description": "Creates a wall of light that lowers Sp. Atk damage.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1023,6 +1272,7 @@
     "description": "Creates a black haze that eliminates all stat changes.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1032,6 +1282,7 @@
     "description": "Creates a wall of light that weakens physical attacks.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1041,6 +1292,7 @@
     "description": "Focuses power to raise the critical-hit ratio.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1050,15 +1302,19 @@
     "description": "Endures attack for 2 turns to retaliate double.",
     "power": 1,
     "acc": 0,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 118,
     "name": "Metronome",
     "type": 1,
-    "description": "Waggles a finger to use any Pokêmon move at random.",
+    "description": "Waggles a finger to use any Pokémon move at random.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1068,6 +1324,7 @@
     "description": "Counters the foe's attack with the same move.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1077,6 +1334,7 @@
     "description": "Inflicts severe damage but makes the user faint.",
     "power": 100,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1086,7 +1344,10 @@
     "description": "An egg is forcibly hurled at the foe.",
     "power": 100,
     "acc": 75,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 122,
@@ -1095,7 +1356,10 @@
     "description": "Licks with a long tongue to injure. May also paralyze.",
     "power": 30,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 123,
@@ -1104,6 +1368,7 @@
     "description": "An exhaust-gas attack that may also poison.",
     "power": 30,
     "acc": 70,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1113,6 +1378,7 @@
     "description": "Sludge is hurled to inflict damage. May also poison.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1122,6 +1388,7 @@
     "description": "Clubs the foe with a bone. May cause flinching.",
     "power": 65,
     "acc": 85,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1131,6 +1398,7 @@
     "description": "Incinerates everything it strikes. May cause a burn.",
     "power": 110,
     "acc": 85,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1140,7 +1408,10 @@
     "description": "Charges the foe with speed to climb waterfalls.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 128,
@@ -1149,7 +1420,10 @@
     "description": "Traps and squeezes the foe for 4 or 5 turns.",
     "power": 35,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 129,
@@ -1158,6 +1432,7 @@
     "description": "Sprays star-shaped rays that never miss.",
     "power": 60,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1167,7 +1442,10 @@
     "description": "Tucks in the head, then attacks on the next turn.",
     "power": 130,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 131,
@@ -1176,7 +1454,10 @@
     "description": "Launches sharp spikes that strike 2 to 5 times.",
     "power": 20,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 132,
@@ -1185,7 +1466,10 @@
     "description": "Constricts to inflict pain. May lower Speed.",
     "power": 10,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 133,
@@ -1194,6 +1478,7 @@
     "description": "Forgets about something and sharply raises Sp. Def.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1203,6 +1488,7 @@
     "description": "Distracts the foe. May lower accuracy.",
     "power": 0,
     "acc": 80,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1212,7 +1498,10 @@
     "description": "Recovers up to half the user's maximum HP.",
     "power": 0,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 136,
@@ -1221,7 +1510,11 @@
     "description": "A jumping knee kick. If it misses, the user is hurt.",
     "power": 130,
     "acc": 90,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 137,
@@ -1230,6 +1523,7 @@
     "description": "Intimidates and frightens the foe into paralysis.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1239,7 +1533,10 @@
     "description": "Takes one half the damage inflicted on a sleeping foe.",
     "power": 100,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 139,
@@ -1248,6 +1545,7 @@
     "description": "Envelops the foe in a toxic gas that may poison.",
     "power": 0,
     "acc": 90,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1257,7 +1555,10 @@
     "description": "Hurls round objects at the foe 2 to 5 times.",
     "power": 15,
     "acc": 85,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 141,
@@ -1266,7 +1567,11 @@
     "description": "An attack that steals half the damage inflicted.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "healing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "healing"
+    ]
   },
   {
     "id": 142,
@@ -1275,6 +1580,7 @@
     "description": "Demands a kiss with a scary face that induces sleep.",
     "power": 0,
     "acc": 85,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1284,6 +1590,7 @@
     "description": "Searches out weak spots, then strikes the next turn.",
     "power": 140,
     "acc": 90,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1293,6 +1600,7 @@
     "description": "Alters the user's cells to become a copy of the foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1302,6 +1610,7 @@
     "description": "An attack using bubbles. May lower the foe's Speed.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1311,7 +1620,11 @@
     "description": "A rhythmic punch that may confuse the foe.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 147,
@@ -1320,7 +1633,10 @@
     "description": "Scatters a cloud of spores that always induce sleep.",
     "power": 0,
     "acc": 100,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 148,
@@ -1329,6 +1645,7 @@
     "description": "Looses a powerful blast of light that cuts attack.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1338,6 +1655,7 @@
     "description": "Attacks with a psychic wave of varying intensity.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1347,6 +1665,7 @@
     "description": "It's just a splash... Has no effect whatsoever.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1356,6 +1675,7 @@
     "description": "Liquifies the user's body to sharply raise Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1365,7 +1685,10 @@
     "description": "Hammers with a pincer. Has a high critical-hit ratio.",
     "power": 100,
     "acc": 90,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 153,
@@ -1374,6 +1697,7 @@
     "description": "Inflicts severe damage but makes the user faint.",
     "power": 150,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1383,7 +1707,10 @@
     "description": "Rakes the foe with sharp claws, etc., 2 to 5 times.",
     "power": 18,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 155,
@@ -1392,6 +1719,7 @@
     "description": "Throws a bone boomerang that strikes twice.",
     "power": 50,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1401,7 +1729,10 @@
     "description": "The user sleeps for 2 turns, restoring HP and status.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 157,
@@ -1410,6 +1741,7 @@
     "description": "Large boulders are hurled. May cause flinching.",
     "power": 75,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1419,7 +1751,11 @@
     "description": "Attacks with sharp fangs. May cause flinching.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 159,
@@ -1428,6 +1764,7 @@
     "description": "Reduces the polygon count and raises Attack.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1437,6 +1774,7 @@
     "description": "Changes the user's type into a known move's type.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1446,6 +1784,7 @@
     "description": "Fires three types of beams at the same time.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1455,7 +1794,10 @@
     "description": "Attacks with sharp fangs and cuts half the foe's HP.",
     "power": 1,
     "acc": 90,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 163,
@@ -1464,7 +1806,11 @@
     "description": "Slashes with claws, etc. Has a high critical-hit ratio.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 164,
@@ -1473,6 +1819,7 @@
     "description": "Creates a decoy using 1/4 of the user's maximum HP.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1482,7 +1829,10 @@
     "description": "Used only if all PP are gone. Also hurts the user a little.",
     "power": 50,
     "acc": 0,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 166,
@@ -1491,6 +1841,7 @@
     "description": "Copies the foe's last move permanently.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1500,7 +1851,11 @@
     "description": "Kicks the foe 3 times in a row with rising intensity.",
     "power": 20,
     "acc": 90,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 168,
@@ -1509,7 +1864,10 @@
     "description": "While attacking, it may steal the foe's held item.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 169,
@@ -1518,6 +1876,7 @@
     "description": "Ensnares the foe to stop it from fleeing or switching.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1527,6 +1886,7 @@
     "description": "Senses the foe's action to ensure the next move's hit.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1536,6 +1896,7 @@
     "description": "Inflicts 1/4 damage on a sleeping foe every turn.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1545,7 +1906,10 @@
     "description": "A fiery charge attack that may inflict a burn.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 173,
@@ -1554,7 +1918,10 @@
     "description": "A loud attack that can be used only while asleep.",
     "power": 50,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 174,
@@ -1563,6 +1930,7 @@
     "description": "A move that functions differently for GHOSTS.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1572,7 +1940,10 @@
     "description": "Inflicts more damage when the user's HP is down.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 176,
@@ -1581,6 +1952,7 @@
     "description": "Makes the user resistant to the last attack's type.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1590,7 +1962,10 @@
     "description": "Launches a vacuumed blast. High critical-hit ratio.",
     "power": 100,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 178,
@@ -1599,7 +1974,10 @@
     "description": "Spores cling to the foe, sharply reducing Speed.",
     "power": 0,
     "acc": 100,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 179,
@@ -1608,7 +1986,10 @@
     "description": "Inflicts more damage when the user's HP is down.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 180,
@@ -1617,6 +1998,7 @@
     "description": "Spitefully cuts the PP of the foe's last move.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1626,6 +2008,7 @@
     "description": "Blasts the foe with a snowy gust. May cause frostbite.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1635,6 +2018,7 @@
     "description": "Evades attack, but may fail if used in succession.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1644,7 +2028,11 @@
     "description": "A punch is thrown at wicked speed to strike first.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 184,
@@ -1653,6 +2041,7 @@
     "description": "Frightens with a scary face to sharply reduce Speed.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1662,7 +2051,10 @@
     "description": "Draws the foe close, then strikes without fail.",
     "power": 60,
     "acc": 999,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 186,
@@ -1671,6 +2063,7 @@
     "description": "Demands a kiss with a cute look. May cause confusion.",
     "power": 0,
     "acc": 75,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1680,6 +2073,7 @@
     "description": "Maximizes Attack while sacrificing HP.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1689,7 +2083,10 @@
     "description": "Sludge is hurled to inflict damage. May also poison.",
     "power": 90,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 189,
@@ -1698,6 +2095,7 @@
     "description": "Hurls mud in the foe's face to reduce its accuracy.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -1707,7 +2105,10 @@
     "description": "Fires a lump of ink to damage and cut accuracy.",
     "power": 65,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 191,
@@ -1716,6 +2117,7 @@
     "description": "Sets spikes that hurt a  foe switching in.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1725,7 +2127,10 @@
     "description": "Powerful and sure to cause paralysis, but inaccurate.",
     "power": 120,
     "acc": 50,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 193,
@@ -1734,6 +2139,7 @@
     "description": "Negates the foe's efforts to heighten evasiveness.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1743,16 +2149,20 @@
     "description": "If the user faints, the foe is also made to faint.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
     "id": 195,
     "name": "Perish Song",
     "type": 1,
-    "description": "Any Pokêmon hearing this song faints in 3 turns.",
+    "description": "Any Pokémon hearing this song faints in 3 turns.",
     "power": 0,
     "acc": 0,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 196,
@@ -1761,7 +2171,10 @@
     "description": "A chilling attack that lowers the foe's Speed.",
     "power": 55,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 197,
@@ -1770,6 +2183,7 @@
     "description": "Evades attack, but may fail if used in succession.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1779,6 +2193,7 @@
     "description": "Strikes the foe with a bone in hand 2 to 5 times.",
     "power": 25,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1788,6 +2203,7 @@
     "description": "Locks on to the foe to ensure the next move hits.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1797,7 +2213,10 @@
     "description": "A rampage of 2 to 3 turns that confuses the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 201,
@@ -1806,7 +2225,10 @@
     "description": "Causes a sandstorm that rages for several turns.",
     "power": 0,
     "acc": 0,
-    "properties": ["wind"]
+    "cat": 2,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 202,
@@ -1815,7 +2237,10 @@
     "description": "An attack that steals half the damage inflicted.",
     "power": 75,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 203,
@@ -1824,6 +2249,7 @@
     "description": "Endures any attack for 1 turn, leaving at least 1HP.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1833,6 +2259,7 @@
     "description": "Charms the foe and sharply reduces its Attack.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1842,7 +2269,10 @@
     "description": "An attack lasting 5 turns with rising intensity.",
     "power": 30,
     "acc": 90,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 206,
@@ -1851,7 +2281,11 @@
     "description": "An attack that leaves the foe with at least 1 HP.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 207,
@@ -1860,6 +2294,7 @@
     "description": "Confuses the foe, but also sharply raises Attack.",
     "power": 0,
     "acc": 90,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1869,7 +2304,10 @@
     "description": "Recovers up to half the user's maximum HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 209,
@@ -1878,7 +2316,10 @@
     "description": "An electrified tackle that may paralyze the foe.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 210,
@@ -1887,7 +2328,11 @@
     "description": "An attack that intensifies on each successive hit.",
     "power": 40,
     "acc": 95,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 211,
@@ -1896,7 +2341,10 @@
     "description": "Strikes the foe with hard wings spread wide.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 212,
@@ -1905,6 +2353,7 @@
     "description": "Fixes the foe with a mean look that prevents escape.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1914,6 +2363,7 @@
     "description": "Makes the opposite gender less likely to attack.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1923,6 +2373,7 @@
     "description": "Uses an available move randomly while asleep.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1932,7 +2383,10 @@
     "description": "Chimes soothingly to heal all status abnormalities.",
     "power": 0,
     "acc": 0,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 216,
@@ -1941,7 +2395,10 @@
     "description": "An attack that increases in power with friendship.",
     "power": 102,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 217,
@@ -1950,6 +2407,7 @@
     "description": "A gift in the form of a bomb. May restore HP.",
     "power": 1,
     "acc": 90,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1959,7 +2417,10 @@
     "description": "An attack that is stronger if the Trainer is disliked.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 219,
@@ -1968,6 +2429,7 @@
     "description": "A mystical force prevents all status problems.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1977,6 +2439,7 @@
     "description": "Adds the user and foe's HP, then shares them equally.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -1986,6 +2449,7 @@
     "description": "A mystical fire attack that may inflict a burn.",
     "power": 100,
     "acc": 95,
+    "cat": 0,
     "properties": []
   },
   {
@@ -1995,6 +2459,7 @@
     "description": "A ground-shaking attack of random intensity.",
     "power": 1,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -2004,7 +2469,11 @@
     "description": "Powerful and sure to cause confusion, but inaccurate.",
     "power": 100,
     "acc": 50,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 224,
@@ -2013,7 +2482,10 @@
     "description": "A brutal ramming attack using out-thrust horns.",
     "power": 120,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 225,
@@ -2022,6 +2494,7 @@
     "description": "Strikes the foe with an incredible blast of breath.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2031,6 +2504,7 @@
     "description": "Switches out the user while keeping effects in play.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2040,6 +2514,7 @@
     "description": "Makes the foe repeat its last move over 2 to 6 turns.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2049,7 +2524,10 @@
     "description": "Inflicts bad damage if used on a foe switching out.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 229,
@@ -2058,7 +2536,10 @@
     "description": "Spins the body at high speed to strike the foe.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 230,
@@ -2067,6 +2548,7 @@
     "description": "Allures the foe to reduce evasiveness.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2076,7 +2558,10 @@
     "description": "Attacks with a rock-hard tail. May lower Defense.",
     "power": 100,
     "acc": 75,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 232,
@@ -2085,7 +2570,10 @@
     "description": "A claw attack that may raise the user's Attack.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 233,
@@ -2094,7 +2582,10 @@
     "description": "Makes the user's move last, but it never misses.",
     "power": 70,
     "acc": 999,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 234,
@@ -2103,7 +2594,10 @@
     "description": "Restores HP. The amount varies with the weather.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 235,
@@ -2112,7 +2606,10 @@
     "description": "Restores HP. The amount varies with the weather.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 236,
@@ -2121,7 +2618,10 @@
     "description": "Restores HP. The amount varies with the weather.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 237,
@@ -2130,6 +2630,7 @@
     "description": "The effectiveness varies with the user.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2139,7 +2640,10 @@
     "description": "A double-chopping attack. High critical-hit ratio.",
     "power": 100,
     "acc": 80,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 239,
@@ -2148,7 +2652,10 @@
     "description": "Whips up a vicious twister to tear at the foe.",
     "power": 40,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 240,
@@ -2157,6 +2664,7 @@
     "description": "Boosts the power of Water- type moves for 5 turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2166,6 +2674,7 @@
     "description": "Boosts the power of Fire- type moves for 5 turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2175,7 +2684,11 @@
     "description": "Crunches with sharp fangs. May lower Defense.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 243,
@@ -2184,15 +2697,17 @@
     "description": "Counters the foe's special attack at double the power.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
     "id": 244,
     "name": "Psych Up",
     "type": 1,
-    "description": "Copies the foe's effect\\s] and gives to the user.",
+    "description": "Copies the foe's effectÍs% and gives to the user.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2202,7 +2717,10 @@
     "description": "An extremely fast and powerful attack.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 246,
@@ -2211,6 +2729,7 @@
     "description": "An attack that may raise all stats.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2220,7 +2739,10 @@
     "description": "Hurls a black blob that may lower the foe's Sp. Def.",
     "power": 80,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 248,
@@ -2229,6 +2751,7 @@
     "description": "Heightens inner power to strike 2 turns later.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2238,7 +2761,10 @@
     "description": "A rock-crushing attack that may lower Defense.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 250,
@@ -2247,6 +2773,7 @@
     "description": "Traps and hurts the foe in a whirlpool for 4 or 5 turns.",
     "power": 35,
     "acc": 85,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2256,6 +2783,7 @@
     "description": "User attacks, bullying the target 2 to 5 times.",
     "power": 25,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -2265,7 +2793,10 @@
     "description": "A 1st-turn, 1st-strike move that causes flinching.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 253,
@@ -2274,7 +2805,10 @@
     "description": "Causes an uproar for 2 to 5 turns and prevents sleep.",
     "power": 90,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 254,
@@ -2283,15 +2817,17 @@
     "description": "Charges up power for up to 3 turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
     "id": 255,
     "name": "Spit Up",
     "type": 1,
-    "description": "Releases stockpiled power \\the more the better].",
+    "description": "Releases stockpiled power Íthe more the better%.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2301,7 +2837,10 @@
     "description": "Absorbs stockpiled power and restores HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 257,
@@ -2310,7 +2849,10 @@
     "description": "Exhales a hot breath on the foe. May inflict a burn.",
     "power": 95,
     "acc": 90,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 258,
@@ -2319,6 +2861,7 @@
     "description": "Summons a hailstorm that strikes every turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2328,6 +2871,7 @@
     "description": "Torments the foe and stops successive use of a move.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2337,6 +2881,7 @@
     "description": "Confuses the foe, but raises its Sp. Atk.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2346,6 +2891,7 @@
     "description": "Inflicts a burn on the foe with intense fire.",
     "power": 0,
     "acc": 85,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2355,6 +2901,7 @@
     "description": "The user faints and lowers the foe's abilities.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2364,7 +2911,10 @@
     "description": "Boosts Attack when burned, paralyzed, or poisoned.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 264,
@@ -2373,7 +2923,11 @@
     "description": "A powerful loyalty attack. The user flinches if hit.",
     "power": 150,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 265,
@@ -2382,7 +2936,10 @@
     "description": "Powerful against paralyzed foes, but also heals them.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 266,
@@ -2391,6 +2948,7 @@
     "description": "Draws attention to make foes attack only the user.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2400,6 +2958,7 @@
     "description": "The type of attack varies depending on the location.",
     "power": 1,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2409,6 +2968,7 @@
     "description": "Charges power to boost the electric move used next.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2418,6 +2978,7 @@
     "description": "Taunts the foe into only using attack moves.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2427,6 +2988,7 @@
     "description": "Boosts the power of the recipient's moves.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2436,6 +2998,7 @@
     "description": "Tricks the foe into trading held items.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2445,6 +3008,7 @@
     "description": "Mimics the target and copies its special ability.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2454,7 +3018,10 @@
     "description": "A wish that restores HP. It takes time to work.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 274,
@@ -2463,6 +3030,7 @@
     "description": "Attacks randomly with one of the partner's moves.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2472,6 +3040,7 @@
     "description": "Lays roots that restore HP. The user can't switch out.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2481,7 +3050,10 @@
     "description": "Boosts strength sharply, but lowers abilities.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 277,
@@ -2490,6 +3062,7 @@
     "description": "Reflects special effects back to the attacker.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2499,6 +3072,7 @@
     "description": "Recycles a used item for one more use.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2508,7 +3082,10 @@
     "description": "An attack that gains power if injured by the foe.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 280,
@@ -2517,7 +3094,10 @@
     "description": "Destroys barriers such as REFLECT and causes damage.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 281,
@@ -2526,6 +3106,7 @@
     "description": "Lulls the foe into yawning, then sleeping next turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2535,7 +3116,10 @@
     "description": "Knocks down the foe's held item to prevent its use.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 283,
@@ -2544,7 +3128,10 @@
     "description": "Gains power if the user's HP is lower than the foe's HP.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 284,
@@ -2553,6 +3140,7 @@
     "description": "The higher the user's HP, the more damage caused.",
     "power": 150,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2562,6 +3150,7 @@
     "description": "The user swaps special abilities with the target.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2571,6 +3160,7 @@
     "description": "Prevents foes from using moves known by the user.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2580,6 +3170,7 @@
     "description": "Heals poisoning, paralysis, or a burn.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2589,6 +3180,7 @@
     "description": "If the user faints, deletes all PP of foe's last move.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2598,6 +3190,7 @@
     "description": "Steals the effects of the move the target uses next.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2607,6 +3200,7 @@
     "description": "An attack with effects that vary by location.",
     "power": 70,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -2616,7 +3210,10 @@
     "description": "Dives underwater the first turn and strikes next turn.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 292,
@@ -2625,15 +3222,19 @@
     "description": "Straight-arm punches that strike the foe 2 to 5 times.",
     "power": 25,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 293,
     "name": "Camouflage",
     "type": 1,
-    "description": "Alters the Pokêmon's type depending on the location.",
+    "description": "Alters the Pokémon's type depending on the location.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2643,6 +3244,7 @@
     "description": "Flashes a light that sharply raises Sp. Atk.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2652,6 +3254,7 @@
     "description": "Attacks with a burst of light. May lower Sp. Def.",
     "power": 85,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2661,7 +3264,10 @@
     "description": "Attacks with a flurry of down. May lower Sp. Atk.",
     "power": 85,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 297,
@@ -2670,16 +3276,22 @@
     "description": "Envelops the foe with down to sharply reduce Attack.",
     "power": 0,
     "acc": 100,
-    "properties": ["dance"]
+    "cat": 2,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 298,
     "name": "Teeter Dance",
     "type": 1,
-    "description": "Confuses all Pokêmon on the scene.",
+    "description": "Confuses all Pokémon on the scene.",
     "power": 0,
     "acc": 100,
-    "properties": ["dance"]
+    "cat": 2,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 299,
@@ -2688,7 +3300,11 @@
     "description": "A kick with a high critical- hit ratio. May cause a burn.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 300,
@@ -2697,6 +3313,7 @@
     "description": "Covers the user in mud to raise electrical resistance.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2706,7 +3323,11 @@
     "description": "A 5-turn attack that gains power on successive hits.",
     "power": 30,
     "acc": 90,
-    "properties": ["contact", "ballistic"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "ballistic"
+    ]
   },
   {
     "id": 302,
@@ -2715,7 +3336,10 @@
     "description": "Attacks with thorny arms. May cause flinching.",
     "power": 95,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 303,
@@ -2724,7 +3348,10 @@
     "description": "Slacks off and restores half the maximum HP.",
     "power": 0,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 304,
@@ -2733,7 +3360,10 @@
     "description": "A loud attack that uses sound waves to injure.",
     "power": 90,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 305,
@@ -2742,7 +3372,11 @@
     "description": "A sharp-fanged attack. May badly poison the foe.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 306,
@@ -2751,7 +3385,10 @@
     "description": "Tears at the foe with sharp claws. May lower Defense.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 307,
@@ -2760,6 +3397,7 @@
     "description": "Powerful, but leaves the user immobile the next turn.",
     "power": 160,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2769,6 +3407,7 @@
     "description": "Powerful, but leaves the user immobile the next turn.",
     "power": 160,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2778,7 +3417,11 @@
     "description": "Fires a meteor-like punch. May raise Attack.",
     "power": 90,
     "acc": 90,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 310,
@@ -2787,7 +3430,10 @@
     "description": "An attack that may shock the foe into flinching.",
     "power": 30,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 311,
@@ -2796,7 +3442,10 @@
     "description": "The move's type and power change with the weather.",
     "power": 50,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 312,
@@ -2805,6 +3454,7 @@
     "description": "Heals all status problems with a soothing scent.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2814,6 +3464,7 @@
     "description": "Feigns crying to sharply lower the foe's Sp. Def.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2823,7 +3474,11 @@
     "description": "Hacks with razorlike wind. High critical-hit ratio.",
     "power": 60,
     "acc": 100,
-    "properties": ["slicing", "wind"]
+    "cat": 1,
+    "properties": [
+      "slicing",
+      "wind"
+    ]
   },
   {
     "id": 315,
@@ -2832,6 +3487,7 @@
     "description": "Allows a full-power attack, but sharply lowers Sp. Atk.",
     "power": 130,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2841,6 +3497,7 @@
     "description": "Negates the foe's efforts to heighten evasiveness.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2850,6 +3507,7 @@
     "description": "Stops the foe from moving with rocks and cuts Speed.",
     "power": 60,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -2859,7 +3517,10 @@
     "description": "A powdery attack that may raise abilities.",
     "power": 60,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 319,
@@ -2868,7 +3529,10 @@
     "description": "Emits a horrible screech that sharply lowers Sp. Def.",
     "power": 0,
     "acc": 85,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 320,
@@ -2877,7 +3541,10 @@
     "description": "Lulls the foe into sleep with a pleasant melody.",
     "power": 0,
     "acc": 55,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 321,
@@ -2886,6 +3553,7 @@
     "description": "Makes the foe laugh to lower Attack and Defense.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2895,6 +3563,7 @@
     "description": "Raises Defense and Sp. Def with a mystic power.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -2904,6 +3573,7 @@
     "description": "Inflicts more damage if the user's HP is high.",
     "power": 150,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2913,6 +3583,7 @@
     "description": "A strange beam attack that may confuse the foe.",
     "power": 75,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2922,7 +3593,11 @@
     "description": "An unavoidable punch that is thrown from shadows.",
     "power": 80,
     "acc": 999,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 326,
@@ -2931,6 +3606,7 @@
     "description": "Attacks with a peculiar power. May cause flinching.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2940,7 +3616,11 @@
     "description": "An uppercut thrown as if leaping into the sky.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 328,
@@ -2949,6 +3629,7 @@
     "description": "Traps and hurts the foe in quicksand for 4 or 5 turns.",
     "power": 35,
     "acc": 85,
+    "cat": 0,
     "properties": []
   },
   {
@@ -2958,6 +3639,7 @@
     "description": "A chilling attack that causes fainting if it hits.",
     "power": 1,
     "acc": 30,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2967,6 +3649,7 @@
     "description": "Attacks with muddy water. May lower accuracy.",
     "power": 95,
     "acc": 85,
+    "cat": 1,
     "properties": []
   },
   {
@@ -2976,7 +3659,10 @@
     "description": "Shoots 2 to 5 seeds in a row to strike the foe.",
     "power": 25,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 332,
@@ -2985,7 +3671,11 @@
     "description": "An extremely speedy and unavoidable attack.",
     "power": 60,
     "acc": 999,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 333,
@@ -2994,6 +3684,7 @@
     "description": "Attacks the foe by firing 2 to 5 icicles in a row.",
     "power": 25,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -3003,6 +3694,7 @@
     "description": "Hardens the body's surface to sharply raise Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3012,6 +3704,7 @@
     "description": "Blocks the foe's way to prevent escape.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3021,7 +3714,10 @@
     "description": "Howls to raise the spirit and boosts Attack.",
     "power": 0,
     "acc": 0,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 337,
@@ -3030,7 +3726,10 @@
     "description": "Slashes the foe with sharp claws.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 338,
@@ -3039,6 +3738,7 @@
     "description": "Powerful, but leaves the user immobile the next turn.",
     "power": 160,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3048,6 +3748,7 @@
     "description": "Bulks up the body to boost both Attack and Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3057,7 +3758,10 @@
     "description": "Bounces up, then down the next turn. May paralyze.",
     "power": 85,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 341,
@@ -3066,6 +3770,7 @@
     "description": "Hurls mud at the foe and reduces Speed.",
     "power": 55,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3075,7 +3780,10 @@
     "description": "Has a high critical-hit ratio. May also poison.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 343,
@@ -3084,7 +3792,10 @@
     "description": "Cutely begs to obtain an item held by the foe.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 344,
@@ -3093,7 +3804,10 @@
     "description": "A life-risking tackle that slightly hurts the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 345,
@@ -3102,6 +3816,7 @@
     "description": "Attacks with a strange leaf that cannot be evaded.",
     "power": 60,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3111,6 +3826,7 @@
     "description": "The user becomes soaked to raise resistance to fire.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3120,6 +3836,7 @@
     "description": "Raises Sp. Atk and Sp. Def by focusing the mind.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3129,7 +3846,11 @@
     "description": "Slashes with a sharp leaf. High critical-hit ratio.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 349,
@@ -3138,7 +3859,10 @@
     "description": "A mystical dance that ups Attack and Speed.",
     "power": 0,
     "acc": 0,
-    "properties": ["dance"]
+    "cat": 2,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 350,
@@ -3147,7 +3871,10 @@
     "description": "Hurls boulders at the foe 2 to 5 times in a row.",
     "power": 25,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 351,
@@ -3156,6 +3883,7 @@
     "description": "A fast and unavoidable electric attack.",
     "power": 60,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3165,7 +3893,10 @@
     "description": "Attacks with ultrasonic waves. May confuse the foe.",
     "power": 60,
     "acc": 100,
-    "properties": ["pulse"]
+    "cat": 1,
+    "properties": [
+      "pulse"
+    ]
   },
   {
     "id": 353,
@@ -3174,6 +3905,7 @@
     "description": "Summons strong sunlight to attack 2 turns later.",
     "power": 140,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3183,6 +3915,7 @@
     "description": "Allows a full-power attack, but sharply lowers Sp. Atk.",
     "power": 140,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3192,7 +3925,10 @@
     "description": "Restores the user's HP by half of its max HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 356,
@@ -3201,6 +3937,7 @@
     "description": "Gravity is intensified negating levitation.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3210,6 +3947,7 @@
     "description": "Negate evasiveness and Dark-type's immunities.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3219,7 +3957,10 @@
     "description": "Powerful against sleeping foes, but also heals them.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 359,
@@ -3228,7 +3969,11 @@
     "description": "A swinging fist attack that also lowers Speed.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 360,
@@ -3237,7 +3982,11 @@
     "description": "A high-speed spin that does more damage to faster foes.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact", "ballistic"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "ballistic"
+    ]
   },
   {
     "id": 361,
@@ -3246,7 +3995,10 @@
     "description": "The user faints to heal up the recipient.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 362,
@@ -3255,6 +4007,7 @@
     "description": "Does double damage to foes with half HP.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3264,6 +4017,7 @@
     "description": "The effectiveness varies with the held Berry.",
     "power": 1,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -3273,6 +4027,7 @@
     "description": "An attack that hits foes using moves like Protect.",
     "power": 30,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -3282,7 +4037,10 @@
     "description": "Eats the foe's held Berry gaining its effect.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 366,
@@ -3291,7 +4049,10 @@
     "description": "Whips up a turbulent breeze that raises Speed.",
     "power": 0,
     "acc": 0,
-    "properties": ["wind"]
+    "cat": 2,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 367,
@@ -3300,6 +4061,7 @@
     "description": "The user sharply raises one of its stats.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3309,6 +4071,7 @@
     "description": "Retaliates any hit with greater power.",
     "power": 1,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -3318,7 +4081,10 @@
     "description": "Does damage then switches out the user.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 370,
@@ -3327,7 +4093,10 @@
     "description": "A strong attack but lowers the defensive stats.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 371,
@@ -3336,7 +4105,10 @@
     "description": "An attack that gains power if the user moves last.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 372,
@@ -3345,7 +4117,10 @@
     "description": "An attack that gains power if the foe has been hurt.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 373,
@@ -3354,6 +4129,7 @@
     "description": "Prevents the foe from using any items.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3363,6 +4139,7 @@
     "description": "The effectiveness varies with the held item.",
     "power": 1,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -3372,6 +4149,7 @@
     "description": "Transfers status problems to the foe.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3381,7 +4159,10 @@
     "description": "The less PP the move has the more damage it does.",
     "power": 1,
     "acc": 0,
-    "properties": ["contact"]
+    "cat": 1,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 377,
@@ -3390,6 +4171,7 @@
     "description": "Prevents the foe from recovering any HP.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3399,7 +4181,10 @@
     "description": "The higher the foe's HP the more damage caused.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 1,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 379,
@@ -3408,6 +4193,7 @@
     "description": "The user swaps its Attack and Defense stats.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3417,6 +4203,7 @@
     "description": "Stomach acid suppresses the foe's ability.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3426,6 +4213,7 @@
     "description": "Prevents the foe from landing critical hits.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3435,6 +4223,7 @@
     "description": "Executes the foe's attack with greater power.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3444,6 +4233,7 @@
     "description": "The user mimics the last move used by a foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3453,6 +4243,7 @@
     "description": "Swaps changes to Attack and Sp. Atk with the foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3462,6 +4253,7 @@
     "description": "Swaps changes to Defense and Sp. Def with the foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3471,7 +4263,10 @@
     "description": "Does more damage if the foe has powered up.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 387,
@@ -3480,7 +4275,10 @@
     "description": "Can only be used if every other move has been used.",
     "power": 140,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 388,
@@ -3489,6 +4287,7 @@
     "description": "Plants a seed on the foe giving it Insomnia.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3498,7 +4297,10 @@
     "description": "Strikes first if the foe is preparing an attack.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 390,
@@ -3507,6 +4309,7 @@
     "description": "Sets spikes that poison a foe switching in.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3516,6 +4319,7 @@
     "description": "Swaps any stat changes with the foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3525,6 +4329,7 @@
     "description": "Forms a veil of water that restores HP.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3534,6 +4339,7 @@
     "description": "The user levitates with electromagnetism.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3543,7 +4349,10 @@
     "description": "A charge that may burn the foe. Also hurts the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 395,
@@ -3552,7 +4361,10 @@
     "description": "A shock wave attack that may paralyze the foe.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 396,
@@ -3561,7 +4373,11 @@
     "description": "Attacks with an aura blast that cannot be evaded.",
     "power": 80,
     "acc": 999,
-    "properties": ["pulse", "ballistic"]
+    "cat": 1,
+    "properties": [
+      "pulse",
+      "ballistic"
+    ]
   },
   {
     "id": 397,
@@ -3570,6 +4386,7 @@
     "description": "Polishes the body to sharply raise Speed.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3579,7 +4396,10 @@
     "description": "A stabbing attack that may poison the foe.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 399,
@@ -3588,7 +4408,10 @@
     "description": "Attacks with a horrible aura. May cause flinching.",
     "power": 80,
     "acc": 100,
-    "properties": ["pulse"]
+    "cat": 1,
+    "properties": [
+      "pulse"
+    ]
   },
   {
     "id": 400,
@@ -3597,7 +4420,11 @@
     "description": "Hits as soon as possible. High critical-hit ratio.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 401,
@@ -3606,7 +4433,10 @@
     "description": "The user swings its tail like a wave to attack.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 402,
@@ -3615,7 +4445,10 @@
     "description": "A barrage of hard seeds is fired at the foe.",
     "power": 80,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 403,
@@ -3624,7 +4457,10 @@
     "description": "Attacks with a blade of air. May cause flinching.",
     "power": 75,
     "acc": 100,
-    "properties": ["slicing"]
+    "cat": 1,
+    "properties": [
+      "slicing"
+    ]
   },
   {
     "id": 404,
@@ -3633,7 +4469,11 @@
     "description": "Slashes the foe with crossed scythes, claws, etc.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 405,
@@ -3642,7 +4482,10 @@
     "description": "A damaging sound wave that may lower Sp. Def.",
     "power": 90,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 406,
@@ -3651,7 +4494,10 @@
     "description": "Generates a shock wave to damage the foe.",
     "power": 85,
     "acc": 100,
-    "properties": ["pulse"]
+    "cat": 1,
+    "properties": [
+      "pulse"
+    ]
   },
   {
     "id": 407,
@@ -3660,7 +4506,10 @@
     "description": "Tackles the foe with menace. May cause flinching.",
     "power": 100,
     "acc": 75,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 408,
@@ -3669,6 +4518,7 @@
     "description": "Attacks with rays of light that sparkle like diamonds.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3678,7 +4528,12 @@
     "description": "An attack that absorbs half the damage inflicted.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "punching", "healing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching",
+      "healing"
+    ]
   },
   {
     "id": 410,
@@ -3687,6 +4542,7 @@
     "description": "Whirls its fists to send a wave that strikes first.",
     "power": 40,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3696,7 +4552,10 @@
     "description": "Attacks at full power. May lower Sp. Def.",
     "power": 120,
     "acc": 70,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 412,
@@ -3705,7 +4564,10 @@
     "description": "Draws power from nature to attack. May lower Sp. Def.",
     "power": 90,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 413,
@@ -3714,7 +4576,10 @@
     "description": "A low altitude charge that also hurts the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 414,
@@ -3723,6 +4588,7 @@
     "description": "Makes the ground erupt with power. May lower Sp. Def.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3732,6 +4598,7 @@
     "description": "Swaps items with the foe faster than the eye can see.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3741,7 +4608,10 @@
     "description": "Powerful, but leaves the user immobile the next turn.",
     "power": 150,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 417,
@@ -3750,6 +4620,7 @@
     "description": "Thinks bad thoughts to sharply boost Sp. Atk.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3759,7 +4630,11 @@
     "description": "Punches as fast as a bul- let. It always hits first.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 419,
@@ -3768,7 +4643,10 @@
     "description": "An attack that gains power if injured by the foe.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 420,
@@ -3777,6 +4655,7 @@
     "description": "Hurls a chunk of ice that always strike first.",
     "power": 40,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -3786,7 +4665,11 @@
     "description": "Strikes with a shadow claw. High critical-hit ratio.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 422,
@@ -3795,7 +4678,11 @@
     "description": "May cause flinching or leave the foe paralyzed.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 423,
@@ -3804,7 +4691,11 @@
     "description": "May cause flinching or leave the foe with frostbite.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 424,
@@ -3813,7 +4704,11 @@
     "description": "May cause flinching or leave the foe with a burn.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 425,
@@ -3822,7 +4717,10 @@
     "description": "Extends the user's shadow to strike first.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 426,
@@ -3831,7 +4729,10 @@
     "description": "Throws a blob of mud to damage and cut accuracy.",
     "power": 65,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 427,
@@ -3840,7 +4741,10 @@
     "description": "Tears with psychic blades. High critical-hit ratio.",
     "power": 70,
     "acc": 100,
-    "properties": ["slicing"]
+    "cat": 0,
+    "properties": [
+      "slicing"
+    ]
   },
   {
     "id": 428,
@@ -3849,7 +4753,10 @@
     "description": "Hits with a strong head- butt. May cause flinching.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 429,
@@ -3858,6 +4765,7 @@
     "description": "Emits a flash of energy to damage and cut accuracy.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3867,7 +4775,10 @@
     "description": "Releases a blast of light that may lower Sp. Def.",
     "power": 80,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 431,
@@ -3876,7 +4787,10 @@
     "description": "A charging attack that may confuse the foe.",
     "power": 90,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 432,
@@ -3885,15 +4799,17 @@
     "description": "Removes obstacles and lowers evasion.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
     "id": 433,
     "name": "Trick Room",
     "type": 15,
-    "description": "Slower Pokêmon get to move first for 5 turns.",
+    "description": "Slower Pokémon get to move first for 5 turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -3903,6 +4819,7 @@
     "description": "Casts comets onto the foe. Harshly lowers the Sp. Atk.",
     "power": 130,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3912,6 +4829,7 @@
     "description": "Zaps the foes with electri- city. May paralyze them.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3921,6 +4839,7 @@
     "description": "Scarlet flames torch everything around the user.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3930,6 +4849,7 @@
     "description": "Whips up a storm of leaves. Harshly lowers the Sp. Atk.",
     "power": 130,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -3939,7 +4859,10 @@
     "description": "Violently lashes the foe with vines or tentacles.",
     "power": 120,
     "acc": 90,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 439,
@@ -3948,7 +4871,10 @@
     "description": "Powerful, but leaves the user immobile the next turn.",
     "power": 150,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 440,
@@ -3957,7 +4883,11 @@
     "description": "A slash that may poison a foe and do critical damage.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 441,
@@ -3966,6 +4896,7 @@
     "description": "Shoots filthy garbage at the foe. May also poison.",
     "power": 120,
     "acc": 80,
+    "cat": 0,
     "properties": []
   },
   {
@@ -3975,7 +4906,10 @@
     "description": "Slams the foe with a hard head. May cause flinching.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 443,
@@ -3984,7 +4918,10 @@
     "description": "Launches a magnet that strikes without fail.",
     "power": 60,
     "acc": 999,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 444,
@@ -3993,6 +4930,7 @@
     "description": "Stabs the foe with stones. High critical-hit ratio.",
     "power": 100,
     "acc": 90,
+    "cat": 0,
     "properties": []
   },
   {
@@ -4002,6 +4940,7 @@
     "description": "Makes the opposite gender sharply reduce its Sp. Atk.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4011,6 +4950,7 @@
     "description": "Sets floating stones that hurt a foe switching in.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4020,7 +4960,10 @@
     "description": "A snare attack that does more damage to heavier foes.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 1,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 448,
@@ -4029,7 +4972,10 @@
     "description": "Attacks with a sound wave that causes confusion.",
     "power": 80,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 449,
@@ -4038,6 +4984,7 @@
     "description": "The type varies with the kind of Plate held.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4047,7 +4994,10 @@
     "description": "Eats the foe's held Berry gaining its effect.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 451,
@@ -4056,6 +5006,7 @@
     "description": "Fires a beam of electricity. May raise Sp. Atk.",
     "power": 50,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4065,7 +5016,10 @@
     "description": "Slams the body into a foe. The user gets hurt too.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 453,
@@ -4074,7 +5028,10 @@
     "description": "Strikes first by dashing at the foe at a high speed.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 454,
@@ -4083,6 +5040,7 @@
     "description": "Underlings pummel the foe. High critical-hit ratio.",
     "power": 120,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -4092,6 +5050,7 @@
     "description": "Raises Defense and Sp. Def with a living shield.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4101,7 +5060,10 @@
     "description": "The user's underlings show up to heal half its max HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 457,
@@ -4110,7 +5072,10 @@
     "description": "A life-risking headbutt that seriously hurts the user.",
     "power": 150,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 458,
@@ -4119,7 +5084,10 @@
     "description": "Slams the foe with a tail etc. Strikes twice.",
     "power": 35,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 459,
@@ -4128,6 +5096,7 @@
     "description": "Knocks the foe away to end the battle.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4137,6 +5106,7 @@
     "description": "Tears the foe, and space. High critical-hit ratio.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4146,7 +5116,11 @@
     "description": "The user faints to heal up the recipient.",
     "power": 0,
     "acc": 0,
-    "properties": ["dance", "healing"]
+    "cat": 2,
+    "properties": [
+      "dance",
+      "healing"
+    ]
   },
   {
     "id": 462,
@@ -4155,7 +5129,10 @@
     "description": "The higher the foe's HP the more damage caused.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 463,
@@ -4164,6 +5141,7 @@
     "description": "Traps the foe in a vortex of fire for 4 or 5 turns.",
     "power": 100,
     "acc": 75,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4173,6 +5151,7 @@
     "description": "Drags the foe into total darkness, inducing Sleep.",
     "power": 0,
     "acc": 80,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4182,6 +5161,7 @@
     "description": "Generates a shock wave that sharply reduces Sp. Def.",
     "power": 120,
     "acc": 85,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4191,7 +5171,10 @@
     "description": "A repulsive attack that may raise all stats.",
     "power": 60,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 467,
@@ -4200,7 +5183,10 @@
     "description": "Vanishes on the first turn then strikes the next turn.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 468,
@@ -4209,6 +5195,7 @@
     "description": "Sharpens its claws to raise Attack and Accuracy.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4218,6 +5205,7 @@
     "description": "Evades wide-ranging attacks for one turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4227,6 +5215,7 @@
     "description": "Averages changes to Defense and Sp. Def with the foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4236,6 +5225,7 @@
     "description": "Averages changes to Attack and Sp. Atk with the foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4245,6 +5235,7 @@
     "description": "Defense and Sp. Def stats are swapped for 5 turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4254,6 +5245,7 @@
     "description": "Attacks with a psychic wave that does physical damage.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4263,6 +5255,7 @@
     "description": "Does double damage if the foe is poisoned.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4272,6 +5265,7 @@
     "description": "Sheds additional weight to sharply boost Speed.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4281,7 +5275,10 @@
     "description": "Scatters powder to make foes attack only the user.",
     "power": 0,
     "acc": 0,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 477,
@@ -4290,6 +5287,7 @@
     "description": "Makes the foe float. It is easier to hit for 3 turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4299,6 +5297,7 @@
     "description": "Hold items lose their effects for 5 turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4308,6 +5307,7 @@
     "description": "Throws a rock to knock the foe down to the ground.",
     "power": 50,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -4317,7 +5317,10 @@
     "description": "This attack always results in a critical hit.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 481,
@@ -4326,6 +5329,7 @@
     "description": "A bursting flame that does damage to all foes.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4335,6 +5339,7 @@
     "description": "Swamps the foe with a wave of sludge. May also poison.",
     "power": 95,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4344,7 +5349,10 @@
     "description": "Dances to raise Sp. Atk Sp. Def and Speed.",
     "power": 0,
     "acc": 0,
-    "properties": ["dance"]
+    "cat": 2,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 484,
@@ -4353,7 +5361,10 @@
     "description": "Does more damage if the user outweighs the foe.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 485,
@@ -4362,6 +5373,7 @@
     "description": "An odd shock wave that only damages same-type foes.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4371,7 +5383,10 @@
     "description": "Hurls an orb that does more damage to slower foes.",
     "power": 1,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 487,
@@ -4380,6 +5395,7 @@
     "description": "Sprays water at the foe making it Water-type.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4389,7 +5405,10 @@
     "description": "Attacks in a cloak of flames. Raises Speed.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 489,
@@ -4398,6 +5417,7 @@
     "description": "Coils up to raise Attack, Defense and Accuracy.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4407,7 +5427,11 @@
     "description": "Attacks the foe's legs lowering its Speed.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 491,
@@ -4416,7 +5440,10 @@
     "description": "Sprays a hide-melting acid. Sharply reduces Sp. Def.",
     "power": 40,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 492,
@@ -4425,7 +5452,10 @@
     "description": "The higher the foe's Attack the more damage caused.",
     "power": 95,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 493,
@@ -4434,6 +5464,7 @@
     "description": "A beam that changes the foe's ability to Simple.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4443,6 +5474,7 @@
     "description": "Makes the foe mimic the user, gaining its ability.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4452,6 +5484,7 @@
     "description": "Helps out the foe, letting it move next.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4461,7 +5494,10 @@
     "description": "A song that inflicts damage. Others can join in too.",
     "power": 60,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 497,
@@ -4470,7 +5506,10 @@
     "description": "Does more damage every turn it is used.",
     "power": 40,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 498,
@@ -4479,7 +5518,10 @@
     "description": "Strikes through the foe's stat changes.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 499,
@@ -4488,6 +5530,7 @@
     "description": "Attacks with white haze that eliminates all stat changes.",
     "power": 50,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4497,6 +5540,7 @@
     "description": "The higher the user's stats the more damage caused.",
     "power": 20,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4506,6 +5550,7 @@
     "description": "Evades priority attacks for one turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4515,6 +5560,7 @@
     "description": "The user switches places with its partner.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4524,6 +5570,7 @@
     "description": "Shoots boiling water at the foe. May inflict a burn.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4533,6 +5580,7 @@
     "description": "Raises offensive stats, but lowers defensive stats.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4542,7 +5590,11 @@
     "description": "Recovers up to half the target's maximum HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["pulse", "healing"]
+    "cat": 2,
+    "properties": [
+      "pulse",
+      "healing"
+    ]
   },
   {
     "id": 506,
@@ -4551,6 +5603,7 @@
     "description": "Does double damage if the foe has a status problem.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4560,7 +5613,10 @@
     "description": "Takes the foe into the sky then drops it the next turn.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 508,
@@ -4569,6 +5625,7 @@
     "description": "Rotates its gears to raise Attack and Speed.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4578,7 +5635,10 @@
     "description": "Knocks the foe away to end the battle.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 510,
@@ -4587,6 +5647,7 @@
     "description": "Burns up Berries and Gems preventing their use.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4596,6 +5657,7 @@
     "description": "Suppresses the foe, making it move last.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4605,7 +5667,10 @@
     "description": "Does double damage if the user has no item.",
     "power": 55,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 513,
@@ -4614,6 +5679,7 @@
     "description": "The user reflects the foe's type, copying it.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4623,7 +5689,10 @@
     "description": "An attack that does more damage if an ally fainted.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 515,
@@ -4632,6 +5701,7 @@
     "description": "The user faints to damage the foe equal to its HP.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4641,6 +5711,7 @@
     "description": "The user gives its held item to the foe.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4650,6 +5721,7 @@
     "description": "Powerful and sure to inflict a burn, but inaccurate.",
     "power": 120,
     "acc": 50,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4659,6 +5731,7 @@
     "description": "Attacks with a column of water. May make a rainbow.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4668,6 +5741,7 @@
     "description": "Attacks with a column of fire. May burn the grass.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4677,6 +5751,7 @@
     "description": "Attacks with a column of grass. May create a swamp.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4686,6 +5761,7 @@
     "description": "Does damage then switches out the user.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4695,6 +5771,7 @@
     "description": "Resisting, the user attacks the foe. Lowers Sp. Atk.",
     "power": 50,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4704,6 +5781,7 @@
     "description": "Stomps down on the ground. Lowers Speed.",
     "power": 60,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -4713,6 +5791,7 @@
     "description": "This attack always results in a critical hit.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4722,7 +5801,10 @@
     "description": "Knocks the foe away to end the battle.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 526,
@@ -4731,6 +5813,7 @@
     "description": "The user is roused. Ups Attack and Sp. Atk.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4740,6 +5823,7 @@
     "description": "Snares the foe with an electric net. Lowers Speed.",
     "power": 55,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4749,7 +5833,10 @@
     "description": "An electrical tackle that also hurts the user.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 529,
@@ -4758,7 +5845,10 @@
     "description": "Spins its body like a drill. High critical-hit ratio.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 530,
@@ -4767,7 +5857,10 @@
     "description": "Attacks with brutal hits that strike twice.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 531,
@@ -4776,7 +5869,10 @@
     "description": "A sudden blow after a cute act. May cause flinching.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 532,
@@ -4785,7 +5881,11 @@
     "description": "An attack that absorbs half the damage inflicted.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "healing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "healing"
+    ]
   },
   {
     "id": 533,
@@ -4794,7 +5894,11 @@
     "description": "Strikes through the foe's stat changes.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 534,
@@ -4803,7 +5907,11 @@
     "description": "Tears at the foe with sharp shells. May lower Defense.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 535,
@@ -4812,7 +5920,10 @@
     "description": "Does more damage if the user outweighs the foe.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 536,
@@ -4821,6 +5932,7 @@
     "description": "Circles the foe with leaves to damage and cut accuracy.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4830,7 +5942,10 @@
     "description": "Crushes the foe with its body. May cause flinching.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 538,
@@ -4839,6 +5954,7 @@
     "description": "Wraps its body in cotton. Drastically raises Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -4848,6 +5964,7 @@
     "description": "Looses a pitch-black shock wave.",
     "power": 95,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4857,6 +5974,7 @@
     "description": "Attacks with a psychic wave that does physical damage.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4866,7 +5984,10 @@
     "description": "Strikes the foe with its tail 2 to 5 times.",
     "power": 25,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 542,
@@ -4875,7 +5996,10 @@
     "description": "Traps the foe in a fierce wind. May cause confusion.",
     "power": 110,
     "acc": 70,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 543,
@@ -4884,7 +6008,10 @@
     "description": "A charge using guard hair. It hurts the user a little.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 544,
@@ -4893,7 +6020,10 @@
     "description": "Throws two steel gears that strike twice.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 545,
@@ -4902,7 +6032,10 @@
     "description": "Scarlet flames torch everything around the user.",
     "power": 100,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 546,
@@ -4911,6 +6044,7 @@
     "description": "The type varies with the kind of Drive held.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4920,7 +6054,10 @@
     "description": "Attacks with an ancient song. May induce sleep.",
     "power": 75,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 548,
@@ -4929,7 +6066,10 @@
     "description": "Cuts with a long horn that does physical damage.",
     "power": 85,
     "acc": 100,
-    "properties": ["slicing"]
+    "cat": 1,
+    "properties": [
+      "slicing"
+    ]
   },
   {
     "id": 549,
@@ -4938,6 +6078,7 @@
     "description": "Blows very cold air at the foe. It lowers their Speed.",
     "power": 65,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4947,7 +6088,10 @@
     "description": "Strikes with a great amount of lightning. May paralyze.",
     "power": 130,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 551,
@@ -4956,6 +6100,7 @@
     "description": "Engulfs the foe in a blue flame. May inflict a burn.",
     "power": 130,
     "acc": 85,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4965,7 +6110,10 @@
     "description": "Dances cloaked in flames. May raise Sp. Atk.",
     "power": 80,
     "acc": 100,
-    "properties": ["dance"]
+    "cat": 1,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 553,
@@ -4974,6 +6122,7 @@
     "description": "A powerful 2-turn move that may paralyze the foe.",
     "power": 140,
     "acc": 90,
+    "cat": 0,
     "properties": []
   },
   {
@@ -4983,6 +6132,7 @@
     "description": "A powerful 2-turn move that may inflict a burn.",
     "power": 140,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -4992,7 +6142,10 @@
     "description": "Yells and rants at the foe lowering its Sp. Atk.",
     "power": 55,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 556,
@@ -5001,6 +6154,7 @@
     "description": "Drops large icicles on the foe. May cause flinching.",
     "power": 85,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5010,7 +6164,10 @@
     "description": "Very powerful, but lowers Defense, Sp. Def and Speed.",
     "power": 180,
     "acc": 95,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 558,
@@ -5019,6 +6176,7 @@
     "description": "Summons a fireball. Works well with a thunderbolt.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5028,6 +6186,7 @@
     "description": "Summons a thunderbolt. Works well with a fireball.",
     "power": 100,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5037,7 +6196,10 @@
     "description": "This attack does Fighting and Flying-type damage.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 561,
@@ -5046,6 +6208,7 @@
     "description": "Evades damaging moves for one turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5055,15 +6218,17 @@
     "description": "Lets out a loud belch. Must eat a Berry to use it.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
     "id": 563,
     "name": "Rototiller",
     "type": 5,
-    "description": "Ups the Attack and Sp. Atk of Grass-type Pokêmon.",
+    "description": "Ups the Attack and Sp. Atk of Grass-type Pokémon.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5073,6 +6238,7 @@
     "description": "Weaves a sticky net that slows foes switching in.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5082,7 +6248,10 @@
     "description": "If it knocks out a foe the Attack stat is raised.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 566,
@@ -5091,7 +6260,10 @@
     "description": "Vanishes on the first turn then strikes the next turn.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 567,
@@ -5100,6 +6272,7 @@
     "description": "Goes trick-or-treating making the foe Ghost-type.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5109,7 +6282,10 @@
     "description": "Intimidates the foe, to cut Attack and Sp. Atk.",
     "power": 0,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 569,
@@ -5118,16 +6294,20 @@
     "description": "Electrifies Normal-type moves with charged atoms.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
     "id": 570,
     "name": "Parabolic Charge",
     "type": 14,
-    "description": "Damages adjacent Pokêmon and heals up by half of it.",
+    "description": "Damages adjacent Pokémon and heals up by half of it.",
     "power": 75,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 571,
@@ -5136,6 +6316,7 @@
     "description": "Puts a curse on the foe making the foe Grass-type.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5145,7 +6326,10 @@
     "description": "Stirs up a violent storm of petals to attack.",
     "power": 90,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 0,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 573,
@@ -5154,6 +6338,7 @@
     "description": "Super effective on Water- types. May cause frostbite.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5163,7 +6348,10 @@
     "description": "Lets out a charming cry that cannot be evaded.",
     "power": 40,
     "acc": 999,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 575,
@@ -5172,7 +6360,10 @@
     "description": "Lowers the foe's Attack and Sp. Atk, then switches out.",
     "power": 0,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 576,
@@ -5181,6 +6372,7 @@
     "description": "Swaps all stat changes that affect the target.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5190,7 +6382,11 @@
     "description": "An attack that absorbs over half the damage inflicted.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact", "healing"]
+    "cat": 1,
+    "properties": [
+      "contact",
+      "healing"
+    ]
   },
   {
     "id": 578,
@@ -5199,15 +6395,17 @@
     "description": "Evades status moves for one turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
     "id": 579,
     "name": "Flower Shield",
     "type": 19,
-    "description": "Raises the Defense of Grass-type Pokêmon.",
+    "description": "Raises the Defense of Grass-type Pokémon.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5217,6 +6415,7 @@
     "description": "The ground turns to grass for 5 turns. Restores HP.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5226,6 +6425,7 @@
     "description": "Covers the ground with mist for 5 turns. Blocks status.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5235,6 +6435,7 @@
     "description": "Electrifies the foe, making its next move Electric-type.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5244,7 +6445,10 @@
     "description": "Plays rough with the foe. May lower Attack.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 584,
@@ -5253,7 +6457,10 @@
     "description": "Stirs up a fairy wind to strike the foe.",
     "power": 40,
     "acc": 100,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 585,
@@ -5262,6 +6469,7 @@
     "description": "Attacks with the power of the moon. May lower Sp. Atk.",
     "power": 95,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5271,7 +6479,10 @@
     "description": "Attacks everything with a destructive sound wave.",
     "power": 140,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 587,
@@ -5280,6 +6491,7 @@
     "description": "Locks down the battlefield preventing escape next turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5289,6 +6501,7 @@
     "description": "Evades damage and changes form.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5298,6 +6511,7 @@
     "description": "Befriend the foe, lowering its Attack without fail.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5307,7 +6521,10 @@
     "description": "Shares a secret with the foe, lowering Sp. Atk.",
     "power": 0,
     "acc": 0,
-    "properties": ["sound"]
+    "cat": 2,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 591,
@@ -5316,6 +6533,7 @@
     "description": "Whips up a storm of diamonds. May up Defense.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5325,6 +6543,7 @@
     "description": "Immerses the foe in heated steam. May inflict a burn.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5334,6 +6553,7 @@
     "description": "Uses a warp hole to attack. Can't be evaded.",
     "power": 80,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5343,6 +6563,7 @@
     "description": "Throws 2 to 5 stars that are sure to strike first.",
     "power": 15,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5352,6 +6573,7 @@
     "description": "Breathes a special, hot fire. Lowers Sp. Atk.",
     "power": 75,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5361,15 +6583,17 @@
     "description": "Evades attack, and damages the foe if struck.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
     "id": 597,
     "name": "Aromatic Mist",
     "type": 19,
-    "description": "Raises the Sp. Def of a partner Pokêmon.",
+    "description": "Raises the Sp. Def of a partner Pokémon.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5379,6 +6603,7 @@
     "description": "Exposes the foe to a pulse that sharply cuts Sp. Atk.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5388,6 +6613,7 @@
     "description": "Lowers the Attack, Sp. Atk and Speed of a poisoned foe.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5397,7 +6623,10 @@
     "description": "Damages the foe if it uses a Fire-type move.",
     "power": 0,
     "acc": 100,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 601,
@@ -5406,6 +6635,7 @@
     "description": "Raises Sp. Atk, Sp. Def and Speed on the 2nd turn.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5415,6 +6645,7 @@
     "description": "Boosts the defenses of those with Plus or Minus.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5424,6 +6655,7 @@
     "description": "Doubles the amount of Prize Money received.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5433,6 +6665,7 @@
     "description": "Electrifies the ground for 5 turns. Prevents sleep.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5442,6 +6675,7 @@
     "description": "Damages foes by emitting a bright flash.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5451,6 +6685,7 @@
     "description": "Congratulates you on your special day.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5460,6 +6695,7 @@
     "description": "The user and ally hold hands making them happy.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5469,6 +6705,7 @@
     "description": "Lowers the foe's Attack before it can move.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5478,7 +6715,10 @@
     "description": "Rubs its cheeks against the foe, paralyzing it.",
     "power": 20,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 610,
@@ -5487,7 +6727,10 @@
     "description": "An attack that leaves the foe with at least 1 HP.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 611,
@@ -5496,7 +6739,10 @@
     "description": "The foe is infested and attacked for 4 or 5 turns.",
     "power": 20,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 1,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 612,
@@ -5505,7 +6751,11 @@
     "description": "A hard punch that raises the user's Attack.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 613,
@@ -5514,7 +6764,10 @@
     "description": "An attack that absorbs over half the damage inflicted.",
     "power": 80,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 614,
@@ -5523,6 +6776,7 @@
     "description": "Can hit Flying foes, then knocks them to the ground.",
     "power": 90,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5532,6 +6786,7 @@
     "description": "Those hit by the wave can no longer escape.",
     "power": 90,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5541,6 +6796,7 @@
     "description": "Gathers the energy of the land to attack every foe.",
     "power": 90,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5550,6 +6806,7 @@
     "description": "Fires a great beam of light that also hurts the user.",
     "power": 140,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5559,7 +6816,10 @@
     "description": "Beams of glowing blue light blast both foes.",
     "power": 110,
     "acc": 85,
-    "properties": ["pulse"]
+    "cat": 1,
+    "properties": [
+      "pulse"
+    ]
   },
   {
     "id": 619,
@@ -5568,6 +6828,7 @@
     "description": "Fearsome blades of stone attack both foes.",
     "power": 120,
     "acc": 85,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5577,7 +6838,10 @@
     "description": "A strong attack but lowers the defensive stats.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 621,
@@ -5586,6 +6850,7 @@
     "description": "Uses a warp hole to attack. Can't be evaded.",
     "power": 100,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5595,7 +6860,10 @@
     "description": "Restores the user's HP. More HP in a sandstorm.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 623,
@@ -5604,7 +6872,10 @@
     "description": "Hits hard and first. Only works first turn.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 624,
@@ -5613,6 +6884,7 @@
     "description": "Protects user and poisons foes on contact.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5622,6 +6894,7 @@
     "description": "After being hit, foes can no longer escape.",
     "power": 80,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5631,7 +6904,10 @@
     "description": "Swings the arms to strike It ignores stat changes.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 627,
@@ -5640,7 +6916,10 @@
     "description": "Sings with bubbles. Cures burns on contact.",
     "power": 90,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 628,
@@ -5649,7 +6928,11 @@
     "description": "Swings the fist to strike. Lowers the user's Speed.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 629,
@@ -5658,7 +6941,10 @@
     "description": "Restores an ally's HP. Heals more on grass.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 630,
@@ -5667,7 +6953,11 @@
     "description": "Slams hard into the foe with its entire body.",
     "power": 95,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 631,
@@ -5676,7 +6966,10 @@
     "description": "Saps the foe's Attack to heal HP, then drops Attack.",
     "power": 0,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 632,
@@ -5685,7 +6978,11 @@
     "description": "Charges first turn, then chops with a blade of light.",
     "power": 125,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 633,
@@ -5694,15 +6991,17 @@
     "description": "Attacks with a flurry of small leaves.",
     "power": 40,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
     "id": 634,
     "name": "Spotlight",
     "type": 1,
-    "description": "Makes the foe attack the spotlighted Pokêmon.",
+    "description": "Makes the foe attack the spotlighted Pokémon.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5712,6 +7011,7 @@
     "description": "Attacks with a thread that poisons and drops Speed.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5721,6 +7021,7 @@
     "description": "Guarantees the next move will be a critical hit.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5730,6 +7031,7 @@
     "description": "Boosts the attacks of those with Plus or Minus.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5739,7 +7041,10 @@
     "description": "Chops the throat to disable sound moves for a while.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 639,
@@ -5748,7 +7053,10 @@
     "description": "Explodes on foes, but restores ally's HP.",
     "power": 90,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 640,
@@ -5757,7 +7065,10 @@
     "description": "Strangles the foe with a chain. The foe can't escape.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 641,
@@ -5766,6 +7077,7 @@
     "description": "The ground turns weird for 5 turns. Blocks priority.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5775,7 +7087,10 @@
     "description": "Lunges at the foe to lower its Attack stat.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 643,
@@ -5784,7 +7099,10 @@
     "description": "Whips the foe with fire lowering its Defense.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 644,
@@ -5793,7 +7111,10 @@
     "description": "It hits harder the more stat boosts the user has.",
     "power": 20,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 645,
@@ -5802,6 +7123,7 @@
     "description": "Burns out the user fully removing the Fire type.",
     "power": 130,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5811,6 +7133,7 @@
     "description": "Swaps user's Speed with the target's.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5820,7 +7143,10 @@
     "description": "Hits with an accurate horn that never misses.",
     "power": 70,
     "acc": 999,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 648,
@@ -5829,7 +7155,10 @@
     "description": "Cures the foe's status to restore HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 649,
@@ -5838,7 +7167,10 @@
     "description": "Dances with mystical power. Matches user's first type.",
     "power": 100,
     "acc": 100,
-    "properties": ["dance"]
+    "cat": 1,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 650,
@@ -5847,6 +7179,7 @@
     "description": "Hits with a ray that nullifies the foe's ability.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5856,7 +7189,11 @@
     "description": "An intense kick from the tropics. Lowers Attack.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 652,
@@ -5865,6 +7202,7 @@
     "description": "Orders the target to use its last move again.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5874,7 +7212,10 @@
     "description": "Heats up beak to attack. Burns foe on contact.",
     "power": 100,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 0,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 654,
@@ -5883,7 +7224,10 @@
     "description": "Makes a big noise with its scales. Drops Defense.",
     "power": 110,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 655,
@@ -5892,7 +7236,10 @@
     "description": "Swings its whole body like a hammer to damage.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 656,
@@ -5901,7 +7248,10 @@
     "description": "Violently swings around to hurt everyone nearby.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 657,
@@ -5910,6 +7260,7 @@
     "description": "Weakens all attacks, but only usable with hail.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -5919,6 +7270,7 @@
     "description": "Sets a shell trap that damages on contact.",
     "power": 150,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5928,6 +7280,7 @@
     "description": "A strong ray that harshly lowers Sp. Attack.",
     "power": 130,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5937,7 +7290,11 @@
     "description": "Chomps with psychic fangs. Destroys any barriers.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 661,
@@ -5946,7 +7303,10 @@
     "description": "Stomps around angrily. Stronger after a failure.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 662,
@@ -5955,6 +7315,7 @@
     "description": "Strikes with a haunted bone. Might drop Defense.",
     "power": 85,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -5964,7 +7325,10 @@
     "description": "Hits with a high-speed rock that always goes first.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 664,
@@ -5973,7 +7337,10 @@
     "description": "Slams the foe with water. Can lower Defense.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 665,
@@ -5982,6 +7349,7 @@
     "description": "A high power laser that forces recharge next turn.",
     "power": 160,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -5991,7 +7359,10 @@
     "description": "Steals the target's stat boosts, then attacks.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 667,
@@ -6000,7 +7371,10 @@
     "description": "A sun-fueled strike that ignores abilities.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 668,
@@ -6009,6 +7383,7 @@
     "description": "A moon-powered beam that ignores abilities.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6018,6 +7393,7 @@
     "description": "The user tears up, dropping Attack and Sp. Attack.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6027,7 +7403,10 @@
     "description": "An electrified impact that can cause flinching.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 671,
@@ -6036,6 +7415,7 @@
     "description": "Halves the foe's HP with the power of nature.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6045,7 +7425,10 @@
     "description": "An attack that changes with Memories.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 673,
@@ -6054,6 +7437,7 @@
     "description": "It explodes the user's head to damage everything around.",
     "power": 150,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6063,7 +7447,11 @@
     "description": "Hits with electrical fists. Normal moves turn Electric.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 675,
@@ -6072,6 +7460,7 @@
     "description": "User's highest attack stat determines its category.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6081,7 +7470,10 @@
     "description": "Electric bursts always go first and land a critical hit.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 677,
@@ -6090,6 +7482,7 @@
     "description": "A huge electrified wave that may paralyze the foe.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6099,7 +7492,10 @@
     "description": "Floats in air and dives at angle. May cause flinching.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 679,
@@ -6108,6 +7504,7 @@
     "description": "Pikachu's love increases its power. It never misses.",
     "power": 102,
     "acc": 0,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6117,7 +7514,10 @@
     "description": "An attack that absorbs all the damage inflicted.",
     "power": 90,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 681,
@@ -6126,6 +7526,7 @@
     "description": "Shoots a jolt of electricity that always paralyzes.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6135,7 +7536,10 @@
     "description": "User cloaked in fire charges. Leaves the foe with a burn.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 683,
@@ -6144,6 +7548,7 @@
     "description": "Telekinetic force that sets wall, lowering Sp. Atk damage.",
     "power": 80,
     "acc": 95,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6153,6 +7558,7 @@
     "description": "Acting badly, attacks. Sets wall, lowering Attack damage.",
     "power": 80,
     "acc": 95,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6162,6 +7568,7 @@
     "description": "Giant stalk scatters seeds that drain HP every turn.",
     "power": 95,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6171,6 +7578,7 @@
     "description": "Crystal from cold haze hits. Eliminates all stat changes.",
     "power": 95,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6180,6 +7588,7 @@
     "description": "Wrap foe with whirlwind of scent. Heals party's status.",
     "power": 95,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6189,7 +7598,10 @@
     "description": "Eevee's love increases its power. It never misses.",
     "power": 102,
     "acc": 0,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 689,
@@ -6198,7 +7610,11 @@
     "description": "The user spins and hits with its arms. May cause flinch.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 690,
@@ -6207,6 +7623,7 @@
     "description": "Unleashes core energy. 2x against Dynamaxed foes.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6216,7 +7633,10 @@
     "description": "The user ignores effects that draw in moves.",
     "power": 70,
     "acc": 100,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 692,
@@ -6225,7 +7645,11 @@
     "description": "Prevents the target from escaping.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 693,
@@ -6234,6 +7658,7 @@
     "description": "Consumes the user's Berry, then sharply raises Def.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6243,6 +7668,7 @@
     "description": "Raises all of the user's stats but prevents escape.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6252,6 +7678,7 @@
     "description": "Lowers the foe's Speed and makes it weak to Fire.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6261,7 +7688,10 @@
     "description": "Magic powder changes the target into a Psychic-type.",
     "power": 0,
     "acc": 100,
-    "properties": ["powder"]
+    "cat": 2,
+    "properties": [
+      "powder"
+    ]
   },
   {
     "id": 697,
@@ -6270,15 +7700,17 @@
     "description": "The user attacks twice. Two targets are hit once each.",
     "power": 50,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
     "id": 698,
     "name": "Teatime",
     "type": 1,
-    "description": "All Pokêmon have teatime and eat their Berries.",
+    "description": "All Pokémon have teatime and eat their Berries.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6288,6 +7720,7 @@
     "description": "Traps the foe to lower Def and Sp. Def each turn.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6297,7 +7730,10 @@
     "description": "Double power if the user moves before the target.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 701,
@@ -6306,7 +7742,11 @@
     "description": "Double power if the user moves before the target.",
     "power": 85,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 702,
@@ -6315,6 +7755,7 @@
     "description": "The user swaps effects on either side of the field.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6324,7 +7765,11 @@
     "description": "The user uses some of its HP to raise all its stats.",
     "power": 0,
     "acc": 100,
-    "properties": ["sound", "dance"]
+    "cat": 2,
+    "properties": [
+      "sound",
+      "dance"
+    ]
   },
   {
     "id": 704,
@@ -6333,7 +7778,10 @@
     "description": "Does more damage the higher the user's Def.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 705,
@@ -6342,6 +7790,7 @@
     "description": "The user sharply raises the target's Atk and Sp.Atk.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6351,6 +7800,7 @@
     "description": "Plays a drum to attack. The foe's Speed is lowered.",
     "power": 80,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6360,7 +7810,10 @@
     "description": "Snares the target in a snap trap for four to five turns.",
     "power": 100,
     "acc": 85,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 708,
@@ -6369,7 +7822,11 @@
     "description": "Launches a fiery ball at the target. It may cause a burn.",
     "power": 120,
     "acc": 90,
-    "properties": ["kicking", "ballistic"]
+    "cat": 0,
+    "properties": [
+      "kicking",
+      "ballistic"
+    ]
   },
   {
     "id": 709,
@@ -6378,7 +7835,11 @@
     "description": "Strikes as a sword. Deals 2x damage to Dynamaxed foes.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 710,
@@ -6387,7 +7848,10 @@
     "description": "Attacks as a shield. Deals 2x damage to Dynamaxed foes.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 711,
@@ -6396,6 +7860,7 @@
     "description": "Raises Speed to attack. The Type is based on its form.",
     "power": 110,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6405,7 +7870,10 @@
     "description": "Swings its tail to attack. Lowers the Atk of those hit.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 713,
@@ -6414,7 +7882,10 @@
     "description": "The user pokes the target with a pointed branch.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 714,
@@ -6423,7 +7894,10 @@
     "description": "The user twangs its guitar, causing strong vibrations.",
     "power": 80,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 715,
@@ -6432,6 +7906,7 @@
     "description": "Attacks with tart apple acid to lower the foe's Sp. Def.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6441,6 +7916,7 @@
     "description": "Drops an apple from above. Lowers the foe's Defense.",
     "power": 80,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6450,7 +7926,10 @@
     "description": "Attacks with spirit-breaking force. Lowers Sp. Atk.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 718,
@@ -6459,6 +7938,7 @@
     "description": "Emits a strange steam to potentially confuse the foe.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6468,7 +7948,10 @@
     "description": "Scatters water to restore the HP of itself and allies.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 720,
@@ -6477,6 +7960,7 @@
     "description": "Protects itself, harshly lowering Def on contact.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6486,7 +7970,10 @@
     "description": "Bows to stab the foe with hair. It never misses.",
     "power": 80,
     "acc": 999,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 722,
@@ -6495,6 +7982,7 @@
     "description": "Attacks with a thick leek. The user must then rest.",
     "power": 160,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6504,6 +7992,7 @@
     "description": "Eternatus' strongest move. The user rests next turn.",
     "power": 160,
     "acc": 90,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6513,6 +8002,7 @@
     "description": "Fires a beam of steel from its body. It hurts the user.",
     "power": 140,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6522,6 +8012,7 @@
     "description": "Power goes up and damages all foes on Psychic Terrain.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6531,7 +8022,10 @@
     "description": "Destroys terrain. Fails if ground isn't terrain.",
     "power": 130,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 727,
@@ -6540,6 +8034,7 @@
     "description": "Shoots scales 2 to 5 times. Ups Speed, lowers defense.",
     "power": 25,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6549,6 +8044,7 @@
     "description": "A 2-turn move that raises Sp. Attack before attacking.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6558,6 +8054,7 @@
     "description": "Deals better of physical and special damage. May poison.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6567,6 +8064,7 @@
     "description": "Hit everything and faint. Powers up on Misty Terrain.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6576,7 +8074,10 @@
     "description": "Gliding on ground, hits. Goes first on Grassy Terrain.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 732,
@@ -6585,6 +8086,7 @@
     "description": "This move's power doubles when on Electric Terrain.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6594,7 +8096,10 @@
     "description": "Type and power changes depending on the terrain.",
     "power": 50,
     "acc": 100,
-    "properties": ["pulse"]
+    "cat": 1,
+    "properties": [
+      "pulse"
+    ]
   },
   {
     "id": 734,
@@ -6603,7 +8108,10 @@
     "description": "User skitters behind foe to attack. Lowers foe's Sp. Atk.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 735,
@@ -6612,6 +8120,7 @@
     "description": "Foes that have stats upped during the turn get burned.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6621,7 +8130,10 @@
     "description": "If stats lowered during this turn, power is doubled.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 737,
@@ -6630,15 +8142,17 @@
     "description": "Control foe's item to attack. Fails if foe has no item.",
     "power": 110,
     "acc": 90,
+    "cat": 0,
     "properties": []
   },
   {
     "id": 738,
     "name": "Corrosive Gas",
     "type": 4,
-    "description": "Highly acidic gas melts items held by surrounding Pokêmon.",
+    "description": "Highly acidic gas melts items held by surrounding Pokémon.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6648,16 +8162,20 @@
     "description": "Properly coaches allies to up their Attack and Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
     "id": 740,
     "name": "Flip Turn",
     "type": 12,
-    "description": "Attacks and rushes back to switch with a party Pokêmon.",
+    "description": "Attacks and rushes back to switch with a party Pokémon.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 741,
@@ -6666,7 +8184,11 @@
     "description": "A 3-kick attack that gets more powerful with each hit.",
     "power": 20,
     "acc": 90,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 742,
@@ -6675,7 +8197,10 @@
     "description": "User slams the target with wings and hits twice in a row.",
     "power": 40,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 743,
@@ -6684,6 +8209,7 @@
     "description": "Throws scorching sand at the target. May leave a burn.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6693,7 +8219,10 @@
     "description": "Heals HP and status of itself and allies in battle.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 745,
@@ -6702,7 +8231,11 @@
     "description": "Mastering the Dark style, strikes with a critical hit.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 746,
@@ -6711,7 +8244,11 @@
     "description": "Mastering the Water style, strikes with 3 critical hits.",
     "power": 25,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 747,
@@ -6720,6 +8257,7 @@
     "description": "Traps the foe in a cage of electricity for 4 or 5 turns.",
     "power": 80,
     "acc": 90,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6729,6 +8267,7 @@
     "description": "The higher the user's HP the more damage caused.",
     "power": 150,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6738,6 +8277,7 @@
     "description": "Shoots psychic power from the eyes. May frostbite.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6747,6 +8287,7 @@
     "description": "An attack fueled by your wrath. May cause flinching.",
     "power": 90,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6756,7 +8297,11 @@
     "description": "Uses a lightning-like kick to hit. Lowers foe's Defense.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 752,
@@ -6765,6 +8310,7 @@
     "description": "Hurls a blizzard-cloaked icicle lance at foes.",
     "power": 120,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6774,6 +8320,7 @@
     "description": "Sends a frightful amount of small ghosts at foes.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6783,7 +8330,10 @@
     "description": "Attacks with psychic power. Foe's last move has 3 PP cut.",
     "power": 80,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 755,
@@ -6792,7 +8342,10 @@
     "description": "High critical hit chance. May paralyze, poison or drowse.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 756,
@@ -6801,7 +8354,10 @@
     "description": "Hits a foe with psychic energy. May raise Defense.",
     "power": 70,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 757,
@@ -6810,6 +8366,7 @@
     "description": "The user swaps its Attack and Defense stats.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6819,7 +8376,11 @@
     "description": "High critical hit ratio. Sets Splinters that hurt the foe.",
     "power": 65,
     "acc": 90,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 759,
@@ -6828,7 +8389,10 @@
     "description": "Wraps a foe in fierce winds. Varies with the user's form.",
     "power": 100,
     "acc": 90,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 760,
@@ -6837,6 +8401,7 @@
     "description": "A mysterious power strikes, raising the user's Sp. Atk.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6846,6 +8411,7 @@
     "description": "A rampage of 2 to 3 turns that confuses the user.",
     "power": 120,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6855,7 +8421,10 @@
     "description": "A slam shrouded in water. It also hurts the user.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 763,
@@ -6864,6 +8433,7 @@
     "description": "A user-hurting blast of amassed chlorophyll.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6873,6 +8443,7 @@
     "description": "Giant chunks of ice damage the foe. It may flinch.",
     "power": 120,
     "acc": 90,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6882,7 +8453,10 @@
     "description": "Dances to raise Attack, Defense and Speed.",
     "power": 0,
     "acc": 0,
-    "properties": ["dance"]
+    "cat": 2,
+    "properties": [
+      "dance"
+    ]
   },
   {
     "id": 766,
@@ -6891,7 +8465,11 @@
     "description": "Hits with a full-body tackle. Lowers the users's defenses.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 767,
@@ -6900,6 +8478,7 @@
     "description": "Can poison on impact. Powers up against poisoned foes.",
     "power": 60,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -6909,6 +8488,7 @@
     "description": "High critical hit ratio. Ups the user's Speed.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6918,6 +8498,7 @@
     "description": "Hex that may leave target Frostbitten.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6927,6 +8508,7 @@
     "description": "The user hardens their skin, sharply raising its Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -6936,7 +8518,10 @@
     "description": "High critical hit ratio. May lower Defense or flinch.",
     "power": 90,
     "acc": 100,
-    "properties": ["kicking"]
+    "cat": 0,
+    "properties": [
+      "kicking"
+    ]
   },
   {
     "id": 772,
@@ -6945,6 +8530,7 @@
     "description": "Hurts a foe harder if it has an ailment. May leave a burn.",
     "power": 60,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -6954,7 +8540,11 @@
     "description": "High critical hit ratio. Sets Splinters that hurt the foe.",
     "power": 65,
     "acc": 90,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 774,
@@ -6963,7 +8553,10 @@
     "description": "Hits with brutal, cold winds. May lower the foe's Speed.",
     "power": 100,
     "acc": 90,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 775,
@@ -6972,7 +8565,10 @@
     "description": "Hits with a brutal tempest. May inflict paralysis.",
     "power": 100,
     "acc": 90,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 776,
@@ -6981,7 +8577,10 @@
     "description": "Hits with brutally hot sand. May inflict a burn.",
     "power": 100,
     "acc": 90,
-    "properties": ["wind"]
+    "cat": 1,
+    "properties": [
+      "wind"
+    ]
   },
   {
     "id": 777,
@@ -6990,7 +8589,10 @@
     "description": "The user heals and cures itself and its ally.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 778,
@@ -6999,6 +8601,7 @@
     "description": "The user lifts its spirits to heal and strengthen itself.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7008,6 +8611,7 @@
     "description": "If the user's Terastallized, it hits with its Tera-type.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7017,6 +8621,7 @@
     "description": "Protects itself, lowering Speed on contact.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7026,7 +8631,11 @@
     "description": "May miss and hurt the kicker. May cause confusion.",
     "power": 120,
     "acc": 90,
-    "properties": ["contact", "kicking"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking"
+    ]
   },
   {
     "id": 782,
@@ -7035,6 +8644,7 @@
     "description": "This move deals more damage for each defeated ally.",
     "power": 50,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7044,6 +8654,7 @@
     "description": "A mind-affecting light harshly lowers Sp. Def.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7053,6 +8664,7 @@
     "description": "Boosts a user's stats depending on Tatsugiri.",
     "power": 80,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7062,7 +8674,11 @@
     "description": "A punch is thrown at blinding speed to strike first.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 786,
@@ -7071,6 +8687,7 @@
     "description": "Sharply ups target's Attack, harshly lowers its Defense.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7080,7 +8697,10 @@
     "description": "Furiously strains its legs. Harshly lowers user's Speed.",
     "power": 110,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 788,
@@ -7089,7 +8709,11 @@
     "description": "The user's fellows hit one to ten times in a row.",
     "power": 20,
     "acc": 90,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 789,
@@ -7098,7 +8722,10 @@
     "description": "Ice-covered feet hit a foe and destroy the terrain.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 790,
@@ -7107,16 +8734,22 @@
     "description": "Foe attacks next turn can't miss and do double damage.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 791,
     "name": "Revival Blessing",
     "type": 1,
-    "description": "Revives a fainted party ST and restores half of its HP.",
+    "description": "Revives a fainted party PKMN and restores half of its HP.",
     "power": 0,
     "acc": 0,
-    "properties": ["healing"]
+    "cat": 2,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 792,
@@ -7125,6 +8758,7 @@
     "description": "Hurts foe every turn. Double damage to Steel and Water.",
     "power": 40,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7134,7 +8768,10 @@
     "description": "Hits target with splashes of water 3 times in a row.",
     "power": 30,
     "acc": 90,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 794,
@@ -7143,7 +8780,10 @@
     "description": "Erases trap moves and Leech Seed. Poisons adjacent foes.",
     "power": 30,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 795,
@@ -7152,6 +8792,7 @@
     "description": "Changes user's and ally's Ability into the target's.",
     "power": 0,
     "acc": 100,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7161,6 +8802,7 @@
     "description": "Sharply boosts offenses and Speed by using its own HP.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7170,7 +8812,11 @@
     "description": "User slashes the foe after kowtowing. It never misses.",
     "power": 85,
     "acc": 999,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 798,
@@ -7179,6 +8825,7 @@
     "description": "Rigged bouquet. Always gets a critical hit, never missing.",
     "power": 70,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7188,7 +8835,10 @@
     "description": "Flames scorch the target. Boosts the user's Sp. Atk.",
     "power": 80,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 800,
@@ -7197,7 +8847,12 @@
     "description": "Hits with light, fluid dance steps. Ups the user's Speed.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "kicking", "dance"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "kicking",
+      "dance"
+    ]
   },
   {
     "id": 801,
@@ -7206,7 +8861,10 @@
     "description": "Tackle that breaks barriers. User's form determines type.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 802,
@@ -7215,6 +8873,7 @@
     "description": "Lowers the user's Sp. Atk. Money is recovered after.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7224,6 +8883,7 @@
     "description": "Summons a ruinous disaster and cuts half the foe's HP.",
     "power": 1,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7233,7 +8893,10 @@
     "description": "Prehistoric explosion that's stronger if super effective.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 805,
@@ -7242,7 +8905,10 @@
     "description": "Futuristic electricity. It's stronger if super effective.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 1,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 806,
@@ -7251,6 +8917,7 @@
     "description": "Creates a Substitute for itself before switching out.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7260,6 +8927,7 @@
     "description": "Bad joke summons snowstorm. The user also switches out.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7269,6 +8937,7 @@
     "description": "User tidies up hazards and raises its Attack and Speed.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7278,6 +8947,7 @@
     "description": "Summons a snowstorm that lasts for five turns.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7287,7 +8957,10 @@
     "description": "The user pounces on the foe, lowering its Speed.",
     "power": 60,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 811,
@@ -7296,7 +8969,10 @@
     "description": "The user attacks suddenly, raising its Speed.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 812,
@@ -7305,6 +8981,7 @@
     "description": "A shower with ice-cold water lowers the target's Attack.",
     "power": 50,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7314,7 +8991,10 @@
     "description": "A spinning pointed part bypasses a foe's Protect.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 814,
@@ -7323,6 +9003,7 @@
     "description": "Mystical eye-beams that hit the target twice in a row.",
     "power": 50,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7332,7 +9013,11 @@
     "description": "The more the user has been hit, the stronger the move.",
     "power": 50,
     "acc": 100,
-    "properties": ["contact", "punching"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "punching"
+    ]
   },
   {
     "id": 816,
@@ -7341,6 +9026,7 @@
     "description": "A strong attack but lowers the defensive stats.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7350,7 +9036,12 @@
     "description": "An attack that absorbs half the damage inflicted.",
     "power": 90,
     "acc": 100,
-    "properties": ["contact", "slicing", "healing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing",
+      "healing"
+    ]
   },
   {
     "id": 818,
@@ -7359,7 +9050,10 @@
     "description": "Discharges all electricity, losing the Electric type.",
     "power": 120,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 819,
@@ -7368,6 +9062,7 @@
     "description": "Swings a huge hammer. Can't be used twice in a row.",
     "power": 160,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7377,7 +9072,10 @@
     "description": "Retaliates strongly against who last hurt the user.",
     "power": 1,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 821,
@@ -7386,7 +9084,10 @@
     "description": "Pressurized water cut with a high critical-hit ratio.",
     "power": 70,
     "acc": 100,
-    "properties": ["slicing"]
+    "cat": 0,
+    "properties": [
+      "slicing"
+    ]
   },
   {
     "id": 822,
@@ -7395,6 +9096,7 @@
     "description": "---",
     "power": 80,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7404,6 +9106,7 @@
     "description": "---",
     "power": 80,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7413,6 +9116,7 @@
     "description": "---",
     "power": 100,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7422,6 +9126,7 @@
     "description": "---",
     "power": 100,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7431,6 +9136,7 @@
     "description": "---",
     "power": 100,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7440,7 +9146,11 @@
     "description": "This move's power increases when on Electric Terrain.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 828,
@@ -7449,6 +9159,7 @@
     "description": "This move's power increases under harsh sunlight.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7458,6 +9169,7 @@
     "description": "Unleashes the blood moon. Can't be used twice in a row.",
     "power": 140,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7467,7 +9179,10 @@
     "description": "Absorbs half the damage inflicted. May cause a burn.",
     "power": 80,
     "acc": 100,
-    "properties": ["healing"]
+    "cat": 1,
+    "properties": [
+      "healing"
+    ]
   },
   {
     "id": 831,
@@ -7476,7 +9191,10 @@
     "description": "Lowers the foe's speed each turn for 3 turns.",
     "power": 60,
     "acc": 85,
-    "properties": ["ballistic"]
+    "cat": 1,
+    "properties": [
+      "ballistic"
+    ]
   },
   {
     "id": 832,
@@ -7485,6 +9203,7 @@
     "description": "Type changes with held mask. High critical-hit ratio.",
     "power": 100,
     "acc": 100,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7494,6 +9213,7 @@
     "description": "Gathers electricity, then fires a high-voltage shot.",
     "power": 130,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7503,6 +9223,7 @@
     "description": "In Terapagos's Stellar Form, it hits all foes.",
     "power": 120,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7512,6 +9233,7 @@
     "description": "Shoots a beam of light. Sometimes twice as strong.",
     "power": 80,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7521,6 +9243,7 @@
     "description": "Evades attack, and burns the foe if struck.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7530,6 +9253,7 @@
     "description": "Strikes first if the foe is preparing an attack.",
     "power": 70,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7539,7 +9263,11 @@
     "description": "An attack that hits foes using moves like Protect.",
     "power": 95,
     "acc": 100,
-    "properties": ["contact", "slicing"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "slicing"
+    ]
   },
   {
     "id": 839,
@@ -7548,7 +9276,10 @@
     "description": "Launches particle blades at the target. Strikes twice.",
     "power": 50,
     "acc": 999,
-    "properties": ["slicing"]
+    "cat": 1,
+    "properties": [
+      "slicing"
+    ]
   },
   {
     "id": 840,
@@ -7557,7 +9288,10 @@
     "description": "The higher the foe's HP the more damage caused.",
     "power": 100,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 841,
@@ -7566,6 +9300,7 @@
     "description": "Increases allies' critical hit ratio, especially if Dragons.",
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7575,7 +9310,10 @@
     "description": "Confuses foe if its stats were boosted this turn.",
     "power": 80,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 843,
@@ -7584,7 +9322,10 @@
     "description": "A desperation attack. Power doubles if last move failed.",
     "power": 75,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 844,
@@ -7593,7 +9334,10 @@
     "description": "An electrified slam. If it misses, the user is hurt.",
     "power": 120,
     "acc": 95,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 845,
@@ -7602,7 +9346,10 @@
     "description": "Unpleasant sound waves that damage and prevent healing.",
     "power": 75,
     "acc": 100,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 846,
@@ -7611,7 +9358,10 @@
     "description": "Makes the target flinch if readying a priority move.",
     "power": 65,
     "acc": 100,
-    "properties": ["contact"]
+    "cat": 0,
+    "properties": [
+      "contact"
+    ]
   },
   {
     "id": 847,
@@ -7620,6 +9370,7 @@
     "description": "A corrosive chain attack that may badly poison.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7629,7 +9380,11 @@
     "description": "The user bites the foe with aquatic force.",
     "power": 80,
     "acc": 100,
-    "properties": ["contact", "biting"]
+    "cat": 0,
+    "properties": [
+      "contact",
+      "biting"
+    ]
   },
   {
     "id": 849,
@@ -7638,6 +9393,7 @@
     "description": "Sends the foe to the abyss. May induce sleep.",
     "power": 100,
     "acc": 100,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7647,6 +9403,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7656,6 +9413,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7665,6 +9423,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7674,6 +9433,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7683,6 +9443,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7692,6 +9453,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7701,6 +9463,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7710,6 +9473,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7719,6 +9483,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7728,6 +9493,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7737,6 +9503,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7746,6 +9513,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7755,6 +9523,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7764,6 +9533,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7773,6 +9543,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7782,6 +9553,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7791,6 +9563,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7800,6 +9573,7 @@
     "description": null,
     "power": 1,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7809,6 +9583,7 @@
     "description": null,
     "power": 210,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7818,6 +9593,7 @@
     "description": null,
     "power": 195,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7827,6 +9603,7 @@
     "description": null,
     "power": 175,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7836,6 +9613,7 @@
     "description": null,
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7845,6 +9623,7 @@
     "description": null,
     "power": 210,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7854,6 +9633,7 @@
     "description": null,
     "power": 185,
     "acc": 0,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7863,6 +9643,7 @@
     "description": null,
     "power": 180,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7872,6 +9653,7 @@
     "description": null,
     "power": 180,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7881,6 +9663,7 @@
     "description": null,
     "power": 195,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7890,6 +9673,7 @@
     "description": null,
     "power": 190,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7899,6 +9683,7 @@
     "description": null,
     "power": 190,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7908,7 +9693,10 @@
     "description": null,
     "power": 185,
     "acc": 999,
-    "properties": ["sound"]
+    "cat": 1,
+    "properties": [
+      "sound"
+    ]
   },
   {
     "id": 880,
@@ -7917,6 +9705,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7926,6 +9715,7 @@
     "description": null,
     "power": 200,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7935,6 +9725,7 @@
     "description": null,
     "power": 200,
     "acc": 999,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7944,6 +9735,7 @@
     "description": null,
     "power": 200,
     "acc": 0,
+    "cat": 1,
     "properties": []
   },
   {
@@ -7953,6 +9745,7 @@
     "description": null,
     "power": 195,
     "acc": 999,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7962,6 +9755,7 @@
     "description": null,
     "power": 0,
     "acc": 0,
+    "cat": 2,
     "properties": []
   },
   {
@@ -7971,6 +9765,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7980,6 +9775,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7989,6 +9785,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -7998,6 +9795,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8007,6 +9805,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8016,6 +9815,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8025,6 +9825,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8034,6 +9835,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8043,6 +9845,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8052,6 +9855,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8061,6 +9865,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8070,6 +9875,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8079,6 +9885,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8088,6 +9895,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8097,6 +9905,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8106,6 +9915,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8115,6 +9925,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8124,6 +9935,7 @@
     "description": null,
     "power": 1,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8133,6 +9945,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8142,6 +9955,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8151,6 +9965,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8160,6 +9975,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8169,6 +9985,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8178,6 +9995,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8187,6 +10005,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8196,6 +10015,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8205,6 +10025,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8214,6 +10035,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8223,6 +10045,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8232,6 +10055,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8241,6 +10065,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8250,6 +10075,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8259,6 +10085,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8268,6 +10095,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8277,6 +10105,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8286,6 +10115,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8295,6 +10125,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8304,6 +10135,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8313,6 +10145,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8322,6 +10155,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8331,6 +10165,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8340,6 +10175,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8349,6 +10185,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8358,6 +10195,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8367,6 +10205,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8376,6 +10215,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8385,6 +10225,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8394,6 +10235,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8403,6 +10245,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8412,6 +10255,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   },
   {
@@ -8421,6 +10265,7 @@
     "description": null,
     "power": 10,
     "acc": 0,
+    "cat": 0,
     "properties": []
   }
 ]

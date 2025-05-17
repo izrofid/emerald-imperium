@@ -51,6 +51,7 @@ TEST("Extract Moves")
         }
         DebugPrintf(""); // Blank line
 
+
         // Print Accuracy
         if (move->effect == EFFECT_HIT && move->accuracy == 0)
         {
@@ -61,6 +62,11 @@ TEST("Extract Moves")
             DebugPrintf("  acc: %u", move->accuracy);
         }
         DebugPrintf(""); // Blank line
+
+        //Print Category
+        {
+            DebugPrintf("  cat: %u", move->category);
+        }
 
         // Print move special properties
         char properties[256] = {0}; // Buffer to hold properties
